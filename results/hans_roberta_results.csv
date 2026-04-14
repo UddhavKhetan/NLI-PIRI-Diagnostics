@@ -1,0 +1,1001 @@
+premise,hypothesis,gold_label,heuristic,pred_full,pred_hyp_only,pred_prem_only
+The actor by the professor waited .,The professor waited .,2,subsequence,2,1,1
+The professor and the judge thanked the actor .,The judge thanked the professor .,2,lexical_overlap,2,1,1
+The students recognized the author studied in the laboratory .,The author studied in the laboratory .,2,subsequence,0,1,1
+Clearly the lawyers helped the senators .,The lawyers helped the senators .,0,constituent,0,1,1
+The actors left the island .,The actors left .,0,subsequence,0,1,1
+Happy senators encouraged the student .,Senators encouraged the student .,0,subsequence,0,1,1
+The lawyers ate the salad .,The lawyers ate .,0,subsequence,0,2,1
+The judge next to the senator called the professors .,The judge called the professors .,0,lexical_overlap,0,2,1
+"The banker advised the presidents , and the judge supported the actor .",The judge supported the actor .,0,constituent,0,1,1
+Of course the tourists resigned .,The tourists resigned .,0,constituent,0,2,1
+"If the lawyers introduced the managers , the scientists shouted .",The scientists shouted .,2,constituent,0,1,1
+"The actor resigned , and the tourists advised the banker .",The tourists advised the banker .,0,constituent,0,1,1
+The banker and the presidents stopped the scientists .,The banker stopped the scientists .,0,lexical_overlap,0,1,1
+The lawyers who called the manager believed the authors .,The manager believed the lawyers .,2,lexical_overlap,2,1,1
+The lawyer was advised by the secretary .,The lawyer advised the secretary .,2,lexical_overlap,2,1,1
+The judges and the athlete advised the secretaries .,The judges advised the secretaries .,0,lexical_overlap,0,1,1
+The doctor behind the tourist recommended the actors .,The doctor recommended the actors .,0,lexical_overlap,0,1,1
+The actor knew that the judges ran .,The judges ran .,0,constituent,0,2,0
+The doctors who recognized the scientists contacted the secretary .,The doctors contacted the secretary .,0,lexical_overlap,0,1,1
+The bankers saw the president by the author .,The bankers saw the president .,0,subsequence,0,1,1
+"Since the professors saw the students , the managers called the artists .",The managers called the artists .,0,constituent,0,2,1
+Important secretaries introduced the scientist .,Secretaries introduced the scientist .,0,subsequence,0,1,1
+The student who admired the athletes supported the scientists .,The scientists supported the student .,2,lexical_overlap,2,1,1
+The secretaries explored the forest .,The secretaries explored .,0,subsequence,0,1,1
+The actors by the professor avoided the authors .,The professor avoided the authors .,2,subsequence,0,2,1
+"Because the tourist contacted the artist , the presidents saw the authors .",The tourist contacted the artist .,0,constituent,0,1,1
+The senator supported the banker who the artist called .,The banker supported the senator .,2,lexical_overlap,2,1,1
+Supposedly the banker encouraged the secretaries .,The banker encouraged the secretaries .,2,constituent,0,1,1
+The actors that mentioned the professor avoided the secretary .,The professor avoided the actors .,2,lexical_overlap,2,2,1
+The professor and the senators saw the scientists .,The professor saw the scientists .,0,lexical_overlap,0,1,1
+The secretary claimed that the bankers waited .,The bankers waited .,2,constituent,0,1,1
+The secretaries advised the professor behind the president .,The secretaries advised the professor .,0,subsequence,0,1,1
+The tourist by the student thanked the secretaries .,The tourist thanked the secretaries .,0,lexical_overlap,0,1,1
+The author was mentioned by the judge .,The author mentioned the judge .,2,lexical_overlap,0,1,1
+After the professor stopped the judges waited .,The professor stopped the judges .,2,subsequence,0,1,1
+The lawyers and the students recommended the athletes .,The lawyers recommended the athletes .,0,lexical_overlap,0,1,1
+The author helped the tourists that shouted .,The author helped the tourists .,0,subsequence,0,1,0
+The judge and the presidents recognized the lawyers .,The judge recognized the lawyers .,0,lexical_overlap,0,1,1
+"Since the tourist waited , the senators supported the lawyer .",The tourist waited .,0,constituent,0,1,1
+"Though the banker encouraged the managers , the senators admired the presidents .",The senators admired the presidents .,0,constituent,0,1,1
+The artists believed the doctor ran .,The artists believed the doctor .,2,subsequence,0,1,1
+The athletes won the competition .,The athletes won .,0,subsequence,0,1,0
+The scientists assumed that the bankers mentioned the managers .,The bankers mentioned the managers .,2,constituent,1,1,1
+The scientists recognized the banker and the athlete .,The banker recognized the athlete .,2,lexical_overlap,2,1,1
+"While the authors slept , the managers contacted the lawyer .",The authors slept .,0,constituent,0,2,1
+The students thanked the scientist next to the tourists .,The tourists thanked the students .,2,lexical_overlap,2,1,1
+The artists knew the presidents avoided the lawyer .,The artists knew the presidents .,2,subsequence,0,1,1
+"The tourists advised the professors , or the senator saw the authors .",The senator saw the authors .,2,constituent,0,1,1
+The lawyer mentioned the scientists who the managers introduced .,The scientists mentioned the managers .,2,lexical_overlap,2,1,1
+The presidents ate the ice cream .,The presidents ate .,0,subsequence,0,2,1
+Hopefully the manager shouted .,The manager shouted .,2,constituent,0,1,1
+The lawyer avoided the judges in front of the banker .,The judges avoided the banker .,2,lexical_overlap,2,2,1
+Definitely the managers encouraged the scientist .,The managers encouraged the scientist .,0,constituent,0,1,1
+The professor in front of the lawyer supported the scientists .,The professor supported the scientists .,0,lexical_overlap,0,1,1
+The scientists were admired by the professors .,The scientists admired the professors .,2,lexical_overlap,0,1,0
+The presidents heard the bankers performed .,The presidents heard the bankers .,2,subsequence,0,1,1
+The athletes mentioned the bankers and the secretary .,The athletes mentioned the secretary .,0,lexical_overlap,0,2,1
+The scientists were mentioned by the artists .,The scientists mentioned the artists .,2,lexical_overlap,2,2,1
+"Since the secretary shouted , the student contacted the scientists .",The secretary shouted .,0,constituent,0,1,1
+The banker contacted the author who stopped the athlete .,The author stopped the athlete .,0,lexical_overlap,0,1,1
+The artists next to the secretaries thanked the lawyers .,The secretaries thanked the artists .,2,lexical_overlap,2,1,1
+"Unless the doctor shouted , the presidents danced .",The presidents danced .,2,constituent,0,2,1
+The president near the author avoided the artist .,The author avoided the artist .,2,subsequence,2,2,1
+Supposedly the student mentioned the tourist .,The student mentioned the tourist .,2,constituent,0,1,1
+The senator believed the tourists waited .,The senator believed the tourists .,2,subsequence,0,1,1
+"Unless the students thanked the secretary , the tourist introduced the judge .",The students thanked the secretary .,2,constituent,2,1,2
+The doctors were supported by the athletes .,The doctors supported the athletes .,2,lexical_overlap,0,1,0
+The student saw the actor that introduced the president .,The student saw the actor .,0,subsequence,0,1,1
+The tourists behind the actor recommended the authors .,The tourists recommended the authors .,0,lexical_overlap,0,1,1
+The doctors behind the banker resigned .,The banker resigned .,2,subsequence,0,1,1
+The professors assumed that the students encouraged the actors .,The students encouraged the actors .,2,constituent,1,1,1
+The actor that helped the judge arrived .,The judge arrived .,2,subsequence,0,1,1
+"After the athletes admired the senators , the scientists supported the artists .",The athletes admired the senators .,0,constituent,0,1,1
+After the tourist presented the artists saw the lawyers .,The tourist presented the artists .,2,subsequence,0,1,1
+The lawyer that the presidents believed admired the students .,The presidents believed the lawyer .,0,lexical_overlap,0,1,1
+The president helped the lawyers behind the manager .,The president helped the lawyers .,0,subsequence,0,1,1
+The lawyer in front of the president contacted the senator .,The lawyer contacted the senator .,0,lexical_overlap,0,1,1
+The authors knew the judges shouted .,The authors knew the judges .,2,subsequence,0,1,1
+The senator knew the doctor performed .,The senator knew the doctor .,2,subsequence,0,1,1
+The presidents saw the artists and the student .,The presidents saw the artists .,0,subsequence,0,1,1
+The doctors and the tourist supported the scientists .,The doctors supported the tourist .,2,lexical_overlap,0,1,0
+The artist next to the bankers saw the president .,The artist saw the president .,0,lexical_overlap,0,1,1
+The author was recommended by the presidents .,The presidents recommended the author .,0,lexical_overlap,0,1,0
+Important doctors introduced the actors .,Doctors introduced the actors .,0,subsequence,0,1,1
+"Unless the senators advised the professor , the artist saw the students .",The artist saw the students .,2,constituent,0,1,1
+"Whether or not the students performed , the secretary mentioned the scientists .",The secretary mentioned the scientists .,0,constituent,0,1,1
+The manager mentioned the lawyers next to the actors .,The lawyers mentioned the manager .,2,lexical_overlap,2,1,1
+The tourist who introduced the bankers encouraged the presidents .,The tourist introduced the bankers .,0,lexical_overlap,0,1,1
+The tourist and the author ran .,The author ran .,0,subsequence,0,2,1
+"After the artist admired the senator , the lawyer thanked the bankers .",The artist admired the senator .,0,constituent,0,1,2
+The judge believed the actors and the professors .,The judge believed the professors .,0,lexical_overlap,0,1,1
+"The secretary called the scientists , and the actors shouted .",The secretary called the scientists .,0,constituent,0,1,1
+The judge that believed the senators shouted .,The senators shouted .,2,subsequence,2,1,1
+The scientist behind the student helped the judges .,The student helped the judges .,2,subsequence,0,1,1
+"Though the tourists danced , the judge ran .",The tourists danced .,0,constituent,0,1,1
+Of course the secretary recommended the authors .,The secretary recommended the authors .,0,constituent,0,1,1
+The actor advised the managers by the student .,The actor advised the managers .,0,subsequence,0,1,1
+Serious actors mentioned the athlete .,Actors mentioned the athlete .,0,subsequence,0,1,1
+The authors by the athletes slept .,The athletes slept .,2,subsequence,0,2,1
+"If the judge saw the president , the senator arrived .",The senator arrived .,2,constituent,0,0,1
+"Whether or not the scientists believed the author , the judge danced .",The scientists believed the author .,2,constituent,1,1,1
+The students thanked the president .,The president thanked the students .,2,lexical_overlap,2,1,1
+Suddenly the lawyers encouraged the tourist .,The lawyers encouraged the tourist .,0,constituent,0,1,1
+The president that the banker mentioned recommended the doctor .,The doctor recommended the banker .,2,lexical_overlap,2,1,1
+The professors behind the doctor admired the banker .,The professors admired the banker .,0,lexical_overlap,0,1,0
+Maybe the president avoided the secretary .,The president avoided the secretary .,2,constituent,1,1,1
+"The senator encouraged the lawyers , or the doctors arrived .",The senator encouraged the lawyers .,2,constituent,0,1,1
+The lawyer was supported by the president .,The president supported the lawyer .,0,lexical_overlap,0,1,1
+The managers avoided the secretaries who the bankers saw .,The bankers avoided the managers .,2,lexical_overlap,2,1,1
+The presidents who helped the lawyer resigned .,The lawyer resigned .,2,subsequence,0,2,1
+Suddenly the athlete shouted .,The athlete shouted .,0,constituent,0,1,1
+"The authors thanked the athletes , or the manager mentioned the tourists .",The authors thanked the athletes .,2,constituent,0,1,1
+The athlete presented in the laboratory performed .,The athlete presented in the laboratory .,2,subsequence,0,2,1
+The scientists by the authors believed the lawyers .,The scientists believed the lawyers .,0,lexical_overlap,0,1,1
+When the senators stopped the artist arrived .,The senators stopped the artist .,2,subsequence,0,1,1
+The secretaries that the athletes stopped helped the student .,The secretaries helped the student .,0,lexical_overlap,0,1,1
+"The senator recognized the tourist , and the bankers performed .",The bankers performed .,0,constituent,0,1,1
+Maybe the students performed .,The students performed .,2,constituent,0,1,0
+The athletes said that the scientist danced .,The scientist danced .,2,constituent,0,2,1
+Since the judge studied the senator encouraged the artist .,The judge studied the senator .,2,subsequence,0,1,1
+"After the lawyers mentioned the authors , the judges recognized the student .",The judges recognized the student .,0,constituent,0,1,1
+The athletes supported the presidents and the lawyer .,The athletes supported the presidents .,0,subsequence,0,1,1
+The author read the book .,The author read .,0,subsequence,0,1,1
+The lawyer and the tourist mentioned the bankers .,The lawyer mentioned the bankers .,0,lexical_overlap,0,1,1
+"If the scientists slept , the tourist resigned .",The tourist resigned .,2,constituent,0,2,1
+The senators remembered that the president recommended the professors .,The president recommended the professors .,0,constituent,0,1,1
+The lawyers learned that the doctor shouted .,The doctor shouted .,0,constituent,0,1,1
+The scientists who the presidents believed recommended the students .,The scientists recommended the students .,0,lexical_overlap,0,1,1
+The actor saw the doctor in front of the author .,The actor saw the doctor .,0,subsequence,0,1,1
+The professor was advised by the scientists .,The scientists advised the professor .,0,lexical_overlap,0,1,1
+"The professor recognized the banker , and the artists avoided the actors .",The artists avoided the actors .,0,constituent,0,1,1
+The actors were believed by the athlete .,The athlete believed the actors .,0,lexical_overlap,0,1,1
+"Unless the scientist waited , the actor danced .",The actor danced .,2,constituent,0,1,1
+"The scientist arrived , and the artists waited .",The scientist arrived .,0,constituent,0,1,0
+When the author moved the lawyer thanked the professor .,The author moved the lawyer .,2,subsequence,0,1,1
+The doctor who the senator supported stopped the judges .,The doctor stopped the judges .,0,lexical_overlap,0,2,1
+The bankers who called the doctors saw the students .,The bankers saw the students .,0,lexical_overlap,0,1,1
+The professor supported the author who the athlete called .,The athlete called the author .,0,lexical_overlap,0,2,1
+The scientist by the manager believed the presidents .,The presidents believed the scientist .,2,lexical_overlap,2,1,1
+The banker advised the doctors who the professors introduced .,The professors advised the banker .,2,lexical_overlap,2,1,1
+The senators that the author saw helped the tourists .,The author saw the senators .,0,lexical_overlap,0,1,1
+The judges encouraged the scientist and the students .,The judges encouraged the students .,0,lexical_overlap,0,1,1
+Hopefully the judge helped the bankers .,The judge helped the bankers .,2,constituent,1,1,0
+The authors near the senator supported the scientists .,The senator supported the scientists .,2,subsequence,2,1,1
+"Though the senators recommended the athlete , the secretaries slept .",The secretaries slept .,0,constituent,0,2,1
+"The secretaries danced , and the bankers performed .",The bankers performed .,0,constituent,0,1,1
+"The doctors danced , or the student mentioned the tourist .",The doctors danced .,2,constituent,0,2,1
+The judge who introduced the presidents recommended the scientist .,The presidents recommended the scientist .,2,subsequence,2,1,1
+The president helped the actor .,The actor helped the president .,2,lexical_overlap,2,1,1
+The managers admired the tourist .,The tourist admired the managers .,2,lexical_overlap,2,1,0
+"The doctors waited , and the students believed the scientist .",The doctors waited .,0,constituent,0,1,0
+"Although the athlete introduced the author , the scientists mentioned the lawyers .",The athlete introduced the author .,0,constituent,0,1,1
+The athletes were advised by the scientist .,The scientist advised the athletes .,0,lexical_overlap,0,1,1
+The bankers who danced stopped the tourists .,The bankers stopped the tourists .,0,lexical_overlap,0,1,1
+The scientist who advised the author saw the professors .,The author saw the professors .,2,subsequence,0,1,1
+The lawyers and the senators contacted the managers .,The lawyers contacted the senators .,2,lexical_overlap,2,1,1
+The judge recognized the managers .,The managers recognized the judge .,2,lexical_overlap,2,1,1
+The judge paid in the library admired the managers .,The judge paid in the library .,2,subsequence,0,2,1
+"The actors recognized the scientists , or the secretary admired the banker .",The actors recognized the scientists .,2,constituent,0,1,1
+Probably the senators encouraged the athletes .,The senators encouraged the athletes .,2,constituent,0,1,1
+"Although the tourist danced , the doctors shouted .",The doctors shouted .,0,constituent,0,1,1
+"If the managers resigned , the artist performed .",The artist performed .,2,constituent,0,0,1
+The lawyer hoped that the secretaries helped the students .,The secretaries helped the students .,2,constituent,1,1,1
+The secretary and the president thanked the tourist .,The president thanked the secretary .,2,lexical_overlap,2,1,1
+Happy students introduced the secretary .,Students introduced the secretary .,0,subsequence,0,1,1
+The secretary and the authors thanked the senators .,The secretary thanked the senators .,0,lexical_overlap,0,1,1
+The actors believed the athlete that stopped the banker .,The actors believed the athlete .,0,subsequence,0,1,1
+The artists remembered that the managers ran .,The managers ran .,0,constituent,0,2,1
+The students that the secretary helped introduced the judge .,The students introduced the judge .,0,lexical_overlap,0,1,1
+Suddenly the lawyers introduced the tourists .,The lawyers introduced the tourists .,0,constituent,0,1,1
+The author recognized the student who avoided the artist .,The student recognized the author .,2,lexical_overlap,2,1,1
+"Though the actor performed , the judges recommended the presidents .",The judges recommended the presidents .,0,constituent,0,1,1
+The presidents admired the lawyers and the judge .,The judge admired the lawyers .,2,lexical_overlap,1,1,0
+The tourist that the doctors advised called the banker .,The doctors called the tourist .,2,lexical_overlap,2,2,1
+The secretaries paid the students .,The secretaries paid .,0,subsequence,0,1,1
+Although the athlete presented the author waited .,The athlete presented the author .,2,subsequence,0,2,1
+The banker was supported by the author .,The banker supported the author .,2,lexical_overlap,0,1,1
+"Because the managers stopped the bankers , the judges shouted .",The managers stopped the bankers .,0,constituent,0,1,1
+The artist encouraged the president investigated in the laboratory .,The president investigated in the laboratory .,2,subsequence,0,1,1
+The actor stopped the scientist that the doctor called .,The doctor called the scientist .,0,lexical_overlap,0,2,1
+"Unless the president advised the manager , the doctors admired the judge .",The president advised the manager .,2,constituent,0,1,1
+Hopefully the president ran .,The president ran .,2,constituent,0,2,1
+The actors recommended the lawyers by the managers .,The lawyers recommended the managers .,2,lexical_overlap,2,1,1
+The secretary that encouraged the doctor recognized the actors .,The doctor recognized the actors .,2,subsequence,0,1,1
+"The actors slept , or the judges shouted .",The judges shouted .,2,constituent,0,1,1
+The tourist claimed that the doctor saw the scientist .,The doctor saw the scientist .,2,constituent,0,1,1
+The artist saw the lawyers .,The lawyers saw the artist .,2,lexical_overlap,2,1,1
+The artist behind the managers mentioned the judges .,The managers mentioned the artist .,2,lexical_overlap,2,1,1
+"Since the managers admired the president , the judge waited .",The managers admired the president .,0,constituent,0,1,1
+The senators thanked the bankers who the doctor encouraged .,The senators thanked the bankers .,0,subsequence,0,1,1
+The president by the actor called the athlete .,The actor called the president .,2,lexical_overlap,2,2,2
+"The secretary advised the artist , and the author thanked the student .",The author thanked the student .,0,constituent,0,1,1
+The lawyers knew that the banker shouted .,The banker shouted .,0,constituent,0,1,1
+The actor was advised by the bankers .,The actor advised the bankers .,2,lexical_overlap,0,1,1
+The senator presented in the school encouraged the bankers .,The senator presented in the school .,2,subsequence,0,1,1
+The scientists supported the student next to the artists .,The student supported the artists .,2,lexical_overlap,2,1,1
+"Before the artists shouted , the bankers slept .",The artists shouted .,0,constituent,0,1,1
+The judge read the book .,The judge read .,0,subsequence,0,1,1
+Supposedly the secretary supported the professors .,The secretary supported the professors .,2,constituent,0,1,1
+The tourists that helped the senator recognized the scientists .,The tourists helped the senator .,0,lexical_overlap,0,1,0
+The doctors admired the students and the author .,The students admired the author .,2,lexical_overlap,2,1,0
+The lawyers encouraged the scientists behind the banker .,The lawyers encouraged the scientists .,0,subsequence,0,1,1
+"Since the student saw the doctors , the lawyer contacted the artist .",The student saw the doctors .,0,constituent,0,1,2
+Serious professors advised the lawyers .,Professors advised the lawyers .,0,subsequence,0,1,1
+The athlete paid the banker .,The athlete paid .,0,subsequence,0,1,1
+"Although the banker avoided the managers , the lawyers stopped the doctors .",The banker avoided the managers .,0,constituent,0,1,1
+"While the judge believed the senators , the doctor recognized the scientists .",The doctor recognized the scientists .,0,constituent,0,1,1
+The actor was contacted by the presidents .,The actor contacted the presidents .,2,lexical_overlap,0,1,1
+The lawyer was introduced by the presidents .,The lawyer introduced the presidents .,2,lexical_overlap,2,2,1
+The athlete near the judges recognized the tourists .,The judges recognized the tourists .,2,subsequence,2,1,1
+The students paid the judges .,The students paid .,0,subsequence,0,1,1
+Certainly the presidents performed .,The presidents performed .,0,constituent,0,1,1
+Happy managers admired the lawyer .,Managers admired the lawyer .,0,subsequence,0,1,0
+The secretary presented in the library helped the doctor .,The secretary presented in the library .,2,subsequence,0,1,1
+The senators believed the author presented in the school .,The author presented in the school .,2,subsequence,0,1,1
+"If the author shouted , the president called the doctors .",The president called the doctors .,2,constituent,0,1,1
+The doctors believed the scientists helped the authors .,The doctors believed the scientists .,2,subsequence,0,1,1
+"Before the lawyer danced , the senators mentioned the banker .",The lawyer danced .,0,constituent,0,2,1
+The scientist and the students mentioned the lawyer .,The students mentioned the scientist .,2,lexical_overlap,2,1,1
+The judge paid in the museum arrived .,The judge paid in the museum .,2,subsequence,0,1,1
+Although the secretary moved the scientists encouraged the tourists .,The secretary moved the scientists .,2,subsequence,0,1,1
+The athletes learned that the manager slept .,The manager slept .,0,constituent,0,2,1
+Of course the artist saw the author .,The artist saw the author .,0,constituent,0,1,1
+The artists that the professor mentioned helped the student .,The artists helped the student .,0,lexical_overlap,0,1,1
+"If the bankers waited , the judges recommended the athletes .",The bankers waited .,2,constituent,0,1,1
+The actors that waited called the managers .,The actors called the managers .,0,lexical_overlap,0,1,1
+"After the student called the secretary , the author resigned .",The author resigned .,0,constituent,0,2,1
+The professor contacted the senators next to the scientists .,The senators contacted the scientists .,2,lexical_overlap,2,1,1
+The bankers that saw the professors performed .,The professors performed .,2,subsequence,0,1,1
+"If the professors helped the tourist , the author contacted the senator .",The author contacted the senator .,2,constituent,0,1,1
+Young actors slept .,Actors slept .,0,subsequence,0,2,1
+The managers saw the presidents who the athletes introduced .,The athletes introduced the presidents .,0,lexical_overlap,0,2,1
+The senators that the secretary saw admired the presidents .,The presidents admired the secretary .,2,lexical_overlap,2,1,1
+The presidents and the judge mentioned the scientists .,The judge mentioned the presidents .,2,lexical_overlap,2,1,1
+Probably the athlete recognized the senator .,The athlete recognized the senator .,2,constituent,0,1,1
+Before the judges presented the author encouraged the artists .,The judges presented the author .,2,subsequence,0,1,1
+The author that believed the students saw the managers .,The students saw the managers .,2,subsequence,0,1,1
+The student believed the tourists investigated in the library .,The tourists investigated in the library .,2,subsequence,0,2,1
+The artists near the student ran .,The student ran .,2,subsequence,2,1,1
+The banker believed the lawyer stopped the actor .,The banker believed the lawyer .,2,subsequence,0,1,1
+The secretary encouraged the tourist who contacted the doctor .,The tourist encouraged the the doctor .,2,lexical_overlap,2,1,1
+"The doctor called the professor , and the scientists waited .",The doctor called the professor .,0,constituent,0,2,1
+The lawyer called the students and the secretary .,The lawyer called the students .,0,subsequence,0,2,1
+The lawyers recognized the artist and the authors .,The lawyers recognized the authors .,0,lexical_overlap,0,1,1
+The students and the judge mentioned the tourists .,The judge mentioned the students .,2,lexical_overlap,2,1,1
+The senators near the bankers encouraged the manager .,The bankers encouraged the manager .,2,subsequence,2,1,1
+The managers were stopped by the students .,The students stopped the managers .,0,lexical_overlap,0,1,1
+"Although the tourists helped the author , the athlete arrived .",The athlete arrived .,0,constituent,0,0,1
+The actor thanked the athlete that contacted the professor .,The professor thanked the actor .,2,lexical_overlap,2,1,1
+Maybe the bankers ran .,The bankers ran .,2,constituent,0,2,1
+"The athletes stopped the senator , or the professors encouraged the tourists .",The professors encouraged the tourists .,2,constituent,0,1,2
+"The artist helped the tourist , or the manager waited .",The artist helped the tourist .,2,constituent,0,1,0
+"Unless the actor helped the presidents , the artists believed the judges .",The artists believed the judges .,2,constituent,0,1,1
+"Although the tourists saw the senator , the banker advised the actors .",The tourists saw the senator .,0,constituent,0,1,1
+Without a doubt the managers mentioned the professors .,The managers mentioned the professors .,0,constituent,0,1,1
+The secretary knew the tourists resigned .,The secretary knew the tourists .,2,subsequence,0,1,1
+Maybe the artists recognized the managers .,The artists recognized the managers .,2,constituent,0,1,0
+Certainly the judge waited .,The judge waited .,0,constituent,0,1,1
+The athletes helped the lawyer near the scientists .,The lawyer helped the athletes .,2,lexical_overlap,2,1,1
+The senator who helped the president thanked the professors .,The president thanked the professors .,2,subsequence,2,1,1
+The authors recommended the professor that supported the secretaries .,The authors recommended the professor .,0,subsequence,0,1,1
+Obviously the doctors waited .,The doctors waited .,0,constituent,0,1,1
+"In case the bankers stopped the presidents , the actors performed .",The actors performed .,0,constituent,0,1,1
+Although the president studied the judge supported the scientists .,The president studied the judge .,2,subsequence,0,1,1
+The professors and the author admired the lawyers .,The professors admired the lawyers .,0,lexical_overlap,0,1,0
+Supposedly the doctors resigned .,The doctors resigned .,2,constituent,0,2,1
+The judge advised the students that thanked the actors .,The students thanked the actors .,0,lexical_overlap,2,1,1
+The managers were supported by the students .,The students supported the managers .,0,lexical_overlap,0,1,0
+The athletes who introduced the actor avoided the doctor .,The actor avoided the doctor .,2,subsequence,0,1,1
+The scientist in front of the tourist contacted the banker .,The scientist contacted the banker .,0,lexical_overlap,0,1,1
+The actor introduced the students who believed the president .,The students believed the president .,0,lexical_overlap,0,1,1
+The presidents called the doctor that admired the lawyer .,The doctor admired the lawyer .,0,lexical_overlap,0,1,1
+Important bankers arrived .,Bankers arrived .,0,subsequence,0,0,1
+The lawyer who supported the manager ran .,The manager ran .,2,subsequence,0,2,1
+"The secretaries advised the senators , and the bankers saw the artists .",The secretaries advised the senators .,0,constituent,0,1,1
+Although the judge presented the doctor helped the secretaries .,The judge presented the doctor .,2,subsequence,0,2,1
+The authors who encouraged the actors waited .,The actors waited .,2,subsequence,0,1,1
+The student that advised the president admired the author .,The student admired the author .,0,lexical_overlap,0,1,0
+Definitely the authors believed the scientist .,The authors believed the scientist .,0,constituent,0,1,1
+The doctor heard the actors admired the lawyer .,The doctor heard the actors .,2,subsequence,0,1,1
+The student and the doctor contacted the managers .,The doctor contacted the student .,2,lexical_overlap,2,1,1
+"The artists performed , or the tourists contacted the author .",The tourists contacted the author .,2,constituent,0,1,0
+The tourists were avoided by the presidents .,The presidents avoided the tourists .,0,lexical_overlap,0,1,1
+Supposedly the actors saw the student .,The actors saw the student .,2,constituent,0,1,1
+The bankers admired the scientist .,The scientist admired the bankers .,2,lexical_overlap,2,1,0
+The scientists admired the doctor near the student .,The scientists admired the doctor .,0,subsequence,0,1,1
+The scientist contacted the tourists that stopped the senators .,The tourists stopped the senators .,0,lexical_overlap,0,1,1
+Since the lawyer studied the president advised the athletes .,The lawyer studied the president .,2,subsequence,0,1,1
+The actor behind the senator saw the bankers .,The senator saw the bankers .,2,subsequence,0,1,1
+"If the doctors believed the manager , the author mentioned the scientist .",The author mentioned the scientist .,2,constituent,0,1,2
+The professor knew that the doctor resigned .,The doctor resigned .,0,constituent,0,2,1
+"In case the athlete recognized the banker , the student shouted .",The athlete recognized the banker .,2,constituent,0,1,1
+"The actors avoided the athletes , and the author supported the managers .",The author supported the managers .,0,constituent,0,1,1
+The actor was encouraged by the banker .,The actor encouraged the banker .,2,lexical_overlap,0,1,0
+The artist who the banker stopped advised the scientists .,The banker stopped the artist .,0,lexical_overlap,0,1,1
+The tourist who supported the presidents slept .,The presidents slept .,2,subsequence,0,2,1
+The actor who contacted the senators advised the artists .,The senators advised the artists .,2,subsequence,2,1,1
+The managers avoided the secretary who ran .,The managers avoided the secretary .,0,subsequence,0,1,1
+The president who supported the actor advised the doctor .,The actor advised the doctor .,2,subsequence,0,1,1
+The lawyers who slept encouraged the senator .,The lawyers encouraged the senator .,0,lexical_overlap,0,1,1
+When the artist studied the scientist danced .,The artist studied the scientist .,2,subsequence,0,1,2
+The manager who called the tourist saw the judges .,The manager saw the judges .,0,lexical_overlap,0,1,1
+The doctors near the manager resigned .,The manager resigned .,2,subsequence,0,2,1
+The tourist studied in the office performed .,The tourist studied in the office .,2,subsequence,0,2,2
+The president was thanked by the artist .,The president thanked the artist .,2,lexical_overlap,0,1,1
+The president paid the scientists .,The president paid .,0,subsequence,0,1,1
+The actor and the athlete avoided the artist .,The athlete avoided the artist .,0,subsequence,0,1,1
+The judges forgot that the lawyer introduced the artists .,The lawyer introduced the artists .,0,constituent,0,1,1
+"If the managers waited , the senators called the lawyers .",The managers waited .,2,constituent,0,1,1
+The athletes were introduced by the presidents .,The presidents introduced the athletes .,0,lexical_overlap,0,1,1
+The actor by the manager advised the judges .,The actor advised the judges .,0,lexical_overlap,0,1,1
+The athletes mentioned the bankers and the president .,The athletes mentioned the president .,0,lexical_overlap,0,2,1
+The presidents admired the doctors and the managers .,The presidents admired the managers .,0,lexical_overlap,0,1,0
+Hopefully the bankers avoided the managers .,The bankers avoided the managers .,2,constituent,2,1,1
+The tourist who called the judges avoided the secretaries .,The tourist avoided the secretaries .,0,lexical_overlap,0,1,1
+The lawyer saw the managers and the tourist .,The lawyer saw the managers .,0,subsequence,0,1,1
+The manager and the secretary supported the doctors .,The secretary supported the manager .,2,lexical_overlap,2,1,1
+The professors ate the fruit .,The professors ate .,0,subsequence,0,2,1
+The actor was encouraged by the tourists .,The actor encouraged the tourists .,2,lexical_overlap,0,1,0
+"While the authors shouted , the scientists waited .",The authors shouted .,0,constituent,0,1,1
+"Unless the tourists called the doctors , the secretaries advised the banker .",The tourists called the doctors .,2,constituent,2,1,1
+Because the professors moved the manager waited .,The professors moved the manager .,2,subsequence,0,1,1
+The tourists that resigned recognized the actors .,The tourists recognized the actors .,0,lexical_overlap,0,1,1
+The professor introduced the author that the athletes helped .,The athletes helped the author .,0,lexical_overlap,0,1,1
+"In case the secretaries slept , the professors avoided the doctor .",The secretaries slept .,2,constituent,1,2,1
+"Before the doctor mentioned the actors , the professor ran .",The doctor mentioned the actors .,0,constituent,0,1,1
+The lawyers studied in the laboratory introduced the secretaries .,The lawyers studied in the laboratory .,2,subsequence,0,1,1
+"The athlete arrived , and the manager introduced the banker .",The athlete arrived .,0,constituent,0,0,2
+The actor stopped the president that encouraged the secretaries .,The president encouraged the secretaries .,0,lexical_overlap,0,1,1
+"While the scientists recognized the tourist , the judges helped the lawyers .",The scientists recognized the tourist .,0,constituent,0,1,1
+The professor by the scientist avoided the students .,The students avoided the scientist .,2,lexical_overlap,2,1,1
+Certainly the scientist avoided the secretary .,The scientist avoided the secretary .,0,constituent,0,1,1
+The athletes who saw the actors believed the senators .,The athletes believed the senators .,0,lexical_overlap,0,1,1
+The author that advised the athletes saw the students .,The students saw the author .,2,lexical_overlap,0,1,1
+"The doctor mentioned the tourists , and the actors advised the bankers .",The actors advised the bankers .,0,constituent,0,1,2
+After the actors moved the bankers stopped the president .,The actors moved the bankers .,2,subsequence,0,1,1
+The secretary introduced the bankers that recommended the managers .,The bankers recommended the managers .,0,lexical_overlap,0,1,1
+The artists were admired by the student .,The artists admired the student .,2,lexical_overlap,2,1,0
+After the bankers fought the manager arrived .,The bankers fought the manager .,2,subsequence,0,1,1
+The doctors ate the broccoli .,The doctors ate .,0,subsequence,0,2,1
+"Before the banker admired the senators , the president stopped the tourist .",The banker admired the senators .,0,constituent,0,1,1
+The actor avoided the managers .,The managers avoided the actor .,2,lexical_overlap,2,1,1
+The judges recognized the tourists who the artist recommended .,The tourists recognized the judges .,2,lexical_overlap,2,1,1
+The judge that waited stopped the authors .,The judge stopped the authors .,0,lexical_overlap,0,1,1
+The presidents assumed that the bankers contacted the lawyer .,The bankers contacted the lawyer .,2,constituent,2,1,1
+"The artist resigned , or the actors believed the presidents .",The actors believed the presidents .,2,constituent,0,1,0
+The lawyers that the president advised thanked the author .,The lawyers thanked the author .,0,lexical_overlap,0,1,1
+"Whether or not the scientists encouraged the judge , the doctor believed the athlete .",The doctor believed the athlete .,0,constituent,0,1,1
+The bankers left the desert .,The bankers left .,0,subsequence,0,1,1
+"The athlete introduced the professors , or the judge waited .",The judge waited .,2,constituent,0,1,1
+"In case the scientists helped the doctor , the professors ran .",The scientists helped the doctor .,2,constituent,0,1,1
+"The doctors admired the students , or the secretaries shouted .",The secretaries shouted .,2,constituent,0,1,0
+The artists said that the senators contacted the judges .,The senators contacted the judges .,2,constituent,0,1,1
+Probably the professors mentioned the athlete .,The professors mentioned the athlete .,2,constituent,0,1,1
+The secretary heard the artists believed the scientist .,The secretary heard the artists .,2,subsequence,0,1,1
+"If the tourists avoided the actors , the scientists thanked the lawyers .",The tourists avoided the actors .,2,constituent,0,1,1
+The banker learned that the athlete performed .,The athlete performed .,0,constituent,0,0,0
+The judge and the managers recommended the authors .,The judge recommended the authors .,0,lexical_overlap,0,1,1
+The managers advised the athletes in front of the doctor .,The managers advised the athletes .,0,subsequence,0,1,1
+The managers that shouted thanked the president .,The managers thanked the president .,0,lexical_overlap,0,1,1
+Young tourists mentioned the manager .,Tourists mentioned the manager .,0,subsequence,0,1,1
+The scientists who helped the athletes avoided the actor .,The actor avoided the scientists .,2,lexical_overlap,2,1,1
+The lawyer called the judges that the doctors avoided .,The doctors avoided the judges .,0,lexical_overlap,0,2,1
+The tourists remembered that the athlete waited .,The athlete waited .,0,constituent,0,1,1
+The tourist believed the artists investigated in the library .,The artists investigated in the library .,2,subsequence,0,1,1
+"Although the author contacted the banker , the athlete advised the professors .",The author contacted the banker .,0,constituent,0,1,2
+The author believed the lawyer next to the bankers .,The bankers believed the author .,2,lexical_overlap,2,1,1
+"Since the banker believed the judges , the manager resigned .",The manager resigned .,0,constituent,0,2,1
+The student supported the lawyer .,The lawyer supported the student .,2,lexical_overlap,2,1,1
+The presidents assumed that the judges thanked the lawyers .,The judges thanked the lawyers .,2,constituent,2,1,1
+The author stopped the professor investigated in the library .,The professor investigated in the library .,2,subsequence,0,1,1
+The senators knew that the lawyer slept .,The lawyer slept .,0,constituent,0,2,1
+The president forgot that the authors recommended the tourists .,The authors recommended the tourists .,0,constituent,0,1,1
+The senators and the scientists contacted the student .,The senators contacted the student .,0,lexical_overlap,0,1,1
+Serious presidents admired the scientists .,Presidents admired the scientists .,0,subsequence,0,1,1
+The professors believed the senators introduced the athlete .,The professors believed the senators .,2,subsequence,0,1,1
+"The professors recommended the manager , and the author contacted the tourist .",The professors recommended the manager .,0,constituent,0,1,1
+The professor that admired the student recommended the lawyers .,The professor recommended the lawyers .,0,lexical_overlap,0,1,1
+The judge believed the bankers slept .,The judge believed the bankers .,2,subsequence,0,1,1
+Without a doubt the tourist recommended the banker .,The tourist recommended the banker .,0,constituent,0,1,1
+The scientists hoped that the artists stopped the secretaries .,The artists stopped the secretaries .,2,constituent,2,1,1
+The doctor knew that the secretary shouted .,The secretary shouted .,0,constituent,0,1,1
+The scientists thanked the judge who ran .,The scientists thanked the judge .,0,subsequence,0,1,1
+"Before the president recommended the athlete , the tourist saw the manager .",The tourist saw the manager .,0,constituent,0,1,1
+"The scientist danced , or the secretary advised the author .",The scientist danced .,2,constituent,0,2,0
+The doctor left the town .,The doctor left .,0,subsequence,0,1,1
+The actor heard the artist contacted the banker .,The actor heard the artist .,2,subsequence,0,1,1
+The bankers were avoided by the senator .,The senator avoided the bankers .,0,lexical_overlap,0,1,1
+The presidents who the lawyers encouraged avoided the senators .,The lawyers encouraged the presidents .,0,lexical_overlap,0,1,1
+The professors called the bankers next to the student .,The bankers called the professors .,2,lexical_overlap,2,2,1
+Maybe the president resigned .,The president resigned .,2,constituent,1,2,1
+The senator believed the authors encouraged the scientist .,The senator believed the authors .,2,subsequence,0,1,1
+Probably the scientist danced .,The scientist danced .,2,constituent,0,2,1
+The banker behind the professor recognized the scientist .,The scientist recognized the professor .,2,lexical_overlap,2,1,1
+The lawyer believed the judge slept .,The lawyer believed the judge .,2,subsequence,0,1,1
+"Unless the judge admired the athletes , the artist believed the senator .",The artist believed the senator .,2,constituent,0,1,1
+The scientist and the athletes saw the presidents .,The athletes saw the presidents .,0,subsequence,0,1,1
+The presidents read the play .,The presidents read .,0,subsequence,0,2,1
+The professors that the senator saw believed the president .,The president believed the professors .,2,lexical_overlap,2,1,1
+The athletes behind the banker contacted the actors .,The banker contacted the actors .,2,subsequence,2,1,1
+The judges introduced the artist next to the tourist .,The tourist introduced the judges .,2,lexical_overlap,2,1,1
+Suddenly the actor contacted the scientist .,The actor contacted the scientist .,0,constituent,0,1,1
+The judges saw the student that slept .,The judges saw the student .,0,subsequence,0,1,1
+The actors that admired the bankers believed the senator .,The actors believed the senator .,0,lexical_overlap,0,1,1
+The president won the battle .,The president won .,0,subsequence,0,1,1
+The student was introduced by the senators .,The senators introduced the student .,0,lexical_overlap,0,1,1
+The authors who performed advised the doctor .,The authors advised the doctor .,0,lexical_overlap,0,1,1
+Young managers stopped the professors .,Managers stopped the professors .,0,subsequence,0,1,1
+The artists believed the tourist who the presidents introduced .,The presidents introduced the tourist .,0,lexical_overlap,0,1,1
+The artists remembered that the president helped the managers .,The president helped the managers .,0,constituent,0,1,1
+Obviously the bankers helped the actor .,The bankers helped the actor .,0,constituent,0,1,1
+"The artist supported the tourists , and the senator recognized the doctors .",The senator recognized the doctors .,0,constituent,0,1,1
+The lawyers that advised the artists recommended the students .,The artists recommended the students .,2,subsequence,2,1,1
+"In case the scientists advised the banker , the professors admired the actor .",The scientists advised the banker .,2,constituent,0,1,2
+Popular secretaries thanked the actor .,Secretaries thanked the actor .,0,subsequence,0,1,1
+The student encouraged the scientists and the lawyer .,The scientists encouraged the lawyer .,2,lexical_overlap,2,1,1
+"Unless the authors arrived , the athletes introduced the managers .",The authors arrived .,2,constituent,2,0,1
+The athletes knew that the judges saw the secretary .,The judges saw the secretary .,0,constituent,0,1,1
+Probably the managers thanked the doctors .,The managers thanked the doctors .,2,constituent,0,1,1
+The senator read the story .,The senator read .,0,subsequence,0,1,1
+Young lawyers resigned .,Lawyers resigned .,0,subsequence,0,1,1
+The lawyer avoided the author who advised the president .,The lawyer avoided the author .,0,subsequence,0,2,0
+The secretary thanked the artist .,The artist thanked the secretary .,2,lexical_overlap,2,1,1
+The author presented in the library thanked the doctors .,The author presented in the library .,2,subsequence,0,1,1
+The scientists contacted the presidents that advised the actors .,The scientists contacted the presidents .,0,subsequence,0,1,1
+The actor advised the scientist that danced .,The actor advised the scientist .,0,subsequence,0,1,1
+The senators knew that the professor helped the doctor .,The professor helped the doctor .,0,constituent,0,1,1
+The professor and the artists introduced the student .,The artists introduced the student .,0,subsequence,0,1,1
+The tourists explored the region .,The tourists explored .,0,subsequence,0,1,1
+The students and the presidents advised the senator .,The students advised the senator .,0,lexical_overlap,0,1,0
+"The tourist waited , and the scientists danced .",The scientists danced .,0,constituent,0,1,1
+The secretary recommended the athletes and the bankers .,The secretary recommended the bankers .,0,lexical_overlap,0,1,1
+The secretaries that thanked the artist called the president .,The artist called the president .,2,subsequence,0,2,1
+Certainly the professors waited .,The professors waited .,0,constituent,0,1,1
+"The tourists slept , or the professor resigned .",The professor resigned .,2,constituent,0,2,1
+The presidents who supported the judges saw the bankers .,The judges saw the presidents .,2,lexical_overlap,2,1,1
+The students that believed the athletes stopped the lawyer .,The athletes stopped the lawyer .,2,subsequence,0,1,1
+Supposedly the artists mentioned the lawyer .,The artists mentioned the lawyer .,2,constituent,0,1,1
+The judge learned that the lawyers arrived .,The lawyers arrived .,0,constituent,0,0,0
+Supposedly the manager waited .,The manager waited .,2,constituent,0,1,1
+"Whether or not the secretary called the doctor , the senators resigned .",The senators resigned .,0,constituent,0,2,1
+"Although the athletes advised the senators , the artists stopped the authors .",The artists stopped the authors .,0,constituent,0,1,1
+The banker and the lawyer called the tourists .,The banker called the lawyer .,2,lexical_overlap,2,2,1
+"The students stopped the lawyer , or the artist waited .",The artist waited .,2,constituent,0,1,1
+The secretary assumed that the tourist supported the authors .,The tourist supported the authors .,2,constituent,1,1,1
+The scientist saw the author who the judges mentioned .,The author saw the scientist .,2,lexical_overlap,2,1,1
+The banker admired the actors .,The actors admired the banker .,2,lexical_overlap,2,1,0
+The tourists knew the actor called the professor .,The tourists knew the actor .,2,subsequence,0,1,1
+The author admired the manager .,The manager admired the author .,2,lexical_overlap,2,1,1
+The managers forgot that the athletes slept .,The athletes slept .,0,constituent,0,2,1
+"The senator called the judges , or the secretaries danced .",The senator called the judges .,2,constituent,0,2,2
+The actors and the professor avoided the judges .,The actors avoided the judges .,0,lexical_overlap,0,2,1
+The bankers believed the president slept .,The bankers believed the president .,2,subsequence,0,1,1
+The judges avoided the artists .,The artists avoided the judges .,2,lexical_overlap,2,2,1
+The lawyer mentioned the senators .,The senators mentioned the lawyer .,2,lexical_overlap,2,1,1
+While the actors moved the judge shouted .,The actors moved the judge .,2,subsequence,0,1,1
+"Unless the students supported the athletes , the lawyer resigned .",The lawyer resigned .,2,constituent,0,2,1
+The scientists remembered that the manager mentioned the athletes .,The manager mentioned the athletes .,0,constituent,0,1,1
+The athlete recognized the president .,The president recognized the athlete .,2,lexical_overlap,2,1,1
+The athletes behind the secretary called the lawyers .,The secretary called the lawyers .,2,subsequence,2,1,1
+The athlete supported the tourist who mentioned the student .,The student supported the athlete .,2,lexical_overlap,2,1,1
+The judges were supported by the lawyer .,The judges supported the lawyer .,2,lexical_overlap,0,1,1
+The senator knew the manager ran .,The senator knew the manager .,2,subsequence,0,1,1
+Hopefully the judge supported the actor .,The judge supported the actor .,2,constituent,1,1,1
+The judge behind the banker recognized the managers .,The judge recognized the managers .,0,lexical_overlap,0,1,1
+The professor that contacted the judge helped the actors .,The professor helped the actors .,0,lexical_overlap,0,1,1
+The lawyers were recommended by the actors .,The lawyers recommended the actors .,2,lexical_overlap,2,1,1
+The judges stopped the professors paid in the museum .,The professors paid in the museum .,2,subsequence,0,1,1
+Serious judges saw the scientist .,Judges saw the scientist .,0,subsequence,0,1,1
+The senator called the secretary in front of the athlete .,The senator called the secretary .,0,subsequence,0,2,1
+The secretary was admired by the judges .,The judges admired the secretary .,0,lexical_overlap,0,1,1
+The scientists recommended the bankers who the judge stopped .,The judge recommended the scientists .,2,lexical_overlap,2,1,1
+Maybe the judge advised the athlete .,The judge advised the athlete .,2,constituent,0,1,1
+Maybe the secretary advised the managers .,The secretary advised the managers .,2,constituent,0,1,1
+The presidents assumed that the doctor saw the actor .,The doctor saw the actor .,2,constituent,1,1,1
+"Before the student resigned , the professors supported the authors .",The student resigned .,0,constituent,0,1,1
+"The senators recognized the artists , and the athletes encouraged the student .",The senators recognized the artists .,0,constituent,0,1,1
+"After the bankers slept , the students encouraged the doctor .",The bankers slept .,0,constituent,0,2,1
+The manager and the students admired the banker .,The students admired the banker .,0,subsequence,0,1,0
+The lawyer believed the scientists .,The scientists believed the lawyer .,2,lexical_overlap,2,1,1
+The artists by the tourist supported the bankers .,The artists supported the bankers .,0,lexical_overlap,0,1,1
+Of course the professors mentioned the authors .,The professors mentioned the authors .,0,constituent,0,1,1
+The bankers stopped the professor that the senator believed .,The senator believed the professor .,0,lexical_overlap,0,1,1
+"Although the secretary performed , the scientist slept .",The scientist slept .,0,constituent,0,2,1
+The scientists next to the professor introduced the tourist .,The scientists introduced the tourist .,0,lexical_overlap,0,1,1
+The professors believed the authors that ran .,The professors believed the authors .,0,subsequence,0,1,1
+"Unless the athletes thanked the bankers , the scientists resigned .",The scientists resigned .,2,constituent,0,2,1
+"After the artists contacted the actor , the managers stopped the professors .",The artists contacted the actor .,0,constituent,0,1,1
+The president recommended the students .,The students recommended the president .,2,lexical_overlap,2,1,1
+The students that recommended the judge recognized the professors .,The judge recognized the professors .,2,subsequence,0,1,1
+The lawyers near the judges introduced the students .,The judges introduced the lawyers .,2,lexical_overlap,2,1,1
+"If the students encouraged the doctors , the tourist admired the authors .",The tourist admired the authors .,2,constituent,0,1,1
+Definitely the students thanked the artist .,The students thanked the artist .,0,constituent,0,1,1
+The banker assumed that the students performed .,The students performed .,2,constituent,1,1,1
+The senator knew that the artists arrived .,The artists arrived .,0,constituent,0,0,1
+The managers and the bankers believed the scientist .,The managers believed the scientist .,0,lexical_overlap,0,1,0
+While the tourist hid the banker arrived .,The tourist hid the banker .,2,subsequence,0,1,1
+The judges in front of the doctors recognized the authors .,The doctors recognized the authors .,2,subsequence,0,1,1
+"The lawyers danced , or the doctor slept .",The doctor slept .,2,constituent,0,2,2
+Of course the presidents recommended the athletes .,The presidents recommended the athletes .,0,constituent,0,1,1
+"The managers ran , and the tourist believed the judges .",The tourist believed the judges .,0,constituent,0,1,0
+"The artist called the tourists , or the presidents saw the students .",The presidents saw the students .,2,constituent,0,1,2
+The author admired the doctor that stopped the secretary .,The author admired the doctor .,0,subsequence,0,1,1
+The lawyer encouraged the president near the judges .,The president encouraged the lawyer .,2,lexical_overlap,2,1,1
+"The athletes called the students , or the president mentioned the senators .",The president mentioned the senators .,2,constituent,0,1,2
+Popular doctors supported the artist .,Doctors supported the artist .,0,subsequence,0,1,1
+The banker that the students helped encouraged the tourist .,The banker encouraged the tourist .,0,lexical_overlap,0,1,1
+The authors knew the senators admired the doctors .,The authors knew the senators .,2,subsequence,0,1,1
+The tourist believed the doctors ran .,The tourist believed the doctors .,2,subsequence,0,1,1
+The senator saw the student that the actors thanked .,The senator saw the student .,0,subsequence,0,1,1
+The author knew the senators encouraged the president .,The author knew the senators .,2,subsequence,0,1,0
+The presidents admired the secretaries who the professor contacted .,The presidents admired the secretaries .,0,subsequence,0,1,1
+The secretaries saw the author .,The author saw the secretaries .,2,lexical_overlap,2,1,1
+"The scientist waited , and the banker danced .",The banker danced .,0,constituent,0,2,2
+Happy scientists ran .,Scientists ran .,0,subsequence,0,2,1
+"Unless the scientists slept , the senators advised the secretary .",The scientists slept .,2,constituent,1,2,1
+The tourist was advised by the manager .,The tourist advised the manager .,2,lexical_overlap,2,1,1
+The students mentioned the senators behind the doctor .,The students mentioned the senators .,0,subsequence,0,1,1
+Certainly the managers admired the athletes .,The managers admired the athletes .,0,constituent,0,1,1
+The judges avoided the bankers that the artists supported .,The judges avoided the bankers .,0,subsequence,0,1,1
+After the judge stopped the secretary thanked the scientists .,The judge stopped the secretary .,2,subsequence,0,1,1
+The secretaries assumed that the authors contacted the presidents .,The authors contacted the presidents .,2,constituent,2,1,1
+The actor next to the secretaries thanked the presidents .,The secretaries thanked the presidents .,2,subsequence,2,1,1
+The scientists who the artists recognized advised the senators .,The senators advised the artists .,2,lexical_overlap,2,1,1
+The scientists believed the senator .,The senator believed the scientists .,2,lexical_overlap,2,1,1
+"The managers mentioned the author , and the president waited .",The president waited .,0,constituent,0,1,1
+Without a doubt the judges called the tourists .,The judges called the tourists .,0,constituent,0,2,1
+The doctors explored the valley .,The doctors explored .,0,subsequence,0,1,1
+The student read the letter .,The student read .,0,subsequence,0,1,1
+"Unless the scientist slept , the presidents recognized the managers .",The presidents recognized the managers .,2,constituent,0,1,1
+"The senators ran , or the doctors recognized the judges .",The doctors recognized the judges .,2,constituent,0,1,1
+The judges knew the tourist advised the artists .,The judges knew the tourist .,2,subsequence,0,1,1
+The bankers that recognized the doctor performed .,The doctor performed .,2,subsequence,0,1,1
+The managers and the athlete avoided the scientist .,The athlete avoided the scientist .,0,subsequence,0,2,1
+The scientist called the actor who arrived .,The scientist called the actor .,0,subsequence,0,2,1
+"The manager slept , or the senators called the lawyers .",The manager slept .,2,constituent,0,2,1
+The author in front of the lawyer avoided the banker .,The banker avoided the author .,2,lexical_overlap,2,2,1
+Helpful managers thanked the professor .,Managers thanked the professor .,0,subsequence,0,1,1
+The president was mentioned by the lawyers .,The lawyers mentioned the president .,0,lexical_overlap,0,1,1
+The secretaries knew that the professors resigned .,The professors resigned .,0,constituent,0,2,1
+The judge that helped the actors recommended the managers .,The judge helped the actors .,0,lexical_overlap,0,1,1
+The artist recognized the secretary that saw the lawyer .,The artist recognized the secretary .,0,subsequence,0,1,1
+The actor in front of the bankers encouraged the athletes .,The athletes encouraged the bankers .,2,lexical_overlap,2,2,1
+The bankers near the artists supported the authors .,The artists supported the authors .,2,subsequence,2,1,1
+The professors encouraged the students .,The students encouraged the professors .,2,lexical_overlap,2,1,1
+The scientist saw the professor who ran .,The scientist saw the professor .,0,subsequence,0,1,1
+The author advised the athlete next to the managers .,The athlete advised the managers .,2,lexical_overlap,2,1,1
+The lawyers contacted the judge .,The judge contacted the lawyers .,2,lexical_overlap,2,1,1
+The actor encouraged the author and the artists .,The author encouraged the artists .,2,lexical_overlap,2,1,1
+The authors were thanked by the lawyer .,The authors thanked the lawyer .,2,lexical_overlap,0,1,1
+The artist and the scientist thanked the author .,The scientist thanked the artist .,2,lexical_overlap,2,1,1
+The tourist recommended the secretaries studied in the museum .,The secretaries studied in the museum .,2,subsequence,0,2,1
+Suddenly the athlete helped the bankers .,The athlete helped the bankers .,0,constituent,0,1,1
+Hopefully the secretaries contacted the tourists .,The secretaries contacted the tourists .,2,constituent,0,1,1
+The author avoided the scientists presented in the office .,The scientists presented in the office .,2,subsequence,0,1,1
+The lawyer recommended the scientists who the authors believed .,The lawyer recommended the scientists .,0,subsequence,0,1,1
+The doctor stopped the professor that mentioned the senator .,The professor mentioned the senator .,0,lexical_overlap,0,1,1
+The president knew that the secretaries slept .,The secretaries slept .,0,constituent,0,2,1
+The doctor left the desert .,The doctor left .,0,subsequence,0,1,1
+The artists forgot that the scientist introduced the doctors .,The scientist introduced the doctors .,0,constituent,0,1,1
+The presidents were helped by the scientist .,The scientist helped the presidents .,0,lexical_overlap,0,1,1
+The scientists believed the secretary and the lawyer .,The scientists believed the secretary .,0,subsequence,0,1,1
+The athlete who shouted called the senator .,The athlete called the senator .,0,lexical_overlap,0,2,1
+Without a doubt the artists contacted the judge .,The artists contacted the judge .,0,constituent,0,1,1
+"Though the manager helped the senators , the banker supported the tourists .",The banker supported the tourists .,0,constituent,0,1,1
+"The secretary stopped the actors , and the authors introduced the judges .",The secretary stopped the actors .,0,constituent,0,1,1
+The banker was recognized by the scientist .,The banker recognized the scientist .,2,lexical_overlap,0,1,1
+The artists encouraged the secretaries .,The secretaries encouraged the artists .,2,lexical_overlap,2,1,1
+The secretary presented in the office resigned .,The secretary presented in the office .,2,subsequence,0,1,1
+The senators avoided the scientist .,The scientist avoided the senators .,2,lexical_overlap,2,1,1
+The scientist behind the presidents ran .,The presidents ran .,2,subsequence,0,0,1
+The secretary knew that the tourist waited .,The tourist waited .,0,constituent,0,1,1
+The judge by the senators contacted the professor .,The judge contacted the professor .,0,lexical_overlap,0,1,1
+The scientist contacted the banker that recognized the manager .,The scientist contacted the banker .,0,subsequence,0,1,1
+Obviously the actors contacted the judge .,The actors contacted the judge .,0,constituent,0,1,1
+The professor knew that the scientist danced .,The scientist danced .,0,constituent,0,2,1
+The actors ate the corn .,The actors ate .,0,subsequence,0,2,1
+The scientist investigated in the library supported the authors .,The scientist investigated in the library .,2,subsequence,0,1,1
+The athlete who believed the actors slept .,The actors slept .,2,subsequence,0,2,1
+Although the actor presented the judges supported the bankers .,The actor presented the judges .,2,subsequence,0,1,1
+The athlete that performed mentioned the professors .,The athlete mentioned the professors .,0,lexical_overlap,0,2,1
+The authors investigated in the museum shouted .,The authors investigated in the museum .,2,subsequence,0,1,1
+The doctors called the athlete who the professors supported .,The athlete called the professors .,2,lexical_overlap,2,2,1
+"The senators encouraged the authors , and the bankers resigned .",The bankers resigned .,0,constituent,0,2,1
+The actor won the competition .,The actor won .,0,subsequence,0,1,0
+"The athletes believed the president , or the professor admired the senators .",The professor admired the senators .,2,constituent,0,1,0
+The judge behind the senators believed the banker .,The judge believed the banker .,0,lexical_overlap,0,1,1
+The artists investigated in the library stopped the scientists .,The artists investigated in the library .,2,subsequence,0,1,1
+Before the athletes presented the author saw the lawyer .,The athletes presented the author .,2,subsequence,0,2,1
+The president forgot that the senators encouraged the managers .,The senators encouraged the managers .,0,constituent,0,1,1
+The bankers heard the actors arrived .,The bankers heard the actors .,2,subsequence,0,1,1
+Happy secretaries resigned .,Secretaries resigned .,0,subsequence,0,1,1
+The manager believed that the artists danced .,The artists danced .,2,constituent,1,1,1
+The judge was stopped by the actor .,The actor stopped the judge .,0,lexical_overlap,0,1,1
+The doctor by the authors arrived .,The authors arrived .,2,subsequence,0,0,1
+The athletes were stopped by the actors .,The actors stopped the athletes .,0,lexical_overlap,0,1,1
+The scientists advised the doctor who the tourist helped .,The tourist helped the doctor .,0,lexical_overlap,0,1,1
+The scientist behind the authors recognized the artist .,The artist recognized the scientist .,2,lexical_overlap,2,1,1
+The professors learned that the student danced .,The student danced .,0,constituent,0,1,1
+The artist assumed that the student shouted .,The student shouted .,2,constituent,2,1,1
+The athletes recognized the students .,The students recognized the athletes .,2,lexical_overlap,2,1,1
+The students that encouraged the doctor arrived .,The doctor arrived .,2,subsequence,0,1,1
+"While the artist thanked the actor , the athletes supported the president .",The artist thanked the actor .,0,constituent,0,1,1
+The senator and the artist performed .,The artist performed .,0,subsequence,0,0,0
+Maybe the banker called the managers .,The banker called the managers .,2,constituent,0,2,1
+The artist that resigned avoided the judge .,The artist avoided the judge .,0,lexical_overlap,0,1,0
+The managers saw the judges that recommended the lawyers .,The judges saw the managers .,2,lexical_overlap,2,1,1
+Popular managers slept .,Managers slept .,0,subsequence,0,2,1
+The president believed the judges .,The judges believed the president .,2,lexical_overlap,2,1,0
+Probably the authors contacted the judges .,The authors contacted the judges .,2,constituent,0,1,1
+Hopefully the judges mentioned the doctor .,The judges mentioned the doctor .,2,constituent,0,1,1
+Hopefully the banker recommended the artists .,The banker recommended the artists .,2,constituent,0,1,1
+"The president thanked the senators , and the tourist shouted .",The president thanked the senators .,0,constituent,0,1,1
+The students by the managers waited .,The managers waited .,2,subsequence,2,1,1
+The manager was helped by the bankers .,The bankers helped the manager .,0,lexical_overlap,0,1,0
+The doctor recognized the president and the scientist .,The president recognized the scientist .,2,lexical_overlap,2,1,1
+The lawyers who the student avoided saw the managers .,The lawyers saw the managers .,0,lexical_overlap,0,1,1
+The artist who slept recommended the athletes .,The artist recommended the athletes .,0,lexical_overlap,0,1,1
+The tourist next to the secretaries resigned .,The secretaries resigned .,2,subsequence,0,1,1
+The judge behind the banker advised the secretary .,The banker advised the secretary .,2,subsequence,0,1,1
+The president advised the authors .,The authors advised the president .,2,lexical_overlap,2,1,1
+The tourist was stopped by the scientists .,The tourist stopped the scientists .,2,lexical_overlap,2,1,1
+The secretaries believed the students next to the judges .,The students believed the secretaries .,2,lexical_overlap,2,1,1
+"Unless the actors ran , the professors recognized the senator .",The actors ran .,2,constituent,2,2,1
+The athlete believed the authors waited .,The athlete believed the authors .,2,subsequence,0,1,1
+The presidents mentioned the artists by the professor .,The professor mentioned the presidents .,2,lexical_overlap,2,1,1
+The author saw the artist that the senator admired .,The senator saw the author .,2,lexical_overlap,2,1,1
+The lawyers who the artist recognized introduced the president .,The lawyers introduced the president .,0,lexical_overlap,0,2,1
+"The author introduced the senator , and the athletes shouted .",The athletes shouted .,0,constituent,0,1,0
+The secretary helped the artists and the doctor .,The artists helped the doctor .,2,lexical_overlap,2,1,1
+Supposedly the president admired the senators .,The president admired the senators .,2,constituent,0,1,1
+The student was introduced by the authors .,The authors introduced the student .,0,lexical_overlap,0,1,1
+The doctor that the student mentioned believed the lawyer .,The doctor believed the lawyer .,0,lexical_overlap,0,1,1
+"The senator called the artist , or the president saw the author .",The senator called the artist .,2,constituent,0,2,1
+The tourist encouraged the actors behind the professors .,The actors encouraged the professors .,2,lexical_overlap,2,1,1
+"The actors encouraged the student , or the professors arrived .",The professors arrived .,2,constituent,0,1,0
+The athletes who the artists avoided recognized the author .,The author recognized the athletes .,2,lexical_overlap,0,1,1
+The manager was mentioned by the secretary .,The secretary mentioned the manager .,0,lexical_overlap,0,1,1
+The actors by the tourists avoided the artists .,The actors avoided the artists .,0,lexical_overlap,0,1,1
+The senators encouraged the students .,The students encouraged the senators .,2,lexical_overlap,2,1,1
+The president by the scientist stopped the bankers .,The president stopped the bankers .,0,lexical_overlap,0,1,1
+Supposedly the tourists danced .,The tourists danced .,2,constituent,0,1,1
+"The secretaries ran , or the judges danced .",The secretaries ran .,2,constituent,0,2,1
+The scientist who the student introduced encouraged the judges .,The student introduced the scientist .,0,lexical_overlap,0,1,1
+The artists avoided the professor who helped the banker .,The artists avoided the professor .,0,subsequence,0,2,1
+The bankers investigated in the office stopped the tourists .,The bankers investigated in the office .,2,subsequence,0,1,1
+The artist by the managers shouted .,The managers shouted .,2,subsequence,0,1,1
+"The athletes performed , and the author avoided the artist .",The athletes performed .,0,constituent,0,1,2
+The doctor that the artists saw stopped the manager .,The manager stopped the artists .,2,lexical_overlap,2,1,1
+The secretary supported the students who waited .,The secretary supported the students .,0,subsequence,0,1,1
+"Although the judges recognized the artists , the author supported the senators .",The judges recognized the artists .,0,constituent,0,1,1
+The senator admired the secretaries and the athletes .,The senator admired the athletes .,0,lexical_overlap,0,1,1
+The professor who the senator recommended helped the secretaries .,The professor helped the secretaries .,0,lexical_overlap,0,1,1
+The secretary believed the senator and the doctor .,The senator believed the doctor .,2,lexical_overlap,2,1,1
+The students stopped the lawyer that the judges saw .,The judges stopped the students .,2,lexical_overlap,2,1,1
+"Although the secretary avoided the presidents , the artists contacted the judge .",The secretary avoided the presidents .,0,constituent,0,1,1
+The scientist learned that the bankers advised the professors .,The bankers advised the professors .,0,constituent,0,1,1
+The artists and the president thanked the tourists .,The artists thanked the tourists .,0,lexical_overlap,0,1,0
+Important artists ran .,Artists ran .,0,subsequence,0,0,1
+"If the bankers admired the artist , the managers arrived .",The managers arrived .,2,constituent,0,0,1
+Although the judges fought the secretaries recommended the doctors .,The judges fought the secretaries .,2,subsequence,2,1,1
+The doctor contacted the athletes and the senators .,The doctor contacted the senators .,0,lexical_overlap,0,1,1
+"Unless the managers saw the presidents , the senator slept .",The senator slept .,2,constituent,0,2,1
+"Unless the artists arrived , the managers contacted the athlete .",The artists arrived .,2,constituent,2,0,1
+The actor thought that the judge recommended the authors .,The judge recommended the authors .,2,constituent,0,1,1
+The author behind the tourist believed the students .,The tourist believed the students .,2,subsequence,0,1,1
+The athlete was supported by the banker .,The athlete supported the banker .,2,lexical_overlap,0,1,0
+"After the tourists introduced the athletes , the scientists encouraged the lawyer .",The tourists introduced the athletes .,0,constituent,0,1,1
+The tourists mentioned the doctor that slept .,The tourists mentioned the doctor .,0,subsequence,0,1,1
+"In case the student believed the author , the tourists introduced the secretaries .",The student believed the author .,2,constituent,0,1,2
+The athletes recognized the students and the senator .,The athletes recognized the students .,0,subsequence,0,1,1
+The artist called the manager .,The manager called the artist .,2,lexical_overlap,2,2,1
+The artist and the lawyer encouraged the presidents .,The lawyer encouraged the artist .,2,lexical_overlap,2,1,1
+The doctors and the actors thanked the lawyer .,The actors thanked the lawyer .,0,subsequence,0,1,1
+The scientist contacted the professor who believed the athletes .,The professor believed the athletes .,0,lexical_overlap,0,1,1
+The doctors believed the banker saw the tourists .,The doctors believed the banker .,2,subsequence,0,1,1
+The artist and the presidents supported the senators .,The artist supported the presidents .,2,lexical_overlap,2,1,1
+The lawyers saw the judges next to the doctors .,The lawyers saw the judges .,0,subsequence,0,1,1
+The tourist in front of the authors called the senators .,The authors called the senators .,2,subsequence,0,1,1
+The senators introduced the students near the author .,The author introduced the senators .,2,lexical_overlap,2,1,1
+The professors mentioned the senators and the authors .,The professors mentioned the authors .,0,lexical_overlap,0,1,1
+The lawyers believed the president and the students .,The president believed the students .,2,lexical_overlap,2,1,1
+Serious artists mentioned the senator .,Artists mentioned the senator .,0,subsequence,0,0,1
+Probably the authors thanked the manager .,The authors thanked the manager .,2,constituent,0,1,1
+The scientist by the presidents stopped the student .,The scientist stopped the student .,0,lexical_overlap,0,1,1
+"Since the authors recommended the artists , the scientist helped the professor .",The scientist helped the professor .,0,constituent,0,1,1
+Although the banker moved the judge danced .,The banker moved the judge .,2,subsequence,0,1,1
+Important secretaries slept .,Secretaries slept .,0,subsequence,0,2,1
+Popular bankers advised the student .,Bankers advised the student .,0,subsequence,0,1,1
+"Because the managers mentioned the lawyers , the actors admired the professor .",The actors admired the professor .,0,constituent,0,1,1
+The authors near the students believed the manager .,The students believed the authors .,2,lexical_overlap,2,1,1
+The tourists near the bankers ran .,The bankers ran .,2,subsequence,0,2,1
+The author learned that the presidents arrived .,The presidents arrived .,0,constituent,0,0,0
+The tourist contacted the president that advised the scientists .,The president advised the scientists .,0,lexical_overlap,0,1,1
+The secretary read the speech .,The secretary read .,0,subsequence,0,1,1
+The author behind the scientists slept .,The scientists slept .,2,subsequence,0,2,1
+The scientists advised the student who the lawyer avoided .,The student advised the lawyer .,2,lexical_overlap,2,1,1
+Without a doubt the professors avoided the student .,The professors avoided the student .,0,constituent,0,1,1
+"If the student encouraged the presidents , the scientist admired the secretaries .",The student encouraged the presidents .,2,constituent,0,1,1
+The scientists believed the lawyers and the professor .,The scientists believed the lawyers .,0,subsequence,0,1,1
+The presidents were stopped by the student .,The student stopped the presidents .,0,lexical_overlap,0,1,1
+The doctors next to the president called the professors .,The president called the professors .,2,subsequence,2,1,1
+Maybe the doctors supported the artists .,The doctors supported the artists .,2,constituent,1,1,0
+The senators and the lawyers encouraged the tourists .,The lawyers encouraged the tourists .,0,subsequence,0,1,1
+The secretary that stopped the president arrived .,The president arrived .,2,subsequence,0,0,1
+The judges and the bankers called the athlete .,The bankers called the athlete .,0,subsequence,0,2,1
+The senators introduced the athlete near the doctor .,The doctor introduced the senators .,2,lexical_overlap,2,2,1
+"Whether or not the president recognized the bankers , the students called the judges .",The students called the judges .,0,constituent,0,2,1
+The president by the doctor avoided the managers .,The president avoided the managers .,0,lexical_overlap,0,1,1
+The banker who contacted the actor advised the artists .,The actor advised the artists .,2,subsequence,0,1,1
+The tourist contacted the presidents who the artists introduced .,The tourist contacted the presidents .,0,subsequence,0,1,1
+The doctor that the lawyer avoided admired the bankers .,The lawyer avoided the doctor .,0,lexical_overlap,0,2,1
+Before the authors moved the senator advised the secretary .,The authors moved the senator .,2,subsequence,2,1,1
+The judges claimed that the scientists resigned .,The scientists resigned .,2,constituent,0,2,1
+"Unless the senators contacted the doctors , the professor helped the judges .",The senators contacted the doctors .,2,constituent,2,1,1
+The athlete was advised by the professors .,The professors advised the athlete .,0,lexical_overlap,0,1,1
+Since the manager presented the senator thanked the professors .,The manager presented the senator .,2,subsequence,0,1,1
+"Before the students avoided the manager , the artist called the author .",The students avoided the manager .,0,constituent,0,2,1
+The author next to the banker contacted the managers .,The author contacted the managers .,0,lexical_overlap,0,1,1
+Of course the secretary encouraged the doctor .,The secretary encouraged the doctor .,0,constituent,0,1,1
+"The professors believed the tourist , and the student supported the doctor .",The student supported the doctor .,0,constituent,0,1,1
+The senators thanked the manager investigated in the laboratory .,The manager investigated in the laboratory .,2,subsequence,0,1,1
+The president was encouraged by the secretary .,The president encouraged the secretary .,2,lexical_overlap,0,1,0
+The manager contacted the doctors .,The doctors contacted the manager .,2,lexical_overlap,2,1,1
+The actor recommended the lawyer near the tourists .,The tourists recommended the actor .,2,lexical_overlap,2,1,1
+The president and the senator introduced the students .,The president introduced the students .,0,lexical_overlap,0,1,1
+The senators supported the judge near the tourist .,The judge supported the senators .,2,lexical_overlap,2,1,1
+The tourists assumed that the professor encouraged the lawyers .,The professor encouraged the lawyers .,2,constituent,1,1,1
+The judge contacted the artists and the presidents .,The judge contacted the presidents .,0,lexical_overlap,0,1,1
+"Although the athletes danced , the secretaries contacted the student .",The athletes danced .,0,constituent,0,1,1
+The judge left the garden .,The judge left .,0,subsequence,0,2,1
+The tourists helped the scientist that ran .,The tourists helped the scientist .,0,subsequence,0,1,0
+Without a doubt the bankers saw the students .,The bankers saw the students .,0,constituent,0,1,1
+The artists mentioned the secretary investigated in the museum .,The secretary investigated in the museum .,2,subsequence,0,1,1
+Serious actors arrived .,Actors arrived .,0,subsequence,0,0,1
+The artists were thanked by the secretaries .,The artists thanked the secretaries .,2,lexical_overlap,0,1,1
+The senator behind the president thanked the athlete .,The senator thanked the athlete .,0,lexical_overlap,0,1,1
+The scientists called the bankers who saw the doctors .,The bankers saw the doctors .,0,lexical_overlap,0,1,1
+Helpful actors recognized the students .,Actors recognized the students .,0,subsequence,0,1,1
+The professors and the scientists called the judge .,The professors called the judge .,0,lexical_overlap,0,2,1
+The authors and the actors advised the secretaries .,The actors advised the secretaries .,0,subsequence,0,1,1
+The bankers in front of the professor thanked the athletes .,The bankers thanked the athletes .,0,lexical_overlap,0,2,1
+The professors recommended the author who supported the student .,The author supported the student .,0,lexical_overlap,0,1,1
+The tourist and the artist arrived .,The artist arrived .,0,subsequence,0,1,1
+The president behind the actors supported the artist .,The president supported the artist .,0,lexical_overlap,0,1,1
+The presidents by the athlete supported the artists .,The presidents supported the artists .,0,lexical_overlap,0,1,1
+"Since the artist recognized the authors , the secretaries avoided the manager .",The artist recognized the authors .,0,constituent,0,1,1
+The students knew the actor avoided the doctors .,The students knew the actor .,2,subsequence,0,1,1
+The tourist helped in the laboratory admired the artist .,The tourist helped in the laboratory .,2,subsequence,0,1,0
+The senator who helped the lawyer thanked the tourist .,The senator helped the lawyer .,0,lexical_overlap,0,1,1
+The doctors were stopped by the manager .,The manager stopped the doctors .,0,lexical_overlap,0,1,1
+The senator saw the athletes and the bankers .,The athletes saw the bankers .,2,lexical_overlap,2,1,1
+Hopefully the senators waited .,The senators waited .,2,constituent,0,1,1
+The managers learned that the doctors shouted .,The doctors shouted .,0,constituent,0,1,1
+The artist behind the president advised the managers .,The president advised the managers .,2,subsequence,0,1,1
+Suddenly the banker introduced the managers .,The banker introduced the managers .,0,constituent,0,1,1
+Clearly the athletes recognized the tourists .,The athletes recognized the tourists .,0,constituent,0,1,1
+"The actors waited , or the professors ran .",The professors ran .,2,constituent,0,2,0
+Obviously the students advised the lawyers .,The students advised the lawyers .,0,constituent,0,1,1
+The authors by the student saw the professor .,The authors saw the professor .,0,lexical_overlap,0,1,1
+"The secretary helped the bankers , or the authors encouraged the actors .",The authors encouraged the actors .,2,constituent,0,1,1
+The lawyer and the athlete recommended the actors .,The lawyer recommended the actors .,0,lexical_overlap,0,1,1
+The judges and the actor supported the senators .,The judges supported the actor .,2,lexical_overlap,2,1,1
+The scientists mentioned the doctors by the president .,The scientists mentioned the doctors .,0,subsequence,0,1,1
+The president read the report .,The president read .,0,subsequence,0,2,1
+The athletes helped the presidents and the senator .,The athletes helped the presidents .,0,subsequence,0,1,0
+The manager recommended the author who thanked the artist .,The author thanked the artist .,0,lexical_overlap,0,1,1
+The scientist next to the athletes stopped the author .,The athletes stopped the author .,2,subsequence,2,1,1
+Suddenly the bankers performed .,The bankers performed .,0,constituent,0,1,1
+The manager believed the athlete arrived .,The manager believed the athlete .,2,subsequence,0,1,1
+The actors admired the student behind the professor .,The actors admired the student .,0,subsequence,0,1,0
+The lawyers knew that the president helped the authors .,The president helped the authors .,0,constituent,0,1,1
+Happy actors helped the managers .,Actors helped the managers .,0,subsequence,0,1,0
+Before the lawyers fought the bankers stopped the judges .,The lawyers fought the bankers .,2,subsequence,0,1,1
+The lawyers hoped that the managers stopped the bankers .,The managers stopped the bankers .,2,constituent,2,1,1
+The managers mentioned the athlete behind the banker .,The athlete mentioned the managers .,2,lexical_overlap,2,1,1
+The banker called the president and the scientist .,The scientist called the president .,2,lexical_overlap,2,2,1
+The bankers and the lawyer advised the artists .,The bankers advised the lawyer .,2,lexical_overlap,2,1,1
+The author and the senator contacted the secretary .,The author contacted the secretary .,0,lexical_overlap,0,1,1
+The banker next to the artist introduced the scientists .,The artist introduced the scientists .,2,subsequence,2,1,1
+The athlete behind the tourists recognized the senators .,The tourists recognized the senators .,2,subsequence,0,1,1
+The athletes saw the tourist who danced .,The athletes saw the tourist .,0,subsequence,0,1,1
+The secretary contacted the professor next to the managers .,The secretary contacted the professor .,0,subsequence,0,1,1
+The artists mentioned the athletes next to the actor .,The athletes mentioned the actor .,2,lexical_overlap,2,2,1
+The tourist was mentioned by the judge .,The judge mentioned the tourist .,0,lexical_overlap,0,1,1
+The authors and the secretaries believed the scientists .,The authors believed the scientists .,0,lexical_overlap,0,1,1
+The secretaries were avoided by the banker .,The banker avoided the secretaries .,0,lexical_overlap,0,1,1
+The tourists advised the actor in front of the managers .,The managers advised the tourists .,2,lexical_overlap,2,1,1
+The athletes that thanked the lawyers admired the professor .,The lawyers admired the professor .,2,subsequence,0,1,1
+The lawyers who encouraged the professor danced .,The professor danced .,2,subsequence,0,2,1
+"The authors believed the actors , or the banker thanked the secretaries .",The authors believed the actors .,2,constituent,0,1,1
+"If the artists performed , the actors admired the judge .",The artists performed .,2,constituent,0,0,1
+The tourist was admired by the president .,The tourist admired the president .,2,lexical_overlap,0,1,0
+"After the student slept , the secretaries arrived .",The secretaries arrived .,0,constituent,0,0,1
+The authors next to the bankers resigned .,The bankers resigned .,2,subsequence,0,2,1
+"Though the tourist waited , the artist encouraged the professors .",The artist encouraged the professors .,0,constituent,0,1,1
+The doctors paid in the laboratory shouted .,The doctors paid in the laboratory .,2,subsequence,0,1,1
+The authors thanked the scientists .,The scientists thanked the authors .,2,lexical_overlap,2,1,1
+The professors knew the artists danced .,The professors knew the artists .,2,subsequence,0,1,1
+The artist heard the scientists ran .,The artist heard the scientists .,2,subsequence,0,1,1
+While the senators presented the student avoided the professor .,The senators presented the student .,2,subsequence,0,1,2
+"While the student contacted the lawyers , the artists recognized the manager .",The student contacted the lawyers .,0,constituent,0,1,1
+The professors and the authors avoided the secretary .,The professors avoided the authors .,2,lexical_overlap,2,2,1
+"In case the authors advised the athlete , the secretary contacted the artist .",The authors advised the athlete .,2,constituent,0,1,1
+The tourists stopped the athlete next to the actor .,The tourists stopped the athlete .,0,subsequence,0,1,1
+"Whether or not the judge helped the professors , the lawyers thanked the manager .",The judge helped the professors .,2,constituent,1,1,1
+The artists who the scientist encouraged believed the professors .,The scientist encouraged the artists .,0,lexical_overlap,0,2,1
+Serious judges contacted the professor .,Judges contacted the professor .,0,subsequence,0,1,1
+The athlete that the professor recognized supported the secretaries .,The secretaries supported the athlete .,2,lexical_overlap,0,1,1
+The lawyer believed the scientists who the judges stopped .,The judges believed the lawyer .,2,lexical_overlap,2,1,1
+"The students advised the professor , or the secretaries waited .",The students advised the professor .,2,constituent,0,1,1
+"Unless the scientist arrived , the professor stopped the banker .",The professor stopped the banker .,2,constituent,0,1,1
+The professor remembered that the managers recognized the senator .,The managers recognized the senator .,0,constituent,0,1,1
+The tourists helped the lawyer that recognized the professor .,The tourists helped the lawyer .,0,subsequence,0,1,1
+"The authors thanked the senator , and the tourists performed .",The tourists performed .,0,constituent,0,1,0
+The author assumed that the scientists called the judges .,The scientists called the judges .,2,constituent,2,2,1
+The student supported the lawyer who the secretaries contacted .,The lawyer supported the student .,2,lexical_overlap,2,1,1
+Angry doctors encouraged the president .,Doctors encouraged the president .,0,subsequence,0,1,1
+The student explored the museum .,The student explored .,0,subsequence,0,1,1
+The athletes near the banker believed the scientists .,The athletes believed the scientists .,0,lexical_overlap,0,1,1
+The senators helped the secretary in front of the artist .,The senators helped the secretary .,0,subsequence,0,1,1
+The presidents that the tourists contacted recognized the athlete .,The presidents recognized the athlete .,0,lexical_overlap,0,1,0
+"Unless the professor slept , the tourist saw the scientist .",The tourist saw the scientist .,2,constituent,0,1,1
+"If the authors encouraged the bankers , the doctors recognized the managers .",The doctors recognized the managers .,2,constituent,0,1,1
+The actors left the forest .,The actors left .,0,subsequence,0,1,1
+Obviously the senators recognized the lawyers .,The senators recognized the lawyers .,0,constituent,0,1,1
+The actor recognized the senator .,The senator recognized the actor .,2,lexical_overlap,2,1,1
+The lawyers avoided the doctors .,The doctors avoided the lawyers .,2,lexical_overlap,2,1,1
+The athlete knew the student performed .,The athlete knew the student .,2,subsequence,0,1,1
+The artist by the manager shouted .,The manager shouted .,2,subsequence,0,1,1
+"The judge performed , or the actor shouted .",The judge performed .,2,constituent,0,1,0
+The student was avoided by the bankers .,The student avoided the bankers .,2,lexical_overlap,0,1,1
+"If the doctor stopped the tourist , the athletes avoided the senators .",The athletes avoided the senators .,2,constituent,0,1,1
+"The manager slept , and the tourist helped the professor .",The manager slept .,0,constituent,0,2,0
+The lawyers paid the professors .,The lawyers paid .,0,subsequence,0,1,1
+The lawyers hoped that the presidents introduced the judges .,The presidents introduced the judges .,2,constituent,2,1,1
+"The athletes advised the scientist , and the judges waited .",The judges waited .,0,constituent,0,1,1
+"The doctors believed the judges , or the athlete supported the scientist .",The doctors believed the judges .,2,constituent,0,1,1
+The athlete in front of the professor saw the tourists .,The professor saw the tourists .,2,subsequence,2,1,1
+"Unless the manager thanked the senators , the secretaries danced .",The secretaries danced .,2,constituent,0,2,1
+"The senators slept , and the scientist contacted the judge .",The scientist contacted the judge .,0,constituent,0,1,1
+The actor said that the artists slept .,The artists slept .,2,constituent,0,2,1
+The senator hoped that the actors supported the artists .,The actors supported the artists .,2,constituent,1,1,1
+The judges avoided the artist who the authors thanked .,The judges avoided the artist .,0,subsequence,0,2,2
+The athlete paid in the library supported the doctors .,The athlete paid in the library .,2,subsequence,0,2,1
+The manager next to the artist supported the president .,The manager supported the president .,0,lexical_overlap,0,1,1
+The professor paid the presidents .,The professor paid .,0,subsequence,0,1,1
+The authors and the lawyers introduced the actor .,The authors introduced the actor .,0,lexical_overlap,0,1,1
+The authors that the banker mentioned believed the actor .,The banker mentioned the authors .,0,lexical_overlap,0,1,1
+The presidents called the manager and the scientists .,The manager called the scientists .,2,lexical_overlap,2,1,1
+The lawyer forgot that the student danced .,The student danced .,0,constituent,0,1,1
+While the scientists moved the secretaries admired the actor .,The scientists moved the secretaries .,2,subsequence,0,1,1
+"If the actors saw the manager , the tourists admired the senator .",The actors saw the manager .,2,constituent,0,1,1
+Popular secretaries encouraged the actor .,Secretaries encouraged the actor .,0,subsequence,0,1,1
+The actor mentioned the managers next to the professor .,The actor mentioned the managers .,0,subsequence,0,1,1
+The professor who the banker stopped saw the student .,The banker stopped the professor .,0,lexical_overlap,0,2,1
+"Although the secretary encouraged the judge , the professors supported the doctors .",The professors supported the doctors .,0,constituent,0,1,1
+The students who called the lawyers believed the tourist .,The lawyers believed the students .,2,lexical_overlap,2,1,1
+The president won the prize .,The president won .,0,subsequence,0,1,1
+The artists called the scientist paid in the laboratory .,The scientist paid in the laboratory .,2,subsequence,0,1,1
+Probably the student waited .,The student waited .,2,constituent,0,1,1
+The lawyer avoided the scientist who the president introduced .,The lawyer avoided the scientist .,0,subsequence,0,2,1
+The author introduced the professors and the lawyers .,The lawyers introduced the professors .,2,lexical_overlap,2,1,1
+The secretaries were thanked by the manager .,The manager thanked the secretaries .,0,lexical_overlap,0,1,1
+"The scientist thanked the tourist , and the authors avoided the senators .",The scientist thanked the tourist .,0,constituent,0,1,1
+"Because the doctor danced , the president encouraged the lawyer .",The doctor danced .,0,constituent,0,2,1
+"The managers saw the athlete , or the actor admired the judges .",The actor admired the judges .,2,constituent,0,1,0
+"If the tourist resigned , the scientists recognized the students .",The tourist resigned .,2,constituent,0,2,1
+The secretary near the author shouted .,The author shouted .,2,subsequence,2,1,1
+The professor advised the doctor and the actors .,The doctor advised the actors .,2,lexical_overlap,2,1,1
+Certainly the doctors ran .,The doctors ran .,0,constituent,0,2,1
+The doctors who mentioned the lawyers ran .,The lawyers ran .,2,subsequence,0,2,1
+The scientist was supported by the managers .,The scientist supported the managers .,2,lexical_overlap,0,1,0
+The president ate the salad .,The president ate .,0,subsequence,0,2,1
+The presidents admired the artists who thanked the students .,The artists thanked the students .,0,lexical_overlap,0,1,0
+The judges that mentioned the lawyer avoided the artist .,The judges avoided the artist .,0,lexical_overlap,0,2,1
+Because the author stopped the senator performed .,The author stopped the senator .,2,subsequence,0,1,1
+Probably the secretaries thanked the manager .,The secretaries thanked the manager .,2,constituent,0,1,1
+"The athletes thanked the senator , and the manager saw the tourist .",The athletes thanked the senator .,0,constituent,0,1,1
+The athletes called the banker next to the lawyers .,The athletes called the banker .,0,subsequence,0,2,1
+The banker who saw the judge shouted .,The judge shouted .,2,subsequence,0,1,1
+The professor called the managers .,The managers called the professor .,2,lexical_overlap,2,1,1
+The manager and the professors ran .,The professors ran .,0,subsequence,0,2,1
+The tourist recommended the actors and the doctors .,The actors recommended the doctors .,2,lexical_overlap,2,1,1
+The author supported the banker and the secretaries .,The author supported the secretaries .,0,lexical_overlap,0,1,1
+The presidents encouraged the senator next to the banker .,The presidents encouraged the senator .,0,subsequence,0,1,1
+The tourists next to the president believed the senators .,The president believed the tourists .,2,lexical_overlap,2,1,1
+"Whether or not the tourist helped the actor , the bankers called the senator .",The tourist helped the actor .,2,constituent,0,1,2
+The bankers recognized the secretaries .,The secretaries recognized the bankers .,2,lexical_overlap,2,1,1
+The lawyer avoided the actors and the presidents .,The lawyer avoided the presidents .,0,lexical_overlap,0,2,1
+"If the scientists waited , the artist recognized the manager .",The artist recognized the manager .,2,constituent,0,1,1
+"Because the artist mentioned the professor , the scientists contacted the president .",The scientists contacted the president .,0,constituent,0,1,1
+Certainly the tourist performed .,The tourist performed .,0,constituent,0,1,1
+Popular tourists helped the senator .,Tourists helped the senator .,0,subsequence,0,1,0
+The doctor was helped by the authors .,The authors helped the doctor .,0,lexical_overlap,0,1,1
+"Although the athletes believed the senator , the students recommended the secretary .",The athletes believed the senator .,0,constituent,0,1,1
+Probably the secretaries shouted .,The secretaries shouted .,2,constituent,0,1,1
+"Because the scientists performed , the presidents waited .",The presidents waited .,0,constituent,0,1,1
+The scientists and the lawyers recognized the professor .,The scientists recognized the professor .,0,lexical_overlap,0,1,0
+The athletes behind the doctor admired the actor .,The doctor admired the actor .,2,subsequence,0,1,1
+"The secretaries waited , or the bankers slept .",The bankers slept .,2,constituent,0,2,1
+The presidents by the professors encouraged the judges .,The judges encouraged the presidents .,2,lexical_overlap,2,1,1
+The professor remembered that the secretaries introduced the judge .,The secretaries introduced the judge .,0,constituent,0,1,1
+Probably the author stopped the doctor .,The author stopped the doctor .,2,constituent,0,1,1
+The managers thanked the artist by the students .,The managers thanked the artist .,0,subsequence,0,1,1
+The managers who admired the senators avoided the artists .,The artists avoided the managers .,2,lexical_overlap,2,1,1
+Maybe the manager recognized the senator .,The manager recognized the senator .,2,constituent,0,1,0
+The scientists introduced the doctors in front of the managers .,The scientists introduced the doctors .,0,subsequence,0,1,1
+The athletes by the senator encouraged the secretaries .,The senator encouraged the secretaries .,2,subsequence,0,1,1
+The presidents and the tourists encouraged the banker .,The tourists encouraged the presidents .,2,lexical_overlap,2,1,0
+The tourist recommended the student that the lawyers avoided .,The student recommended the lawyers .,2,lexical_overlap,2,1,1
+Definitely the judge advised the professors .,The judge advised the professors .,0,constituent,0,1,1
+The professor thought that the actors mentioned the senators .,The actors mentioned the senators .,2,constituent,0,1,1
+The athlete remembered that the artist introduced the doctor .,The artist introduced the doctor .,0,constituent,0,1,1
+"Whether or not the student contacted the tourists , the professors danced .",The student contacted the tourists .,2,constituent,0,1,2
+The senator heard the doctor ran .,The senator heard the doctor .,2,subsequence,0,1,1
+The judges in front of the doctors called the professors .,The judges called the professors .,0,lexical_overlap,0,2,2
+The bankers admired the athletes and the presidents .,The presidents admired the athletes .,2,lexical_overlap,0,1,0
+"The secretary resigned , and the senator saw the student .",The secretary resigned .,0,constituent,0,1,1
+"The professors contacted the athletes , and the senators recognized the secretaries .",The senators recognized the secretaries .,0,constituent,0,1,1
+The scientists mentioned the senator near the tourists .,The scientists mentioned the senator .,0,subsequence,0,1,1
+The scientists by the senator encouraged the secretaries .,The senator encouraged the scientists .,2,lexical_overlap,2,1,1
+The actor recommended the students .,The students recommended the actor .,2,lexical_overlap,2,1,1
+"The athletes helped the professor , or the authors danced .",The authors danced .,2,constituent,0,1,1
+The senator said that the judge ran .,The judge ran .,2,constituent,0,2,2
+The judge who supported the actors encouraged the artists .,The actors encouraged the judge .,2,lexical_overlap,2,1,1
+The banker and the professors recommended the doctor .,The professors recommended the banker .,2,lexical_overlap,2,1,1
+Angry scientists recommended the secretary .,Scientists recommended the secretary .,0,subsequence,0,1,1
+The author wrote the book .,The author wrote .,0,subsequence,0,0,1
+The student helped in the office mentioned the tourists .,The student helped in the office .,2,subsequence,0,1,1
+Suddenly the scientist performed .,The scientist performed .,0,constituent,0,1,1
+The senator that stopped the secretary introduced the lawyers .,The secretary introduced the lawyers .,2,subsequence,0,1,1
+The artist mentioned the student who encouraged the judges .,The artist mentioned the student .,0,subsequence,0,1,0
+The student studied in the museum believed the professor .,The student studied in the museum .,2,subsequence,0,1,1
+The student paid in the museum mentioned the professors .,The student paid in the museum .,2,subsequence,0,1,1
+Obviously the scientist encouraged the senators .,The scientist encouraged the senators .,0,constituent,0,1,1
+The managers in front of the tourists introduced the lawyers .,The lawyers introduced the tourists .,2,lexical_overlap,2,1,1
+The actors helped in the office recommended the athletes .,The actors helped in the office .,2,subsequence,0,1,1
+"Unless the president contacted the actor , the banker ran .",The banker ran .,2,constituent,0,2,1
+The judge who stopped the senators helped the secretary .,The senators helped the judge .,2,lexical_overlap,2,1,1
+The judge who the banker contacted mentioned the senators .,The judge mentioned the senators .,0,lexical_overlap,0,1,1
+The secretary was thanked by the senator .,The senator thanked the secretary .,0,lexical_overlap,0,1,0
+The scientists paid the athletes .,The scientists paid .,0,subsequence,0,1,1
+"The secretaries contacted the author , and the doctors thanked the lawyers .",The doctors thanked the lawyers .,0,constituent,0,1,1
+The president was stopped by the managers .,The managers stopped the president .,0,lexical_overlap,0,1,1
+Without a doubt the manager arrived .,The manager arrived .,0,constituent,0,1,1
+Helpful tourists saw the secretary .,Tourists saw the secretary .,0,subsequence,0,1,1
+The professors won the competition .,The professors won .,0,subsequence,0,1,0
+The presidents knew the judge called the professors .,The presidents knew the judge .,2,subsequence,0,1,1
+"Because the artist recognized the senators , the doctors arrived .",The doctors arrived .,0,constituent,0,1,1
+The bankers forgot that the tourist arrived .,The tourist arrived .,0,constituent,0,1,1
+"If the tourist recommended the actors , the senators saw the authors .",The senators saw the authors .,2,constituent,0,1,1
+Obviously the managers admired the professor .,The managers admired the professor .,0,constituent,0,1,0
+The author was believed by the secretary .,The secretary believed the author .,0,lexical_overlap,0,1,1
+The athletes were avoided by the professors .,The athletes avoided the professors .,2,lexical_overlap,0,2,1
+The managers believed that the tourists encouraged the senator .,The tourists encouraged the senator .,2,constituent,0,1,1
+The bankers hoped that the doctor advised the actors .,The doctor advised the actors .,2,constituent,2,1,1
+The senators believed the scientist and the presidents .,The senators believed the presidents .,0,lexical_overlap,0,1,1
+The president helped in the school mentioned the managers .,The president helped in the school .,2,subsequence,0,1,1
+The secretary who admired the actor contacted the judges .,The judges contacted the actor .,2,lexical_overlap,2,1,1
+The tourist and the professors thanked the president .,The professors thanked the president .,0,subsequence,0,1,0
+"Though the professors admired the lawyer , the scientist danced .",The professors admired the lawyer .,0,constituent,0,1,1
+The president in front of the authors advised the actors .,The authors advised the actors .,2,subsequence,2,1,1
+"Whether or not the managers contacted the artist , the tourist arrived .",The tourist arrived .,0,constituent,0,1,1
+The scientist learned that the students advised the managers .,The students advised the managers .,0,constituent,0,1,1
+The author who mentioned the lawyer thanked the managers .,The lawyer thanked the managers .,2,subsequence,0,1,1
+The professor next to the judges ran .,The judges ran .,2,subsequence,2,2,1
+The lawyer was admired by the banker .,The banker admired the lawyer .,0,lexical_overlap,0,1,0
+The lawyers were avoided by the athletes .,The athletes avoided the lawyers .,0,lexical_overlap,0,1,1
+The artists admired the doctors and the bankers .,The artists admired the bankers .,0,lexical_overlap,0,1,0
+The secretaries heard the senators introduced the artist .,The secretaries heard the senators .,2,subsequence,0,1,1
+The banker was believed by the senator .,The senator believed the banker .,0,lexical_overlap,0,1,1
+Popular actors shouted .,Actors shouted .,0,subsequence,0,1,1
+The doctor who believed the banker saw the lawyers .,The banker saw the lawyers .,2,subsequence,0,1,1
+"The managers saw the actors , or the doctors admired the lawyers .",The managers saw the actors .,2,constituent,0,1,1
+"Before the student danced , the professors waited .",The professors waited .,0,constituent,0,1,1
+The students introduced the secretaries who ran .,The students introduced the secretaries .,0,subsequence,0,1,1
+Hopefully the scientist mentioned the manager .,The scientist mentioned the manager .,2,constituent,0,1,1
+The scientist behind the author believed the managers .,The managers believed the scientist .,2,lexical_overlap,2,1,1
+"After the banker advised the president , the tourist saw the actor .",The banker advised the president .,0,constituent,0,1,1
+The doctor supported the senators investigated in the laboratory .,The senators investigated in the laboratory .,2,subsequence,0,1,1
+The president forgot that the professor shouted .,The professor shouted .,0,constituent,0,1,1
+The doctors read the play .,The doctors read .,0,subsequence,0,1,0
+Of course the actors slept .,The actors slept .,0,constituent,0,2,1
+The athlete that avoided the tourists introduced the senator .,The tourists introduced the senator .,2,subsequence,2,1,1
+The presidents and the student admired the athlete .,The presidents admired the student .,2,lexical_overlap,2,1,0
+The actor and the scientists called the lawyer .,The scientists called the actor .,2,lexical_overlap,2,2,1
+The judge who the president saw mentioned the artist .,The judge mentioned the artist .,0,lexical_overlap,0,1,1
+Maybe the presidents supported the senator .,The presidents supported the senator .,2,constituent,1,1,1
+The author read the column .,The author read .,0,subsequence,0,1,1
+The scientists by the lawyer saw the judge .,The scientists saw the judge .,0,lexical_overlap,0,1,1
+"Since the doctor avoided the lawyers , the artists recognized the tourists .",The doctor avoided the lawyers .,0,constituent,0,1,1
+The student left the country .,The student left .,0,subsequence,0,1,1
+The athlete near the scientist encouraged the managers .,The scientist encouraged the managers .,2,subsequence,2,1,1
+The professors thanked the secretary and the doctors .,The professors thanked the secretary .,0,subsequence,0,1,1
+The president in front of the artist mentioned the managers .,The artist mentioned the managers .,2,subsequence,2,1,1
+The actor that encouraged the banker believed the judges .,The banker believed the judges .,2,subsequence,0,1,1
+Certainly the doctor advised the presidents .,The doctor advised the presidents .,0,constituent,0,1,1
+The presidents were stopped by the athlete .,The presidents stopped the athlete .,2,lexical_overlap,0,1,1
+Maybe the lawyer slept .,The lawyer slept .,2,constituent,0,2,1

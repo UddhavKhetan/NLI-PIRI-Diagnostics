@@ -1,0 +1,1001 @@
+premise,hypothesis,gold_label,heuristic,pred_full,pred_hyp_only,pred_prem_only
+A woman is surfing,A fearful little boy is on a climbing wall,1,standard,2,1,1
+Some people are walking,A group of scouts are camping in the grass,1,standard,2,2,0
+The muscular black man is dancing and the man behind him is wearing green beads,The muscular man is dancing and the man behind him is wearing green beads,0,standard,0,1,1
+A man is having fun with water,A man is doing a card trick,1,standard,2,1,1
+There is no little girl playing the piano,A little girl is playing a grand piano on stage,2,standard,2,2,2
+There are no little boys playing outside with a soccer ball on the green grass,Two children are playing soccer in the park,1,standard,1,2,1
+A woman is cracking some eggs outside a bowl,A woman is adding ingredients to a bowl,1,standard,1,1,1
+The girl in blue is chasing the base runner with a number on the jersey,A man in blue has a yellow ball in the mitt,1,standard,2,2,1
+There is no man eating a pizza,A man is eating some food,1,standard,0,2,1
+The man is not taking a picture of himself and another guy,The man is taking a picture of himself and another guy,2,standard,2,1,1
+A boy is walking across a bridge,A person is stirring vegetables in a bowl,1,standard,2,2,1
+A man is singing and playing a guitar,There is no boy playing a piano,1,standard,2,2,1
+A brown and white dog is jumping in the air with a tennis ball in its mouth,A dog is missing the ball in mid air,1,standard,1,1,1
+A brown dog and a black dog are frolicking in the sand,A black dog is playing with a brown dog on the sand,0,standard,1,1,1
+A man is emptying a container made of plastic,A man is emptying a plastic container,0,standard,0,1,1
+One bearded man is standing by a shopping cart and is holding a cardboard sign,A man is holding a sign and is seeking money,1,standard,1,1,1
+A woman is standing near three children,There is no woman playing with two young boys at a park,1,standard,2,2,1
+A cute panda is lying down,The log is lying on the panda bear,1,standard,2,2,1
+A man is mixing the content of a bowl,A woman is mixing the content of a bowl,1,standard,2,1,1
+A flute is being played by a girl,A girl is making a flute which is not to be played,1,standard,2,2,1
+Some pieces of butter are being added to the stand mixer,Pieces of butter are being added to the stand mixer,0,standard,0,1,1
+A boy is standing next to the opening of a fountain,A girl is standing next to the opening of a fountain,1,standard,2,1,1
+A man is freeing a fish,A man is catching a fish,1,standard,0,2,1
+A dog is licking a baby,A baby is licking a dog,1,standard,2,2,1
+A man is fixing a silencer to a gun,A man is applying a silencer to a gun,0,standard,0,2,1
+A girl with red hair and red eyebrows is in midspeech,"The girl has red hair and eyebrows, several piercings in a ear and a tattoo on the back",1,standard,1,1,1
+A baby is splashing inside a blue paddling pool,A toddler is making a splash inside a blue paddling pool,0,standard,1,1,1
+A great dog is climbing a steep hill,A light brown dog is running up a street,1,standard,2,1,1
+Some people and vehicles are on a almost empty street,Pedestrians and cars are moving through a traffic jam in a big city,1,standard,2,1,1
+A large white crane is flying far above the water,A white bird is landing swiftly in the water,1,standard,2,2,1
+A man is dangerously throwing knives at a tree,The man isn't doing a magic trick,1,standard,0,2,1
+There is no man riding a mechanical bull,The man is riding a mechanical bull,2,standard,2,2,1
+The woman in the white sweater is not drawing a tattoo on the hand of a teenager,The woman in the white sweater is drawing a tattoo on the hand of a teenager,2,standard,2,2,1
+Two men are fighting in a cow pasture,Two men are fighting in a pen for cattle,1,standard,1,2,1
+A man in a shirt dyed purple is looking at a man in a black shirt who is doing a funny face,A man in a shirt dyed purple is looking at a man in a black shirt who is doing a face which looks funny,0,standard,0,1,1
+The white dog wearing reindeer ears is close to a brown dog,A white dog is wearing a Christmas reindeer headband and is playing with a brown dog in the grass,1,standard,1,1,1
+A brown dog is running through a snowy trail,A dog is running on a snowy path,0,standard,0,2,1
+Two men are fighting in a cattle pen,Nobody is fighting in a cow pasture,1,standard,2,2,1
+A chubby faced boy is wearing sunglasses,A girl is wearing sunglasses,1,standard,2,1,1
+A toy train is striking a toy car,A toy train is hitting a toy car,0,standard,0,2,1
+A person on a yellow bike is airborne,A cyclist on a yellow bike is airborne,0,standard,0,1,1
+Three people are walking across a rope and wood bridge over a river,People are not walking across a rope bridge over a rocky stream,1,standard,2,0,1
+A dog in a colored coat is running across the yard,A dog in the yard is running across colored coats,1,standard,0,2,1
+A girl is waking up,A child is waking up,0,standard,0,1,0
+A man is erasing some figures,A man is drawing on a digital dry erase board,1,standard,1,2,1
+A man is playing an electric guitar,A man is playing a guitar,0,standard,0,1,1
+A man is riding an electric bicycle,There is no man riding an electric bicycle,2,standard,2,2,1
+A woman is cutting broccoli,There is no man cutting tomatoes,1,standard,2,2,1
+A man is wearing a hard hat and dancing,A man is wearing a hat which is hard and is dancing,0,standard,0,2,1
+There is no clown singing,A clown is singing,2,standard,2,2,1
+A man is dancing upside-down on the ceiling,A man is idling on the floor,1,standard,2,1,1
+The horse is being ridden by a man,A man is driving a motorbike,1,standard,2,2,1
+A person is unfolding a tortilla,A man is folding a tortilla,1,standard,1,2,1
+The black player is making the white player a play near the end of a purple field,A man is wearing a sports uniform and is running down the field,1,standard,1,1,1
+A man is singing and playing a guitar,A man is playing a guitar,0,standard,0,1,1
+The deer is jumping over the low fence,A deer is jumping over a cyclone fence,1,standard,1,2,1
+A brown dog is jumping in the air,There is no brown dog jumping in the air,2,standard,2,2,1
+Someone is beating an egg,The lady is stirring eggs in a bowl,1,standard,2,2,1
+A person on a bike is jumping through the air and the sun is flaring through the bike frame,The person is not flying through the air on a bicycle,1,standard,2,0,1
+Two dogs of different breeds are looking at each other across a street,There are no dogs of different breeds looking at each other across a street,2,standard,2,2,1
+The man in blue is posing for a picture next to a vehicle,The man in blue is posing for a picture next to a car,0,standard,0,1,1
+A man is falling off a horse on a track and is laid in the wild,The cowboy is tossing the blue and red pants towards the horse,1,standard,2,2,1
+A man is rowing a boat,A man is shooting with a weapon,1,standard,2,2,1
+Some teenage girls are dancing for the camera,Some teenage girls are standing still in front of the camera,1,standard,2,1,1
+Tofu is being sliced by a woman,A woman is slicing tofu,0,standard,0,2,1
+A person is cutting a capsicum into pieces,One person is slicing a clove of garlic into pieces,1,standard,2,2,1
+A man is ignoring a girl via an internet camera,A boy in his teens is talking to a girl with a webcam,1,standard,2,1,1
+The men are carefully putting suitcases into the trunk of a car,The men are putting suitcases into the trunk of a car,0,standard,0,2,1
+A distant person with a blue backpack is hiking in rocky area,The person is hiking,0,standard,0,1,1
+A dog is not running towards a ball,A dog is running towards a ball,2,standard,2,1,0
+A woman is gracefully dancing on a stage,A woman is dancing on a stage,0,standard,0,2,1
+A man is shaking a drink,A man is mowing a lawn,1,standard,2,2,1
+The group of people is sitting on the ground outside a monument,Some people are sitting on the ground outside a monument,0,standard,0,1,1
+A woman is peeling a potato,There is no woman slicing a tomato,1,standard,2,2,1
+The group of people is sitting on a ledge which is rocky and a scenic view is behind them,Four people are sitting on a low cement ledge,1,standard,2,1,1
+A man is sharpening a knife,There is no man carrying a woman,1,standard,2,2,1
+Two men are leaving the stage,Mimes are performing on a stage,1,standard,2,2,1
+Some men are sawing,Men are sawing,0,standard,0,2,1
+A man is wearing a hard hat and dancing,There is no man with a hard hat dancing,2,standard,2,2,1
+A few people are dancing,A group of people are dancing,0,standard,0,2,1
+A man is punching a soccer ball,A man is kicking a soccer ball,1,standard,2,1,1
+A woman is tapping her fingers on a table,A woman is tapping her fingers nervously,1,standard,1,2,1
+A woman with a ponytail is climbing down a wall of rock,A woman with a ponytail is climbing a wall of rock,0,standard,0,1,1
+The man is not putting chicken into the container,The man is putting chicken into the container,2,standard,2,2,1
+The woman is wearing a red jacket and holding a glass in front of the man in a white t-shirt,A person is shirtless and is putting down the beer,1,standard,2,2,1
+A woman is exercising,There is no woman exercising,2,standard,2,2,0
+A young lady in a bikini is lying on the beach,A lady who looks young is lying on the beach,0,standard,0,2,1
+The boy is checking a calendar,A boy is looking at a calendar,0,standard,0,1,1
+There is no dog jumping for a Frisbee in the snow,A dog is jumping for a Frisbee in the snow,2,standard,2,2,1
+Two women are wearing bikinis and are walking on the sand,There are no women wearing bikinis on the sandy beach,2,standard,2,0,1
+A man is going into the water,A man is rising from a swamp,1,standard,1,2,1
+People are walking through a street which is crowded,A man and a woman are walking down a city street,1,standard,1,1,1
+Two brown and white dogs are fighting on a grassy area in front of a tree,Two brown and white dogs are fighting on a grassy area behind a tree,1,standard,0,2,1
+Two brown dogs are playing with a frisbee in the water,Two brown dogs are playing with the frisbee in the water,0,standard,0,1,1
+A race car driver is standing up and is fiercely pointing his hand at the sky,A race car driver is standing up and pointing his hand at the sky,0,standard,0,2,1
+The woman is dicing garlic,A woman is slicing garlic,0,standard,0,2,1
+"A child, who looks young, is standing in front of some trees",A young child is standing in front of some trees,0,standard,0,1,0
+Three women are sitting together near woven walls,Three women are sitting in a village,1,standard,1,1,1
+The woman is picking up a kangaroo that is little,The woman is picking up the kangaroo,0,standard,0,2,1
+A dog is fetching a stick out of very clear water,A big black and white dog is carrying a stick and is swimming,1,standard,1,2,1
+A motorcyclist on a bike is leaning into a sharp corner,A man on a motorcycle is going around a corner,1,standard,0,2,0
+A famous singer is dancing on the ceiling,A person is dancing on the ceiling,0,standard,0,2,1
+A surfer is riding the wave,There is no man tying a shoe,1,standard,2,2,1
+Two teams are competing in a baseball game,A player is running with the ball,1,standard,1,1,1
+A man is climbing a rope,A man is coming down a rope,1,standard,2,1,1
+A girl has black and orange patches on the cheeks,A girl is standing alone and wears a black shirt and pink beads,1,standard,1,1,1
+A lion is slowly walking,A lion is slowly moving around,0,standard,0,2,1
+Three hikers are standing on a mountainside and looking at the view with a pair of binoculars,Three men are sitting on a hill and looking at the mountains and sky,1,standard,2,1,1
+A man is cutting a potato,There is no man cutting a potato,2,standard,2,2,1
+A man is playing the guitar,A woman is slicing an octopus,1,standard,2,2,1
+A man is playing a guitar,There is no man playing a guitar,2,standard,2,2,1
+An elderly man is sitting on a bench,A young man is sitting on a bench,1,standard,2,1,1
+The person is playing the flute,A man is playing the guitar,1,standard,2,1,1
+The blond girl is dancing in front of the sound equipment,There is no girl in white dancing,1,standard,2,2,1
+A guitar is being played by a kid,A kid is playing guitar,0,standard,0,2,1
+A small boy in a striped shirt is sliding out of a green tube,A little boy is crawling in a green tunnel with a smile on his face,1,standard,2,2,1
+A woman is planting some flowers,A woman is cutting some flowers,1,standard,2,2,1
+A boy is wearing a white hat and is walking on the beach,A little kid is wearing a hat and is walking in the wet sand,1,standard,1,1,1
+A man on inline skates is skating at a skate park,A trick is being performed by a rollerblader on a ramp,1,standard,2,1,1
+A man is in a parking lot and is playing tennis against a large wall,A man is in a parking lot and is playing tennis against a friend,1,standard,1,2,1
+A man is playing a guitar,A man is playing a keyboard,1,standard,2,2,1
+Two dogs are playing on a rocky beach,A black dog is approaching a golden dog on pebbly beach,1,standard,1,1,1
+The men are carefully putting suitcases into the trunk of a car,The men are packing suitcases into the trunk of a car,0,standard,0,2,1
+A cyclist is biking in a snowy forest at night,The rider is biking in the snow and wearing a red jacket,1,standard,1,1,1
+The guitar is being played by a kid,A kid is playing the guitar,0,standard,0,2,1
+A man is standing bare-chested beside a yellow canoe on some rocks with water in the background,A man is wearing a red jacket and standing beside a yellow canoe on some rocks with water in the background,1,standard,2,1,1
+A cat is playing with a watermelon,A woman is looking at the view of a city,1,standard,2,1,1
+A man is riding a horse,There is no man riding a horse,2,standard,2,2,1
+Two dogs are playing on the beach,There are no white dogs running and jumping along a beach,1,standard,2,2,1
+A cat is crawling under a piece of furniture,There is no cat sliding upside down under a couch,1,standard,2,2,1
+A man is playing a wooden flute,A man is playing the piano,1,standard,2,2,1
+A child is smiling at the camera and swimming underwater,An animal is barking at a ball,1,standard,2,2,1
+The group of people is sitting on a rocky ledge and a scenic view is behind them,The group of people is not sitting on a rocky ledge with a scenic view behind them,2,standard,2,0,1
+There is no little girl peddling a scooter,A little girl is peddling a scooter,2,standard,2,2,1
+A brown and white dog is playing on the grass,A dog is playing in the green field,1,standard,1,2,1
+Someone is scratching the belly of an animal,Someone is scratching the back of an animal,1,standard,0,1,1
+A young child is wearing green boots and playing in a puddle full of mud,A little boy is jumping into a puddle in the street,1,standard,1,2,1
+A man is loading a rifle with bullets,A woman is seasoning a ham,1,standard,2,2,1
+A yellow dog is running on white snow on a sunny day,"A dog, which is tan, is running through the snow",0,standard,2,2,1
+The red and brown dog is digging its nose inside a holiday gift bag,The dog has its head inside a red and green gift bag,1,standard,1,2,1
+Two men are riding an orange raft on the shore,The orange rescue boat is rushing across the water,1,standard,2,2,1
+The snowboarder is leaping over white snow,A person who is practicing snowboarding jumps into the air,0,standard,1,1,1
+A girl is surrounding brown dressed children who are closing the eyes,A girl in a brown dress is being surrounded by children and is closing her eyes,1,standard,0,1,0
+There is no man sprinkling shredded cheese on a pizza,A man is putting some cheese on a pizza,2,standard,2,2,1
+Two guys are sitting around a table and holding beers in their hands,A man in a white shirt and sunglasses and a man in a black shirt and sunglasses are sitting at a table with four bottles of beer,1,standard,1,2,1
+Several women are wearing pink bunny ears and are pointing to the right,Several women are taking off pink bunny ears and are pointing to the left,1,standard,2,2,1
+A young boy is sitting in a bathing suit and waiting for the next race,A young swimmer is sitting in a bathing suit and waiting for the next race,0,standard,1,1,1
+A child in light colored clothing is lying with his arms crossed,Two girls are playing inside a jumper house,1,standard,2,1,1
+A skateboarder is doing acrobatics on a half pipe,A man is skateboarding on a half pipe,0,standard,1,2,1
+Pedestrians and cars are moving through a traffic jam in a big city,Pedestrians and cars are moving through a traffic jam in the big city,0,standard,0,1,1
+A woman is peeling a potato,The man is eating potato slices,1,standard,2,1,1
+A girl is communicating with sign language,A young boy is using sign language,1,standard,2,1,0
+Rollerbladers are rolling in formation down a hill,Rollerbladers are not rolling in formation down a hill,2,standard,2,0,1
+A nude lady is walking in front of a crowd in body paint,A topless girl is covered in paint,0,standard,0,1,1
+A dog is standing on the side of a mountain,A dog is standing on a mountain,0,standard,0,2,1
+The lady is dicing onions,Rugby players are tackling each other,1,standard,2,2,1
+Two teams are playing soccer,Different football players are teaming on a field,1,standard,2,1,1
+A boy and a girl in swimsuits are wearing arm floats,A boy and a girl in swimsuits are wearing floats for their arms,0,standard,0,1,1
+Nobody is riding the bicycle on one wheel,A person in a black jacket is doing tricks on a motorbike,1,standard,2,1,1
+A little girl is looking at a woman in costume,People are looking at some costumes gathered in the vicinity of the forest,1,standard,1,1,0
+A woman is talking on a telephonic device,A woman is talking on a telephone,0,standard,0,2,0
+A boy is happily playing the piano,A piano is being played by a man,1,standard,2,2,1
+The boy and the girl are playing and wearing arm floats,The boy and the girl are not playing and wearing arm floats,2,standard,2,2,1
+The band is singing ,The band isn't singing,2,standard,2,1,1
+A dog is near the red ball in the air,A dog is far from the red ball in the air,2,standard,2,2,1
+A group of people playing football is running in the field,A group of football players is running in the field,0,standard,0,2,1
+There is no woman riding a water scooter,A woman is riding a water scooter,2,standard,2,2,1
+A tiger is strolling around,A tiger cub is making a sound,1,standard,1,2,1
+There is no man playing a guitar,A man is singing and playing a guitar,2,standard,2,1,1
+A lady is standing near three children,A woman is standing near three children,0,standard,0,1,1
+The white bird is landing swiftly in the water,A large white crane is flying near the water,1,standard,2,2,1
+Two men and a girl in behind of a wood panel wall are posing with funny faces,Two men and a girl in front of a wood panel wall are posing with funny faces,1,standard,2,2,1
+People are sitting around a bonfire at night,Several people are sitting around a fire at night,0,standard,0,1,1
+A man is pouring oil into a skillet,A man is taking the oil out off a skillet,2,standard,2,2,1
+The rider is biking in the rain and wearing a red jacket,A cyclist is biking in a snowy forest at night,1,standard,2,1,1
+A man with a helmet painted red is riding a blue motorcycle down the road,A motorcyclist with a red helmet is riding a blue motorcycle down the road,0,standard,0,1,1
+The young girl in blue is having fun on a slide,The young girl in blue is enjoying a slide,0,standard,0,1,1
+A man is playing the guitar,A guitar is being played by a man,0,standard,0,2,1
+A dog is catching a ball in mid air,A brown and white dog is resting on the ground with a tennis ball in its mouth,1,standard,2,2,1
+There is no little girl with blond hair smiling and sitting on a swing,A little girl with blond hair is smiling and sitting on a swing,2,standard,2,1,1
+The man is singing and playing the guitar,A man is playing a guitar,0,standard,0,1,1
+Something is being fried by a woman,A woman is frying something,0,standard,0,2,1
+Some young dirt bikers are getting a dirt bike up a sandy hill,Some young bikers are getting a dirt bike up a sandy hill,0,standard,0,1,1
+A woman is cutting a white onion,A woman is cutting an onion,0,standard,0,2,1
+A yellow cat is chasing a ball,A yellow dog is chasing a ball,1,standard,2,2,1
+A boy is standing in the cold water,A boy is standing in the water,0,standard,0,1,1
+The person is slicing onions,A person is peeling an onion,1,standard,0,2,1
+The woman is dancing,The lady is dancing,0,standard,0,1,1
+Three men are not staring at the big green hills in the distance,Three men are looking into the distance,1,standard,2,1,1
+A dog is fetching a stick out of very clear water,A dog is fetching a stick out of very dirty water,1,standard,2,2,1
+A dog is playing on the green grass,The man is not playing a guitar,1,standard,0,0,1
+A man is playing the drums,A man is playing the drum,0,standard,0,2,1
+The south African plane is not flying in a blue sky,An airplane is flying through the air,1,standard,0,2,0
+A man is pouring oil into a pan,A man is pouring oil into a skillet,0,standard,1,2,1
+The large brown dog is running outside in the dirt,A dog is running alongside a fence on a dirt track,1,standard,1,2,1
+A horse is running,A woman is cutting an onion,1,standard,2,2,0
+Some men are fighting,A group of men is fighting,0,standard,0,2,1
+An old woman is carrying a lot of colorful scarves on the beach,A young woman is carrying a lot of colorful scarves on the beach,1,standard,2,1,1
+Two white cats are playing with a brown dog and a ball,Two white dogs and one brown dog are chasing a ball,1,standard,2,1,1
+A child is hitting a baseball,A family is watching a little boy who is missing a baseball,1,standard,2,1,1
+A person is standing on a mountain top,One man is standing on the top of the rocks with clouds behind them,1,standard,1,1,1
+The man is sitting next to a birdcage,The man is standing next to a bird cage,1,standard,2,1,1
+A black dog and a yellow dog are playing with each other,Two cats are in a kennel on their hind legs and are facing one another,1,standard,2,2,1
+The horse is being ridden by a man,A man is parking a motorbike,1,standard,2,2,1
+Three men are practicing karate in a field,Three men are practicing karate outdoors,0,standard,0,1,1
+A monkey is kicking a person,A person is being kicked by a monkey,0,standard,0,2,1
+A brown duck with a green head is flapping its wings in the water,A bird is flapping its wings on the water,0,standard,0,2,1
+A door is being opened by a man,A man is opening a door,0,standard,0,1,1
+A woman is riding a horse,A woman is not riding a horse,2,standard,2,0,1
+The man is dipping into a swamp,A man is coming out of the water,1,standard,1,2,1
+The fish are immobile,A fish is swimming,2,standard,2,2,0
+A brown and white dog is jumping in the air with a tennis ball in its mouth,A ball is being caught by a dog in mid air,1,standard,0,2,1
+The boy is standing next to the opening of a fountain,A boy is standing next to the opening of a fountain,0,standard,0,1,1
+Kids are being dressed in costumes and playing a game,A young boy with painted face is standing next to some other children,1,standard,2,1,1
+The player is dunking the basketball into the net and a crowd is in background,A man with a jersey is dunking the ball at a basketball game,1,standard,1,1,1
+A woman is slicing an eggplant,A woman is slicing a vegetable,0,standard,0,2,1
+A monkey is brushing the dog,The monkey is not brushing a bull dog,2,standard,2,2,1
+A person is eating in a restaurant,A person is eating at a table,1,standard,1,1,1
+A woman who is wearing a pink scarf is riding a bike down a bridge built for pedestrians,"The woman wearing silver pants, pink bellbottoms and a pink scarf is riding a bike",1,standard,1,1,1
+Three men are jumping off a tall wall,Three men are jumping off a wall,0,standard,0,2,1
+A man is slicing a potato into pieces,A man is cutting a potato,0,standard,0,2,1
+The girl is spraying the plants with water,The girl is watering the plants,0,standard,0,2,1
+Different things from a war are being shown to some people by a veteran,Three friends are making faces for the camera,1,standard,2,1,1
+A woman with a ponytail is climbing a wall of rock,"The climbing equipment to rescue a man is hanging from a white, vertical rock",1,standard,1,1,1
+There are no men fighting,Two men are fighting,2,standard,2,1,1
+A man is sitting on a chair and rubbing his eyes,A man with tattoos is lounging on a couch and is looking for a pencil,1,standard,1,2,1
+A man in a white hat is touching a cardboard box,A man in a black hat is reaching for a box,1,standard,2,1,1
+A motorcyclist on a bike is leaning into a sharp corner,There is no motorcyclist on a bike leaning into a sharp corner,2,standard,2,2,0
+A man is performing a handstand on the beach,A handstand is being performed by a man on the beach,0,standard,0,2,1
+Someone is banging a camera lens against a nail,There is no one banging a camera lens against a nail,2,standard,2,0,1
+A woman is playing an electric guitar,A woman is playing a guitar which is electric,0,standard,0,1,1
+A bird is fiercely flapping its wings on the water,A bird is flapping its wings on the water,0,standard,0,2,1
+The drums are being played by the man,The man is playing the drums,0,standard,0,2,1
+There is no dog bouncing on a trampoline,A dog is jumping on a trampoline,2,standard,2,2,1
+A child is sitting in a red and yellow toy car,There is no child sitting in a red and yellow toy car,2,standard,2,2,1
+A horse is being ridden by a man,A man is riding a horse,0,standard,0,2,1
+Two men and a girl in front of a wood panel wall are posing with funny faces,The friends are making faces for the camera,1,standard,1,1,1
+A man is wearing a blue checkered shirt and riding a unicycle in the street,A man is standing shirtless in the street,1,standard,2,1,1
+A dog is playing on the green grass,A brown and white cat is playing on the grass,1,standard,2,2,1
+A man is breaking a slab of concrete with a sledge hammer,The woman is using a sledgehammer to break a concrete block that is on another man,1,standard,2,2,1
+A large white crane is flying near the water,"A crane, which is large and white, is flying near the water",0,standard,0,2,1
+Two children are playing on a statue,A climber is parking with the children by a small statue,1,standard,1,2,1
+A little girl is playing a grand piano on stage,A little girl is playing the piano,0,standard,0,2,1
+One woman is peeling a potato,The potato isn't being peeled by a woman,2,standard,2,0,1
+People are riding and paddling a raft,People are paddling near a raft that is being ridden,1,standard,0,1,1
+Several kids are jumping on a trampoline,A man is jumping on a trampoline,1,standard,2,2,1
+A woman is swiftly snowboarding down an incline and another woman is standing behind her,A woman is snowboarding down an incline and another woman is standing behind her,0,standard,0,1,0
+A man is riding a motorbike,A man is riding a motorcycle,0,standard,0,2,0
+A woman is petting a dog near a stone trail,A woman is petting a dog near a stone path,0,standard,0,2,1
+A person is slicing some onions,A hamster is singing,1,standard,2,2,1
+A woman is being caged for the dance,The woman is dancing,1,standard,0,1,1
+A man is dancing,A person is dancing,0,standard,0,1,1
+Someone is writing,Someone is typing,1,standard,2,1,1
+The adults and children are being grouped near an outdoor seating arrangement,The adults and children are being gathered near an outdoor seating arrangement,0,standard,0,1,1
+The singer is leaving the band,The band is singing ,1,standard,2,1,1
+A woman is marching with a pair of dogs,A woman is walking with a pair of dogs,0,standard,0,1,1
+A group of children in uniforms is standing at a gate and one is kissing the mother,A group of children wearing the same clothes is waiting at a gate and one is kissing the mother,0,standard,0,2,1
+A man is packing away an acoustic guitar,A man is playing an acoustic guitar,1,standard,2,1,1
+The man is abruptly knocked off of a horse,The man is being knocked off of a horse,0,standard,0,1,1
+A woman on a boulder is lying on a blanket and reading a book,A woman on a rock is lying on a blanket and reading a book,0,standard,0,2,1
+A man is riding a rodeo bull,A man is riding a mechanical bull,1,standard,1,2,1
+The man is talking on the phone,The man is speaking on the telephone,0,standard,0,1,1
+A man with tattoos is lounging on a couch and holding a pencil,There is no man sitting on a chair and rubbing his eyes,1,standard,2,0,1
+The cat is licking a bottle,A cat is playing with a small bottle,1,standard,1,2,1
+A woman is peeling a potato,A woman is putting away a potato,1,standard,2,2,1
+The ice skating rink placed outdoors is full of people,A lot of people are in an ice skating park,0,standard,1,1,1
+Many cheerleaders are walking in a parade,"The cheerleaders are parading and wearing black, pink and white uniforms",1,standard,1,1,1
+A little boy is playing a guitar,There is no boy playing guitar,2,standard,2,2,1
+There is no woman frying something,A woman is frying something,2,standard,2,2,1
+A famous singer is dancing on the ceiling,A man is dancing on the ceiling,1,standard,1,2,1
+A man in a big city is holding a sign and begging for money,A man in a small city is doing charity work,1,standard,2,1,1
+The black and white dog is running and a person stands behind it,A little dog is sprinting and the person who owns it is trying to catch it,1,standard,1,1,0
+The man is doing a wheelie with a motorcycle on ground which is mostly barren,A courageous performer is doing a wheelie with a motorcycle over a man in a blue jumpsuit,1,standard,1,1,1
+Two construction workers are sitting up on the side of a building,Two construction workers are sitting up on the top of a building,1,standard,2,1,1
+A woman is washing her feet,A woman is brushing her feet,1,standard,2,2,1
+Two people are sitting on a white bench,Two people are sitting on a bench,0,standard,0,1,1
+A brown and white animal is jumping on the sidewalk,A little brown and white dog is running on the sidewalk,1,standard,1,1,1
+A tiger is pacing around a cage,A tiger is walking around a cage,0,standard,0,2,1
+The group of people is sitting on a ledge which is rocky and a scenic view is behind them,The group of people is sitting on a rocky ledge and a scenic view is behind them,0,standard,0,1,1
+A boy is playing a guitar,A guitar is being played by a kid,0,standard,0,2,1
+The cat perched on the table is looking out the window,Someone on a perch is looking at a small wooden cat that is on a white cabinet outside the window ,1,standard,1,1,1
+"A child, who has blond hair, is holding a yellow bottle",A blond child is holding a yellow bottle,0,standard,0,1,1
+"The player in purple, white and black is playing near the end of the field","The player in purple, white and black is not playing near the end of the field",2,standard,2,0,1
+The man is playing the piano with his nose,A man is playing the keyboard with his nose,0,standard,0,2,1
+A man is slicing the carrot with a machine,A man is being roped by a climber,1,standard,2,1,1
+Someone is playing piano,Someone is not playing piano,2,standard,2,0,1
+A dog is being teased by a monkey at the zoo,A monkey is pulling a dog's tail,1,standard,1,2,1
+A pet dog is standing on the bank and is looking at another brown dog in the pond,There is no pet dog standing on the bank and looking at another brown dog in the pond,2,standard,2,2,1
+A man is putting down the guitar,A woman is playing a guitar,1,standard,2,2,1
+A kid is waiting wearing swim gear,A kid is sitting wearing swim gear,1,standard,0,1,1
+Different teams are playing football on a field,Different teams are resting on a field,1,standard,2,1,1
+A truck is quickly going down a hill,A truck is quickly going up a hill,1,standard,2,2,1
+The young kids are posing with a green soccer ball in a park,Four boys are kneeling next to each other in front of a ball,1,standard,1,1,1
+Some ingredients are being mixed in a bowl by a person,A woman is bowling two eggs to a break dancer ,1,standard,2,2,1
+There is no man with a hard hat dancing,A man with a hard hat is dancing,2,standard,2,2,1
+A woman is not boiling shrimps,A woman is combing her hair,1,standard,2,2,1
+"A dog, which has a brown and white coat, is holding a baseball in its mouth",A black and white dog is holding a baseball in its mouth,1,standard,1,2,1
+A kid wearing a striped shirt is running barefoot on the sandy hill,A boy is running through the sand,0,standard,1,2,1
+A young girl is dancing,A young girl is standing challengingly on one leg,1,standard,2,1,1
+A girl is eating a cupcake,A woman is not eating a cupcake,1,standard,2,0,1
+"A woman, who is shoeless, is sitting on a blanket under a lavender umbrella",The man is sitting outside under a purple umbrella,1,standard,2,1,1
+The military officer is barking at the recruits,An officer is talking to the recruits,0,standard,0,1,1
+A person is wearing a hat and is sitting on the grass,A person is sitting in a field and is wearing a hat,1,standard,0,1,1
+A boy is playing a game with blocks made of wood,A boy in blue shirt is looking at his hand near a stack of blocks on table,1,standard,1,1,1
+"A woman, who is old, is far from a white dog",A woman and a dog are sitting on a tree stump,1,standard,2,2,0
+Two men are playing table tennis,A few women are holding each other and dancing together,1,standard,2,1,1
+A carrot is being sliced into pieces by a person,A person is cutting an onion into pieces,1,standard,2,2,1
+A man is praying fervently,A man is praying,0,standard,0,1,1
+A tennis player in mid game is holding a racquet,A racquet is being held by a tennis player in mid game,0,standard,0,1,1
+A man is massaging a woman,A man is screwing a piece of wood to a wall,1,standard,2,2,1
+A man is slicing a fish,A woman is slicing a fish,1,standard,2,2,1
+A man with tattoos is lounging on a couch and is looking for a pencil,A cow is eating hay,1,standard,2,2,1
+A baby is playing with a dog ,A small boy is scolding a dog,1,standard,2,1,1
+A black dog is walking through some tall grass,The black dog is walking through the tall grass,0,standard,0,1,1
+A woman is frying fish,A woman is not frying fish,2,standard,2,0,1
+A man is shooting with a gun,A man is rowing a canoe,1,standard,2,2,0
+A black and a white dog are joyfully running on the grass,A black person in white is joyfully running with the dog on the grass,1,standard,0,1,1
+A woman is breaking two eggs in a bowl,A woman is bowling two eggs to a break dancer ,1,standard,1,2,1
+Four people are difficultly walking with difficulty across thick snow and the sun is setting,Some people are treading through the snow of the beautiful snowy landscape,1,standard,1,1,1
+A man is playing a keyboard,A musician is playing a keyboard,0,standard,0,2,1
+Two young men are sitting outside near a golden statue,Two young men are playing outside near a golden statue,1,standard,2,1,1
+There is no man cutting onions,A woman is cutting an onion,1,standard,2,2,1
+A cheetah is chasing its prey across a field,There is no cheetah quickly running behind its prey,2,standard,2,0,1
+A truck is quickly going down a hill,Some water is being casually drunk by a cat,1,standard,2,2,1
+A small guinea pig is gnawing and eating a piece of carrot on the floor,There is no small guinea pig gnawing and eating a piece of carrot on the floor,2,standard,2,2,1
+Young men are dancing in front of some people,Two men are doing a funny skit with a boxer in front of a crowd of people,1,standard,1,1,1
+Two children are rolling in clean water,Two boys are laying in the ocean close to the beach,1,standard,2,2,1
+There is no classroom full of students looking in the same direction inside a bamboo structure,A group of students in uniforms is listening attentively at the front of the class,1,standard,2,1,1
+A cat is playing with a watermelon,The cat isn't playing with a watermelon,2,standard,2,0,1
+A man is strumming the guitar,The man is playing the flute,1,standard,2,2,1
+A brown and black dog is running through the leaves,There is no dog in a colored coat running across the yard,1,standard,2,2,1
+A bride with a black veil is looking down,A woman is looking down and is wearing a wedding veil,0,standard,0,1,1
+A shoeless woman is sitting on a blanket under a lavender umbrella,"A woman, who is shoeless, is sitting on a blanket under a lavender umbrella",0,standard,0,1,1
+A person is pouring olive oil into a pot on the stove,A person is pouring oil for cooking into a pot,0,standard,0,2,1
+"A girl in a uniform, which is blue, is lowering her arm","A girl in a uniform, which is blue, is raising her arm.",1,standard,2,1,1
+A tiger is walking around,A tiger cub is making a sound,1,standard,1,2,1
+A dog is swimming after a tennis ball,A cat is swimming after a tennis ball,1,standard,2,2,1
+One man is turning on the microwave,One man is turning off the microwave,2,standard,2,2,1
+Someone is stirring a pot of chili with a spoon,Someone is stirring chili in a pot,0,standard,0,1,1
+A dog is running with a volleyball,A dog is running with a ball,0,standard,0,2,1
+A man is on a rock high above some trees and is standing in a strange position,A hiker is on top of the mountain and is doing a joyful dance,1,standard,2,2,1
+Two dogs are playing on the beach,A brown dog is running after a black dog on a rocky shore,1,standard,1,2,1
+There is no guy leaping into the air in a wooded area,A guy is leaping into the air in a wooded area,2,standard,2,1,1
+A person is wiping butter on a tray,There is no person buttering a tray,2,standard,2,2,1
+There is no man loading a rifle with bullets,A woman is seasoning a piece of meat,1,standard,2,1,1
+A daughter is being pushed by her father on a go-kart and another girl is watching,A father is pushing his daughter on a go-kart and another girl is watching,0,standard,0,1,1
+Some cheers are being performed by the girl in the blue and white uniform,"A girl in a uniform, which is blue, is raising her arm.",1,standard,0,1,1
+A family is not purchasing something at a vending machine,A family is purchasing something at the vending machine,2,standard,2,1,1
+A father is pushing his daughter on a go-kart and another girl is watching,Two small children are playing with a toy car in the street,1,standard,2,2,1
+A person is cutting some ginger,An onion is being sliced by a person,1,standard,2,2,1
+There is no person kicking a soccer ball between somebody's feet,The soccer player is kicking the ball between somebody's legs,2,standard,2,2,1
+There is no person riding a motorbike in the event related to motocross,The person is riding a motorbike on a sandy track,1,standard,2,1,1
+A child is playfully swimming underwater in a pool,A child is swimming underwater in a pool,0,standard,0,2,1
+A man is jumping a wall,A man is jumping onto a wall which is low,1,standard,1,1,1
+Two adults are standing on a scooter in a field of yellow flowers,Two adults are standing on a scooter in a field of flowers,0,standard,0,2,1
+A man is slicing a carrot with a knife,The woman is not slicing an onion,1,standard,2,0,1
+There is no man pouring cleaner into the sink,A man is pouring cleaner into the sink,2,standard,2,2,1
+The black and white dog is running outdoors,A black and white dog is running outdoors,0,standard,0,2,1
+A monkey is practicing martial arts,There is no monkey kicking a person,1,standard,2,2,1
+A man is going into the water,A man is coming out of the water,1,standard,2,2,1
+The man is putting chicken into the container,A man is putting some food in a box,0,standard,0,2,1
+A woman is dancing and a man is playing the keyboard,The woman is dancing and a man is playing the keyboard,0,standard,0,2,1
+A man is riding an electric bicycle,A person is riding an electric bicycle,0,standard,0,1,1
+A cat is playing with a small bottle,A bottle is being licked by the cat,1,standard,1,2,1
+There is no snowboarder doing a flip over a mound of snow,A snowboarder is doing a flip over a mound of snow,2,standard,2,2,1
+A toy train is violently striking a toy car,A toy train is striking a toy car,0,standard,0,2,1
+A man is not playing keyboards,A man is riding a mechanical bull,1,standard,2,2,0
+The woman is poking a potato,There is no woman putting a child in a waste bin,1,standard,2,2,1
+A man is fitting a silencer to a pistol,There is no man fitting a silencer to a pistol,2,standard,2,2,1
+A boy is knocking a dog with a bottle of water,The dog is knocking a boy into the water,1,standard,2,2,1
+The land near a white bird is being watered swiftly,A white bird is landing swiftly in the water,1,standard,1,2,1
+The man in a t-shirt dyed grey is sitting on a rock in front of a waterfall,A woman is sitting and looking at the waterfall,1,standard,2,1,1
+Two dogs are playing by a tree,A dog is leaping high in the air and another is watching,1,standard,1,1,1
+A girl is riding a horse,The person is trotting on the horse,1,standard,1,1,1
+The boy is not playing the piano,The woman is pouring oil into the pan,1,standard,2,2,0
+Two dogs are resting on the beach,Two white dogs are running and jumping along a beach,1,standard,2,1,1
+The young boy is running through the ocean waves,A child is running in and out of the ocean waves,0,standard,0,2,1
+A young boy is singing and playing a guitar,A kid is playing the guitar,0,standard,0,2,1
+A person is riding a jetski in the waves,A Seadoo is being ridden by a woman,1,standard,2,2,1
+Two children and an adult are standing next to a tree limb,Two children are climbing a tree,1,standard,2,2,1
+A tiger is sitting,A tiger is walking around a cage,1,standard,2,2,1
+Someone is cleaning an animal,Someone is cleansing an animal,0,standard,0,1,1
+Some men are running a race,Racers are running down a track,1,standard,1,1,1
+A man is dangerously throwing knives at a tree,A magic trick is being performed by the magician,1,standard,2,1,1
+A skateboarder is jumping in the air,A man in a red shirt is doing a trick with the skateboard,1,standard,1,1,0
+Two men are taking a break from a trip on a snowy road,Two men are breaking into a car during a trip on a snowy road,1,standard,2,1,1
+The cat is playing keyboards,A cat is playing keyboards,0,standard,0,2,2
+A black dog is standing in shallow water,A black dog is standing in deep water,1,standard,2,1,1
+A person who is practicing snowboarding falls from the air,A person who is practicing snowboarding jumps into the air,1,standard,2,1,1
+"A dog next to a tree, which is probably a pine, is biting a bucket",A dog in a bucket is biting a tree which is probably a pine,1,standard,2,2,1
+A person is dancing in the rain,A man is singing into a microphone,1,standard,2,1,1
+Three friends are making faces for the camera,Two men and a girl in front of a wood panel wall are posing with funny faces,1,standard,1,2,1
+A cat is playing with a device,Mud is being thrown to the playing boy,1,standard,2,2,0
+"A young lady with light brown hair is wearing a red necklace, a sweatshirt and earrings and is smiling","A red sweatshirt with a smiling lady upon it is suited to be worn with light brown hair, earrings and a necklace ",1,standard,0,1,1
+A black sheep is standing far from three white dogs,The white dogs are looking curiously at the black llama,1,standard,1,1,1
+A black man is walking next to a shop in a big city,A black man is walking next to a building in a big city,0,standard,0,1,1
+Three men are dancing,Some women are dancing,1,standard,2,1,1
+There is no man slicing some bread,A man is slicing some bread,2,standard,2,2,1
+The family is posing by a mantel and a Christmas tree,A family is posing by the mantel and the Christmas tree,0,standard,0,1,1
+The helmeted girl is perching on a bike,A woman is performing a trick on a ramp with a car,1,standard,2,2,1
+The woman is wearing a red jacket and holding a glass in front of the man in a white t-shirt,The woman is holding a white jacket and a red glass in front of the man wearing a t-shirt,1,standard,2,2,1
+There is no dog riding a skateboard,A dog is riding a skateboard,2,standard,2,2,1
+A practicing jumper is tossing a person's snowboard into the air,The snowboarder is leaping over white snow,1,standard,1,1,1
+A man is picking a can,A woman is slicing a tomato,1,standard,2,2,2
+A man and a woman are running together and holding hands,A couple is running towards the ocean,0,standard,1,1,1
+A piano is being played by a man,The play is about a happy boy playing the piano,1,standard,1,1,1
+The man is slicing potatoes,A potato is being peeled by a woman,1,standard,2,2,1
+There is no young child running outside over the fallen leaves,A young child is running down a gravel road that is covered with dead leaves,2,standard,2,1,1
+A red dog is jumping and catching a tennis ball in its mouth,A tan dog is jumping up and catching a tennis ball,1,standard,2,1,1
+Two people are riding a motorcycle,Two people are driving a motorcycle,0,standard,0,2,1
+A brown and black dog is looking upwards,A brown and black dog is pointing the nose upwards,0,standard,0,1,0
+There is no man sharpening a knife,A man is carrying a woman,1,standard,2,2,1
+A man is sitting on a train and resting his hand against his face,A man is standing on a train and resting his hand on his lap,1,standard,2,2,1
+Four dogs are playing in a grassy area,Four dogs are not playing in a grassy area,2,standard,2,0,1
+Two children are playing on a statue,There are no children playing on a statue,2,standard,2,2,1
+A man is standing shirtless in the street,A man is wearing a long sleeved blue shirt and jeans and is riding a unicycle down a street,1,standard,2,2,1
+Someone is typing,Someone is putting away a keyboard,1,standard,2,2,0
+A person on a bike is not in the air near a body of water,A person on a bike is in the air near a body of water,2,standard,2,2,0
+Two kids are playing in a swimming pool with a green colored crocodile float,Two kids are pushing past a crocodile in an inflatable pool,1,standard,1,2,1
+Three people are walking across a rope and wood bridge over a river,Three people are walking across a rope and steel bridge over a river,1,standard,2,1,1
+A ball is being chased by a yellow dog,A yellow dog is chasing a ball,0,standard,0,2,1
+Two people wearing helmets are riding over the yellow and white flowers,Two people wearing helmets are driving over the yellow and white flowers,0,standard,0,1,1
+A brown dog is running in the snow,A dog is running through the snow,0,standard,0,2,1
+Someone is drawing a person,The person is drawing,0,standard,0,1,1
+A boy is jumping off the side of a stone water fountain in front of a building,A boy in a striped shirt is playing in front of a water fountain,1,standard,1,1,1
+A boy is playing on a toy phone,The man is handling a gun,1,standard,2,1,1
+The shirtless man in striped shorts and sunglasses is standing near a man in a white shirt and sunglasses,The shirtless man in striped shorts and sunglasses is standing near a person in a white shirt and sunglasses,0,standard,0,2,2
+A baby rhino is walking around a pen with its mother,"A rhino, which is little, is following an adult rhino",0,standard,0,2,1
+A man in a purple suit is standing by a purple case and is playing a guitar,The man is putting away the guitar in the guitar case,1,standard,2,2,1
+Two people are kickboxing and spectators are watching,Two young women are not sparring in a kickboxing fight,1,standard,2,0,1
+The military officer is shouting at the recruits,An officer is talking to the recruits,1,standard,0,1,1
+An Asian woman is holding a fur scarf,There is no Asian woman holding a fur scarf,2,standard,2,2,1
+A man is riding a motorbike,A man is driving a motorbike,0,standard,0,2,0
+The oriental lady is cutting a carrot into thin pieces,The oriental lady is not cutting a carrot into thin pieces,2,standard,2,0,1
+The chef is carefully pouring oil in the pan,A man is pouring liquid into a pot,1,standard,0,2,1
+A dog is running on the sea shore,A dog is running on the beach,0,standard,0,2,1
+A tiger is walking around with no aim,A tiger is walking around aimlessly,0,standard,0,2,1
+A person is wearing a red jacket and holding a beer,The woman is wearing a red jacket and holding a glass in front of the man in a white t-shirt,1,standard,1,1,1
+Soccer players are kicking a soccer ball into the goal,A soccer player is missing a goal,1,standard,2,1,1
+A woman is playing the flute,A man is playing the flute,1,standard,2,2,1
+There is no man playing a flute,A man is playing an electronic keyboard,1,standard,2,1,1
+The man is funnily playing the piano with his nose,A man is playing the keyboard with his nose,0,standard,0,2,1
+Small children are getting off a statue in a park,Small children are climbing a statue in a park,1,standard,2,2,1
+A woman is riding a horse,A man is opening a package that contains headphones,1,standard,2,2,1
+A boy is running away from the fishing line,A young man is running away from the fishing line,1,standard,0,2,1
+A brown dog and a red dog are sitting sadly on the beach,A brown dog and a red dog are frolicking on the beach,1,standard,2,2,1
+A person is peeling a banana,There is no man reading an email,1,standard,2,2,1
+A man is walking along a path through a wilderness,There is no man peeling an onion,1,standard,2,2,1
+"The male, who is dark skinned, is standing on one hand in front of a yellow building",The dark skinned male is standing on one hand in front of a yellow building,0,standard,0,1,1
+There is no man slicing potatoes,A man is fitting a silencer to a pistol,1,standard,2,2,1
+A man is playing a keyboard,A pianist is playing the keyboard,1,standard,1,2,1
+The adults and children are not gathered near an outdoor seating arrangement,Adults and children standing and playing in front of steps near a wooded area,1,standard,2,1,1
+A man is rapidly chopping some mushrooms with a knife,A man is quickly chopping some mushrooms with a knife,0,standard,0,2,1
+A brown dog is running across the yard with a toy in its mouth,A brown dog is carrying a colored toy in the grass,1,standard,1,1,1
+The woman is frying a breaded pork chop,The lady isn't breaking raw eggs into a bowl,1,standard,0,0,1
+A brown and black dog is looking upwards,A black and brown dog is eyeing a fly,1,standard,1,1,0
+The kid is happily sliding in the snow,The kid is sliding in the snow,0,standard,0,2,1
+A little boy is sticking his tongue out for the camera and another boy is looking on,A little boy is sticking his tongue out for the camera and another boy is not looking,2,standard,2,1,1
+A man in gold and purple is holding a rainbow afghan,A young woman is carrying a lot of colorful scarves on the beach,1,standard,2,1,1
+A shirtless man is playing football on a field,A man with no shirt is holding a football,1,standard,0,1,1
+A girl wearing a striped shirt is running barefoot on the sandy hill,A lady is mixing a meat mixture in a bowl,1,standard,2,1,1
+A baby is talking,The child is silent,1,standard,2,1,0
+The blonde girl with the pink top is smiling and wearing funny glasses with a large nose attached,The little girl is smiling and wearing a fake nose and glasses,0,standard,0,1,1
+"Some corndogs are being eaten by two toddlers who are in a wagon, which is really small",Two young kids are eating corndogs,0,standard,0,2,1
+A tiger is walking outside a cage,A tiger is walking around a cage,0,standard,0,2,1
+A dog with a muzzle and a blue jacket is running around the yard,There is no dog with a blue blanket running through the grass,1,standard,2,2,1
+A lady is surfing and riding a wave,A blonds girl is surfing,1,standard,1,2,1
+Two children are stretching over some metal bars,A bike rider in a black and red uniform is standing on a dirt bike,1,standard,2,1,1
+"A little girl is wearing a blue patterned swim suit, a black and yellow swim cap and has blue swimming goggles on the head",A young girl is sitting in swimming gear,1,standard,0,1,1
+A child is playing with a water spout outdoors and the rest of his family is watching,A boy is holding a hose next to a man and another boy is watching,1,standard,1,1,1
+A man is cooking a snake,A man is roasting a snake,0,standard,0,2,1
+Two dogs and two people are sitting in the woods,Two dogs and two people are walking in the woods,2,standard,2,2,1
+A man and a woman are walking down the street of a city,A man and a woman are walking down a city street,0,standard,0,1,1
+The man dressed in chaps made of leather and a purple shirt is standing in front of some onlookers,The man dressed in leather chaps and a purple shirt is standing in front of someone lookers,0,standard,0,1,1
+A little girl is smiling and running outside,A bride in a white dress is running,1,standard,1,2,1
+The person in the blue jacket is putting down a colorful helmet,The person in the blue jacket is wearing a colorful helmet,1,standard,0,1,1
+A sea turtle is hunting for fish,The turtle isn't following the fish,1,standard,2,2,1
+A boat is sailing quietly over the water,The guitar is being played by the man,1,standard,2,1,1
+A grey silky dog is running in the grass and a brown dog looks on,A grey silky dog is lying in the grass and a brown dog is looking on,2,standard,2,1,1
+Two men are holding fishing poles and fishing tackle,Two men are holding fishing poles,0,standard,0,1,1
+A woman is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk,A man is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk,1,standard,2,2,1
+A woman wearing a blue shirt and high heels is standing on the sidewalk next to a man,A couple standing on the curb,1,standard,1,2,1
+Some animals are playing wildly in the water,A few animals are playing in the water,0,standard,0,2,1
+A person is cutting garlic into pieces with a knife,Someone is not putting ingredients into a wok,1,standard,2,2,1
+A young man with brown hair and shades is sitting in front of some cans of soda,A young man with brown hair and sunglasses is sitting in front of some cans of soda,0,standard,0,1,1
+A boy is checking a calendar,A boy is looking at a calendar,0,standard,0,1,1
+A man is putting vegetables into a pot,Someone is adding ingredients to a pot,0,standard,0,1,1
+A black dog is running in the snow,A dog is running through the snow,0,standard,0,2,1
+A man is picking up a tree,A tree is being picked up by a man,0,standard,0,2,1
+A man is in a parking lot and is playing tennis against a large wall,There is no man pointing at a car,1,standard,2,2,1
+There is no clown singing and people are not dancing,A clown is singing,2,standard,2,2,1
+A man in a red jacket and khaki pants is walking through an American state,A person in a red jacket and khaki pants is walking through an American state,0,standard,0,1,1
+A woman is walking the dog down the street,The woman is walking the dog,0,standard,0,1,1
+Adults and children standing and playing in front of steps near a wooded area,Adults and children standing and playing in front of a stair near a wooded area,0,standard,0,1,1
+A dog with a blanket dyed in blue is running through the grass,A dog with a muzzle and a blue jacket is running around the yard,1,standard,1,2,1
+A wet boy is jumping around on dirty and wet grass,There is no young boy covered in grass jumping near a wooden fence,1,standard,2,2,1
+A man in a purple hat is climbing a rocky wall with bare hands,A rocky wall is climbed by a man in a purple hat with bare hands,0,standard,0,2,1
+A woman is not riding a horse,A woman is riding a horse,2,standard,2,2,0
+A small group of people are standing and two are sitting on the couch,A group of five young adults are lounging indoors,1,standard,2,1,1
+A man is escaping a rising swamp,A man is coming out of the water,1,standard,0,2,1
+Dogs are racing on a track,There is no dog racing on a track,2,standard,2,2,1
+A young girl in a blue leotard is jumping in the air,There is no girl in blue jumping in the air,2,standard,2,2,1
+The black dog is running through the grass,The black dog is not running through the grass,2,standard,2,0,1
+A guy is mowing the lawn,There is no man mowing grass,2,standard,2,2,1
+A woman is cracking eggs into a bowl,A woman is placing skewers onto a rack,1,standard,2,2,1
+A dog with really long hair and a red vest is running in the grass,A dog with long hair and a red vest is running in the grass,0,standard,0,2,1
+Five kids are standing close together and one kid has a gun,Five kids are standing close together and none of the kids has a gun,2,standard,2,2,1
+Some women are sitting together near woven walls,Three women are sitting in a village,1,standard,1,1,1
+An old woman is wearing a rose patterned shirt and is clumsily carrying two newspapers,A woman is wearing sunglasses of large size and is holding newspapers in both hands,1,standard,1,1,1
+"A person is climbing a rock with a rope, which is pink",One man is climbing the cliff with a rope,0,standard,1,1,1
+A happy family is posing by the fireplace,A sad family is posing by the fireplace,1,standard,2,1,1
+Two men are playing table tennis,Two men are playing ping pong,0,standard,2,1,1
+The young boy is running through the ocean waves,The young boy is not running through the ocean waves,2,standard,2,0,1
+A man is sprinkling shredded cheese on a pizza,A man is putting seasoning on a pizza,1,standard,0,2,1
+A woman in a yellow dyed shirt is surfing on a pink surfboard,A woman in a yellow shirt is surfing on a pink surfboard,0,standard,0,1,1
+A bride with a white dress is looking down,A bride with a white veil is looking down,1,standard,1,1,1
+The tall person is setting fire to the cameras,The person is setting fire to the cameras,0,standard,0,1,1
+Two children are playing in the surf,Two children are playing,0,standard,0,1,1
+A young girl with a heart tank top is raising her hands as she is playing on a slide,A blond child is going down a slide and throwing up his arms,1,standard,1,2,1
+Some water is being drunk by a cat,A truck is quickly going down a hill,1,standard,2,2,1
+A man is chopping down a tree with an axe,A person is planting a tree,1,standard,2,2,1
+A dog is looking at a store counter,A dog is looking around,1,standard,0,1,1
+A dog is turning on the grass and pursuing a flying tennis ball,A dog is turning on the grass and pursuing a flying ball,0,standard,0,2,1
+The man is eating,The person is eating,0,standard,0,1,1
+The dog is snapping at some droplets of water,A dog is excitedly playing with water in the grass,1,standard,1,2,1
+The lady is holding the paintbrush next to the artist's easel ,The girl in the blue coverall is painting,1,standard,1,1,1
+A man who is playing is running with the ball in his hands,A player is running with the ball,0,standard,0,1,1
+Two dogs are looking at something that is splashing in the water,Some dogs are playing in a river,1,standard,1,2,1
+A man is singing and playing a guitar,Someone is singing about a man who plays the guitar,1,standard,1,1,1
+A young man with brown hair and shades is sitting in front of some cans of soda,The man with brown hair is wearing sunglasses and is sitting at a table with cans of soda and other drinks,1,standard,1,1,1
+A man is diving off a cliff,A man is riding a motorcycle,1,standard,2,2,1
+The man is singing heartily and playing the guitar,A bicyclist is holding a bike over his head in a group of people,1,standard,2,2,1
+A man is being stopped on a rope bridge,A man is walking slowly across a rope bridge,1,standard,1,1,1
+A woman is cooking prawns,A woman is boiling shrimps,1,standard,2,2,1
+Two dogs are running through the beach,Two dogs are running through the park,1,standard,2,2,1
+The piano is being played by someone,Nobody is feeding an animal,1,standard,2,2,1
+A man is wearing a straw hat and smoking a cigarette,The man in the straw hat is smoking a cigarette,0,standard,0,1,1
+The man is doing floor exercises,A man is lazing,1,standard,2,2,1
+The man is cooking slices of potato,The man is slicing a potato,1,standard,0,2,1
+Three people are driving four wheel ATVs in a field,ATVs are being driven by three people,0,standard,0,2,1
+A man is dancing,A person is dancing,0,standard,0,1,1
+Two dogs are playing inside,Two brown and white dogs are fighting on a grassy area in front of a tree,1,standard,2,2,1
+A man is crouching and holding a camera,A person is crouching and holding a camera,0,standard,0,1,1
+A dog is walking away from the tail of an animal in the grass,A dog is chasing the tail of an animal in the grass,1,standard,2,1,1
+A woman is staging a dance,A woman is dancing and a man is playing the keyboard,1,standard,1,2,1
+A young black child is standing on the edge of a body of water near some buckets,A young black child is waiting on the edge of a body of water near some buckets,0,standard,0,1,1
+A concentrated woman is playing flute,A woman is playing flute,0,standard,0,2,1
+The man is cutting cooked octopus,The woman is cutting cooked octopus,1,standard,2,2,1
+A white rally car is throwing mud into the air and is approaching a bend in the track,A white racing vehicle is driving through a puddle,0,standard,0,1,1
+A boy in his teens is talking to a girl with a webcam,The teens are talking to a boy and a girl with a webcam,1,standard,2,1,1
+An animal is resting,An animal is running in circles,1,standard,2,2,0
+Two people are talking,Two men are playing guitar,1,standard,2,1,0
+There are no people flipping the tires of a tractor,Two men are competing in a tire rolling race,1,standard,2,1,1
+A white horse is being ridden by a man in a blue cowboy hat,A man in blue is riding a horse on a dirt road,1,standard,1,2,1
+A man is dancing,A man is silent,1,standard,2,0,1
+A tiger is walking around aimlessly,A tiger is pacing around a cage,1,standard,2,2,1
+Someone is cutting a tomato,The person is slicing a vegetable,0,standard,0,1,1
+A boy wearing red shorts is jumping into a paddling pool,A kid wearing red shorts is jumping into a paddling pool,0,standard,0,1,1
+A little boy is running on the ground and playing with a little girl,The little boy is running on the ground and playing with a little girl,0,standard,0,2,1
+A few men are cheerfully playing cricket,People are playing cricket,0,standard,0,2,1
+A monkey is teasing a dog at the zoo,A dog's tail is being pulled by a monkey,1,standard,1,2,1
+The dog is chasing the ball,A dog is chasing a ball,0,standard,0,1,0
+A rabbit is playing with a toy rabbit,A rabbit is playing with a stuffed bunny,0,standard,0,2,1
+The man surrounded by photographers is wearing a gray suit and glasses,A man in a suit is not being surrounded by photographers,2,standard,2,0,1
+A woman is ignoring a man,"A man and a woman are in a beige room, wearing dark colored shirts and a monitor is in the background",1,standard,1,1,1
+A man is being roped by a climber,A rope is being climbed by a man,1,standard,0,1,1
+A man is playing the drums,Guitar is being played by a man,1,standard,2,2,1
+A woman is boiling shrimps,There is no woman combing her hair,1,standard,2,0,1
+The south African plane is flying in a blue sky,An airplane is flying through the air,0,standard,0,2,1
+There is no family posing by the mantel and the Christmas tree,A family is posing by the mantel and the Christmas tree,2,standard,2,1,1
+A man is outside close to a target for blade throwing,The man is throwing knives at a tree,1,standard,1,2,1
+A man is playing a flute,A man is playing a guitar,1,standard,2,1,1
+A white dog is standing on a grassy hillside,A dog is standing on the side of a mountain,1,standard,2,2,1
+Two dogs are running through high grass,Two animals are running through high grass,0,standard,0,2,1
+The food on the trays isn't being eaten by the kittens,The food on the trays is being eaten by the kittens,2,standard,2,2,1
+A dog is crossing a river on a bridge made from a fallen tree,There is no dog crossing a river on a bridge made from a fallen tree,2,standard,2,2,1
+A group of people is on a beach,Four people are walking on the beach,1,standard,1,1,1
+People in costumes are sitting in the street,People in costumes are walking around in the street,1,standard,2,1,1
+A wet boy is cheerfully jumping around on dirty and wet grass,A wet boy is jumping around on dirty and wet grass,0,standard,0,1,1
+The man is aiming a gun,The man is handling a gun,0,standard,0,1,0
+An onion is being sliced by a woman,A woman is slicing an onion,0,standard,0,2,1
+Two boys and a man are playing games at an arcade,Two kids and a man are playing games at an arcade,0,standard,0,2,1
+The man is standing in a lake near a waterfall,The man is standing in a body of water near a waterfall,0,standard,0,1,1
+The man is drawing,The woman is drawing a man,1,standard,2,1,1
+A woman is cutting broccoli,A man is cutting tomatoes,1,standard,2,2,1
+A person is packing a zucchini,A woman is scrubbing a zucchini with a vegetable brush,1,standard,2,2,1
+An oriental man and two women are facing a camera,There is no group of people standing together and looking at the camera,2,standard,2,2,1
+A cat is playing a piano,A cat is playing keyboards,0,standard,0,2,2
+A man is running,There is no man running down the road,1,standard,2,2,1
+A woman is surfing,A blond girl is riding the waves,1,standard,1,1,1
+A man is picking up a tree,A man is dropping a tree,1,standard,2,2,1
+There is no woman slicing a carrot,A woman is slicing a carrot,2,standard,2,2,1
+The man is standing on a rocky mountain and gray clouds are in the background,"The man is standing on a mountain, which is rocky, and gray clouds are in the background",0,standard,0,1,1
+A dog is running on the ground,A girl is tapping her fingernails,1,standard,2,2,1
+There is no small dog chasing a large brown cow,A dog is chasing the tail of an animal in the grass,1,standard,1,1,1
+Two people are walking near the water,Two people are standing in the ocean and watching the sunset,1,standard,2,1,1
+A man is singing and standing on the sidewalk,A man is fishing in the river,1,standard,2,2,1
+The man is removing sliced cucumbers from water,A man is cooking a snake,1,standard,2,2,1
+There is no woman driving a car and talking to the man seated beside her,The woman and the man are travelling by car,0,standard,2,1,0
+A woman is frying something in a pan,A man is not playing the guitar,1,standard,0,0,1
+Grass is being mowed by a man,A man is mowing grass,0,standard,0,2,1
+A boy is happily playing the piano,A piano is being played by a person,0,standard,0,2,1
+A man is slicing a potato,There is no man slicing a potato,2,standard,2,2,1
+A woman is peeling a potato,The potato is being peeled by the lady,0,standard,0,2,1
+A man is petting two dogs,A woman is pouring eggs into a frying pan,1,standard,2,2,1
+The man is playing an acoustic guitar,There is no man playing the guitar,2,standard,2,2,1
+A brown and white dog is jumping in the air with a tennis ball in its mouth,A brown and white dog is resting on the ground with a tennis ball in its mouth,2,standard,2,2,1
+A cat is eating corn on the cob,There is no cat eating corn on the cob,2,standard,2,2,2
+A boy is looking at a calendar,There is no boy looking at a calendar,2,standard,2,2,1
+The man is not cutting a paper plate,The man is cutting a paper plate,2,standard,2,2,1
+Two bmx bikers are jumping dirt ramps in front of a body of water,Some bikers are not getting airborne on a track near water and a skyline,1,standard,2,0,1
+There is no cyclist performing a jump on a bicycle,A bicyclist is performing a trick over a heavily graphitized wall,1,standard,2,1,0
+A man is reloading a shotgun,A man is shooting a shotgun,1,standard,2,1,1
+A baby elephant is not eating a small tree,A baby elephant is eating a small tree,2,standard,2,2,1
+An animal is biting a person's finger,An animal is biting someone's finger,0,standard,0,2,1
+A baby rhino is shunning an adult rhino,A baby rhino is walking around a pen with its mother,1,standard,2,2,1
+A man is riding a horse in a sandy land,A guy is riding a horse,0,standard,0,2,1
+Two men are fighting in a cow pasture,Two men are fighting in a pasture for cows,0,standard,0,2,1
+Three men are walking across a rope and wood bridge over a river,Three people are walking across a rope and wood bridge over a river,0,standard,0,1,1
+A man is eating near the kittens,Some kittens are eating,1,standard,2,2,1
+A man is driving a car,A man is driving a vehicle,0,standard,0,0,0
+A dog is chasing a ball on the grass,A dog is losing a ball on the grass,1,standard,1,1,0
+A kid is splashing in the ocean,Two children are not playing in the surf,1,standard,2,0,1
+A woman is putting on eyeshadow,Eyeshadow is being put on by a woman,0,standard,0,1,1
+A man is singing and walking down the road,A man is singing and walking down the sidewalk,1,standard,2,2,1
+A light brown dog is running in the water,A light brown dog is sprinting in the water,0,standard,0,1,1
+The black and white dog isn't running and there is no person standing behind,A little dog is sprinting and its owner is trying to catch it,1,standard,2,1,1
+A man is not playing a guitar,Someone is playing a piano,1,standard,1,2,0
+A man is speaking on a stage,A man is speaking on a podium,1,standard,2,1,0
+A woman is not talking on a telephone,A woman is talking on a telephone,2,standard,2,2,0
+The woman is picking up and holding a baby kangaroo,"A woman is picking up and holding a kangaroo, which is a baby, in her arms",0,standard,0,2,1
+Two white dogs are playing with a brown dog and a ball,Two white dogs and one brown dog are chasing a toy,0,standard,1,1,1
+Two men are walking through the water,Two men are swimming in deep water,1,standard,2,2,1
+A boy is playing on a toy phone,A boy is playing on a toy,0,standard,0,1,1
+The person is practicing the guitar,The guitar is being sold by a lady,1,standard,2,1,1
+A shirtless man is escorting a horse that is pulling a carriage along a paved road,A shirtless man is escorting a horse that is pulling a carriage along a road,0,standard,0,2,1
+"A person with a back pack, who is topless, is in front of a pile of rocks and clouds are in the background",A topless person with a back pack is in front of a pile of rocks and clouds are in the background,0,standard,0,1,1
+Some ferrets are climbing down from a shelf,Ferrets are climbing down from a shelf,0,standard,0,2,1
+A man and a woman are jumping on the curb,A man and a woman are standing on the curb,1,standard,2,1,1
+A man is playing the guitar,A man is dropping the guitar,1,standard,2,1,1
+There is no person throwing a cat at the ceiling,A person is throwing a cat at the ceiling,2,standard,2,2,1
+Three children are running up a grassy hillside,Three children are running down a grassy hillside,1,standard,2,2,1
+A fur scarf is being held by an Asian woman,An Asian woman is holding a fur scarf,0,standard,0,1,1
+There is no man dancing,A man is dancing,2,standard,2,2,1
+A man is climbing a rope,The man is not climbing up a rope,1,standard,2,0,1
+A black dog and a tan dog are fighting,A black dog and a white dog are wrestling on the floor,1,standard,1,2,1
+A soccer player is scoring a goal,There are no soccer players kicking a soccer ball into the goal,2,standard,2,2,1
+A dog is standing with its two front paws on a rock in a field,The dog is standing with its two front paws on a rock in the field,0,standard,0,1,1
+A child is indoors watching a program about some young climbers on a rock wall.,The young boy is climbing the wall made of rock,1,standard,2,1,1
+A man is chopping a log with an axe,There is no man chopping a log with an axe,2,standard,2,2,1
+An officer is talking to the recruits,The recruits are barking at the military officer,1,standard,1,1,1
+The large brown dog is not running outside in the dirt,The large brown dog is running outside in the dirt,2,standard,2,1,0
+Two sumo ringers are not fighting,Two sumo ringers are fighting,2,standard,2,2,1
+A rope is being climbed by a man,A man is slicing the carrot with a machine,1,standard,2,2,1
+The man is tossing a kid into the swimming pool that is near the ocean,One man is tossing a kid into the swimming pool that is near the ocean,0,standard,0,2,1
+There is no little black dog chasing a little brown dog,A brown dog and a black dog are in the grass,1,standard,1,2,1
+There is no kid playing guitar,A kid is playing guitar,2,standard,2,2,1
+The man and woman are strolling,The man and woman are walking,0,standard,0,1,0
+"A young lady with light brown hair is wearing a red necklace, a sweatshirt and earrings and is smiling",The teenage girl is wearing beads that are red,1,standard,0,1,1
+Two white dogs and one brown dog are chasing a ball,Two white dogs and one brown dog are chasing a toy,0,standard,0,1,1
+A child is swimming underwater in a pool,A child is swimming on the water's surface in a pool,1,standard,2,2,1
+A man is drawing some figures,A person is drawing some figures,0,standard,0,1,1
+The young boys are playing outdoors and the man is smiling nearby,A group of kids is playing in a yard and an old man is standing in the background,1,standard,1,2,1
+A man and a woman are sitting in front of an art gallery and are looking at a map,A couple is looking at a map,0,standard,1,2,1
+Two construction workers are sitting up on the top of a building,Two men are taking a break from construction,1,standard,1,1,1
+A group of racing dogs is wearing striped uniforms and is running down a track,A group of dogs bred for racing is wearing striped uniforms and is running down a track,0,standard,1,2,1
+One little boy with brown hair is jumping off of the brown chair onto the floor,A young boy is jumping off a chair,0,standard,0,2,1
+The rhino is grazing on the grass,The animal is grazing on the grass,0,standard,0,1,1
+"A girl from Asia, in front of a window made of bricks, looks surprised",A girl is wearing a t-shirt and has her mouth open.,1,standard,1,1,1
+The little girl in a pink shirt is running under a tree in the desert,A girl is running with a pink shirt and is not wearing jeans,1,standard,1,1,1
+People are walking outside the building that has several murals on it,Several people are in front of a colorful building,0,standard,0,1,1
+A man in a blue cowboy hat is riding a white horse,A woman in blue is riding a horse on a dirt road,1,standard,2,2,1
+A monkey is wading through a marsh,A monkey is wading through a river,1,standard,2,2,1
+The man is playing a game on the grass,There is no man playing a game on the grass,2,standard,2,2,1
+There is no man spitting,A man is speaking,1,standard,2,0,1
+A girl has black and orange patches on the cheeks,A girl has colored patches on the cheeks,0,standard,0,0,1
+Two twin preteen boys are dueling with sticks,Two boys are wearing brown shirts and are enthusiastically tugging at a rope on a wooden platform,1,standard,2,1,1
+A man is sitting peacefully on a boat in front of the sunset near a flag,"A man is sitting on a boat in font of the sunset, near a flag",0,standard,0,1,1
+Two baby pandas are playing,Two cubs are playing,0,standard,2,2,1
+A man in a black hat is reaching for a box,A person in a black hat is reaching for a box,0,standard,0,1,0
+A man and a woman are driving down the road in an open-air vehicle,Two persons are driving down the street in a jeep,1,standard,1,2,0
+A brown and white dog with a brown and black bandanna is running very fast,A small white dog is running across a lawn,1,standard,1,1,1
+A cheetah is quickly running behind its prey.,A prey is quickly running behind the cheetah,2,standard,2,1,0
+A dog is riding a skateboard,There is no dog riding a skateboard,2,standard,2,2,1
+Eggs are being cracked into a bowl by a woman,A woman is placing skewers onto a rack,1,standard,2,2,1
+Five people are standing with three dogs in the green field beside the road,Five people are standing in the grass with some dogs,0,standard,0,2,1
+Nobody is playing with a toad,A man is playing the trumpet,1,standard,2,2,1
+The man is slicing potatoes,There is no woman peeling a potato,1,standard,2,2,1
+A child in a green and white sports uniform is running over the grass,There is no little boy wearing a green soccer strip and running on the grass,1,standard,2,2,1
+The kids are chasing each other in the sand,The kids are not chasing each other in the sand,2,standard,2,0,1
+Someone is playing with a toad,Someone is playing with a frog,1,standard,2,2,1
+One girl in orange shorts is standing on a rock cliff over the water and the other girl in black shorts is jumping off into the water,Two males are standing on a cliff edge and one is jumping into the water,1,standard,2,1,2
+There is no woman firing a rifle,A woman is firing a rifle,2,standard,2,2,1
+The cat is licking a bottle,The dog is licking a bottle,1,standard,2,2,1
+A man is putting down the guitar,A man is playing a guitar,2,standard,2,1,1
+A man is standing in the water at the base of a waterfall,The man is standing in a body of water near a waterfall,0,standard,0,1,1
+A man is falling off a horse on a track and is laid in the wild,A horse is tossing the cowboy wearing pants of blue and red color,1,standard,1,2,1
+The brown dog and the red dog are frolicking on the beach,A brown dog and a red dog are frolicking on the beach,0,standard,0,2,1
+The lady is cracking an egg for the mixer,The lady isn't cracking an egg for the mixer,2,standard,2,0,1
+People are sitting at square tables in a red room,People are sitting at tables in a red room,0,standard,0,2,1
+No dog is emerging from a lake,A dog is emerging from a lake,2,standard,2,2,1
+A dog with a blue blanket is running through the grass,A dog with a blue muzzle is running around the yard with a jacket,1,standard,1,2,1
+People wearing costumes are gathering in a forest and are looking in the same direction,A little girl in costume looks like a woman,1,standard,2,1,1
+The trumpet is being played by a man,A man is playing the trumpet,0,standard,0,2,1
+A man and a woman are eating,A man and a woman are not eating,2,standard,2,2,1
+"A rock is being climbed by a person with a rope, which is pink",One man is climbing a cliff with a rope,0,standard,1,2,1
+Three men are jumping off a wall,"Three young men are running, jumping and kicking near a vending machine",1,standard,1,1,1
+A small boy in a yellow shirt is laughing on the beach,A little boy is topless and is serious,1,standard,2,1,1
+A woman is frying meat,A woman is not frying meat,2,standard,2,0,1
+The baby is being put into a trash can by a woman,A person is putting meat into a skillet carelessly,1,standard,2,2,1
+Two balls are bouncing against some colorful kids,Two kids are bouncing on colorful balls,1,standard,0,1,1
+Someone is drilling a hole in a strip of wood with a power drill,Someone is making a hole in a strip of wood with a drill,0,standard,0,1,1
+A woman is cleaning a man's face,The woman is putting makeup on the man,1,standard,2,2,1
+A motorcyclist is riding a motorbike dangerously along a roadway,A motorcyclist is riding a motorbike along a roadway,0,standard,0,1,1
+A man in a white hat is touching a cardboard box,A man in a black hat is touching a cardboard box,1,standard,2,1,1
+There is no monkey pulling a dog's tail,A monkey is pulling a dog's tail,2,standard,2,2,1
+The boy is speedily riding a tricycle,The boy is riding a tricycle,0,standard,0,2,1
+A dog which is furry and black is in a back yard and is carrying a basket in its mouth,"A dog next to a tree, which is probably a pine, is dropping a bucket",1,standard,2,2,1
+An adult is in the amphitheater and is talking to a boy,The man is standing outdoor and the boy is falling over the bottom of the stairs,1,standard,2,2,1
+A dog is running uphill,There is no dog running up a grassy hill,1,standard,2,2,0
+A man is cutting a tree with an axe,A person is chopping down a tree with an axe,0,standard,0,2,1
+A photographer is being surrounded by men,A man in a suit is being surrounded by photographers,1,standard,1,1,0
+A grey dog is bouncing a soccer ball on its head in a grass field,A grey dog is bouncing a tennis ball on its head in a grass field,2,standard,2,2,1
+There is no person playing a piano,A person is playing a piano,2,standard,2,2,1
+A surfer is riding a big wave across dark green water,The surfer is riding a big wave,0,standard,0,1,1
+"A child, who has blond hair, is holding a yellow bottle",A boy in a blue shirt has dirt on his face,1,standard,2,1,1
+A black and white dog is holding a baseball in its mouth,A black and white dog is dropping a baseball from its mouth,1,standard,1,2,1
+A woman is showing a puppy to an infant,A woman is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk,1,standard,2,2,1
+A girl in a brown dress is being surrounded by children and is closing her eyes,The sun is not shining on the face of the girl who is in a yellow dress,1,standard,2,0,1
+One young lady is jumping on the car,One girl is jumping on the car,0,standard,0,2,1
+"A dog is in an area full of sand, with the sand that is being stirred up into the air and several plants are in the background",A dog is in the sand that is blowing in the wind,0,standard,1,2,1
+The man in the purple hat isn't operating a camera that makes videos,The man in the purple hat is operating a camera that makes videos,2,standard,2,1,1
+A woman is slicing a tomato,A woman is dancing near a fire,1,standard,2,2,1
+Several children are sitting down and have their knees raised,Several children are lying down and are raising their knees,1,standard,2,1,1
+A person is stirring vegetables in a pot,There is no man mixing vegetables in a pot,1,standard,2,2,1
+The girl is spraying the plants with water,The boy is spraying the plants with water,1,standard,2,2,1
+The person isn't dicing up an orange pepper,The person is dicing up a pepper which is orange,2,standard,2,2,1
+A woman is walking with a pair of dogs,A woman is showing a dog with very long hair at a dog show,1,standard,1,1,1
+A woman is putting meat in a pan,Someone is dropping the meat into a pan,0,standard,0,2,1
+Two children are rolling in dirty water,Two boys are laying in the ocean close to the beach,1,standard,2,2,1
+A little boy is jumping into a puddle on the street,A young child is wearing boots made of green rubber and playing in a puddle full of mud,1,standard,1,2,1
+Four people are walking along a city sidewalk and the one in the green hat is phoning someone,Four people are walking along a city sidewalk and the one in the green hat is talking on a cell phone,0,standard,0,1,1
+The woman in a red costume is leaning against a wall made of bricks and playing an instrument,The woman in a red costume is leaning against a brick wall and playing an instrument,0,standard,0,1,1
+A woman is using a sewing machine,A woman is sewing with a machine,0,standard,0,2,0
+Two young boys are looking up at the camera and one is sticking out his tongue,A little boy is sticking his tongue out for the camera and another boy is not looking,1,standard,0,1,1
+A boy is playing on a toy,The man is aiming a gun,1,standard,2,1,1
+A boy is running away from the fishing line,A boy is hanging a fishing rod and running in front of a fish ,1,standard,1,2,1
+Video games of two playing boys are on a couch,Two boys on a couch are playing video games,1,standard,0,1,1
+The boys are standing in front of the burning car,Some young men are standing still and a car is exploding behind them,1,standard,1,1,1
+There is no woman using an eye pencil and applying eye liner to her eyelid,A woman is using an eye pencil and is applying eye liner to her eyelid,2,standard,2,2,1
+A man is playing a harp,A harp is being played by a man,0,standard,0,2,1
+Two men are fighting,Some men are fighting,0,standard,0,1,1
+A child is experiencing a new world,A boy under an umbrella is being held by his father who is wearing a coat dyed in blue,1,standard,1,1,1
+The brown dogs are playfully fighting on the sandy beach,The brown dogs are playfully fighting on the sandy shore,0,standard,0,1,1
+There is no water being drunk by a cat,Some water is being drunk by a cat,2,standard,1,2,1
+"A large, gray ball is hitting a running dog, which is carrying some grass in its mouth",A large dog is running on the grass with a tennis ball in its mouth,1,standard,1,2,1
+There is no kid playing guitar,A boy is playing a guitar,2,standard,2,2,1
+A woman is marching with a pair of dogs,A woman is showing a dog with very short hair at a dog show,1,standard,1,1,1
+A man is cutting the tape on the box,A man is cutting a box,1,standard,0,2,1
+The brown dog is not playing outdoors,The brown dog is playing outdoors,2,standard,2,1,1
+A person is performing tricks on a motorcycle,A person is not performing tricks on a motorcycle,2,standard,2,0,1
+A guy is cheerfully playing with the footbag,A guy is cheerfully playing with a footbag,0,standard,0,1,1
+A woman is slicing a tomato,The woman is peeling a potato,1,standard,2,2,1
+A man is playing a guitar,Someone is playing a piano,1,standard,2,2,1
+There is no hamster singing,A person is slicing some onions,1,standard,2,2,1
+A woman is putting a baby in a waste bin,The woman is not poking holes in the potato,1,standard,2,0,1
+A man is peeling an onion,A man is walking along a path through a wilderness,1,standard,2,1,1
+There is no cook slicing some bell peppers,The person is dicing up a pepper which is orange,2,standard,2,2,1
+There is no kitten drinking milk,The milk is being drunk by a cat,1,standard,2,2,1
+The bride and the groom are leaving after the marriage,A married couple is walking down the aisle,1,standard,2,1,1
+A man is performing a trick on a surfboard in the water,A person is performing a trick on a surfboard in the water,0,standard,0,1,1
+The young girl is blowing a bubble that is huge,The girl in a dyed red shirt isn't blowing a bubble,1,standard,2,1,1
+The dog is snapping at some droplets of water,The dog isn't snapping at some droplets of water,2,standard,2,0,1
+A woman wearing a blue shirt and high heels is standing on the sidewalk next to a man,A man and a woman are jumping on the curb,1,standard,2,2,1
+The motorcycle racer is riding a red and black bike,A woman is leaning on a racing motorcycle,1,standard,1,1,1
+A dog is riding a skateboard,There is no dog riding a skateboard,2,standard,2,2,1
+A woman is slicing potatoes,A person is riding a horse,1,standard,2,2,1
+A man is jumping onto a low wall,A man is jumping a wall,1,standard,0,2,1
+The man is stirring oil,The man is not stirring the sauce for the chicken,1,standard,2,0,1
+A boy in blue shirt is looking at his hand near a stack of blocks on table,The boy in blue shirt is looking at his hand near the stack of blocks on table,0,standard,0,1,1
+A young girl in blue is jumping in the air,A young girl in a blue leotard is jumping on the ground,1,standard,2,1,1
+"The boys are standing in front of the car, which is burning",Four young men are standing still and a car is exploding behind them,1,standard,1,1,1
+A black bird is sitting on a dead tree,A black bird is taking flight from a dead tree,1,standard,2,2,1
+A boy is not playing a guitar,A kid is playing guitar,1,standard,2,2,0
+Two dogs of different breeds are looking angrily at each other across a street,Two dogs of different breeds are looking at each other across a street,0,standard,0,1,1
+Two poodles are in the snow and one is jumping high,A grey dog is jumping toward a black and white dog in the water,1,standard,1,1,0
+The woman is cutting a carrot,There is no woman slicing an onion,1,standard,2,2,1
+There is no white car being driven by the man,A white car is being driven by the man,2,standard,2,1,1
+The man is rock climbing,A man is cooking a snake,1,standard,2,2,1
+Dirt bikers are riding on a trail,Two people are not riding motorbikes,1,standard,2,0,1
+A person is slicing an onion,An onion is being sliced by a person,0,standard,0,2,1
+A dog is playing alone on a beach covered by snow,There is no dog walking along a snowdrift,1,standard,2,2,1
+A man and a woman are eating,A man and woman are talking,1,standard,1,1,1
+A man is tying a shoe,A man is tying the shoe,0,standard,0,2,1
+A man is cutting tomatoes,A man is slicing tomatoes,0,standard,0,2,1
+A woman is playing a flute,A woman is playing flute,0,standard,0,2,1
+A man is stopping a horse,The man is riding a horse,1,standard,2,2,1
+A group of people is sitting on both sides of a red stone structure,Some people are sitting on the ground outside a monument,1,standard,1,1,1
+The lady is measuring the ankle of another woman,A woman is being measured by another woman,0,standard,0,1,1
+Nobody is beating an egg,The woman is stirring eggs in a bowl,2,standard,2,2,1
+Children in swimming suits are not playing in the water,The kids are wearing bathing suits and water is splashing around,1,standard,2,1,0
+The boy is enthusiastically playing in the mud,The boy is playing in the mud,0,standard,0,1,1
+A dog with golden fur is in the water,A brown dog is calmly standing in the water,1,standard,1,1,1
+A bunch of boys are playing with a ball in front of a large door made of wood,The children are playing in front of a large door,0,standard,0,1,1
+A man is standing on a roof top and playing a violin,A man is standing on a roof,0,standard,0,1,1
+A magic trick is being performed by the magician,The man is doing a magic trick,0,standard,1,1,0
+There is no man patting an alligator on the mouth,A man is patting an alligator on the mouth,2,standard,2,2,1
+A person is riding a horse,There is no woman slicing potatoes,1,standard,2,2,1
+A panda bear is eating some bamboo,The panda is not eating bamboo,2,standard,2,0,1
+The man is racing for the lead ,A man is leading the race,1,standard,0,1,1
+A black and white dog is playing with a tattered volleyball in a brown field,A black and white dog is playing with a broken volleyball,0,standard,1,2,1
+Two people in two chairs are talking,Two people in two chairs are reading,1,standard,2,1,1
+There is no person pouring olive oil into a pot on the stove,A person is pouring cooking oil into a pot,1,standard,2,2,1
+A small girl is riding in a toy car,The small girl is riding in the toy car,0,standard,0,2,1
+A person is frying meat in a pan,A person is frying food in a pan,0,standard,0,2,1
+Two kids and a man are playing games at an arcade,Two kids and a woman are playing games at an arcade,1,standard,2,2,2
+A tennis player with a green headband is hitting the ball,A tennis player with a green headband is missing the ball,2,standard,2,1,1
+The man is eating cereal,There is no man eating a bowl of cereal,2,standard,2,2,1
+A woman is riding on an elephant,A soda is being opened and drunk by a woman,1,standard,2,2,1
+The man is playing the guitar,The man is playing the instrument,0,standard,0,1,1
+A group of five young adults are lounging in the room,A small group of people are standing and two are sitting on the couch,1,standard,2,2,1
+Two dogs are playing by a tree,A dog is catching a stick in the air and another is watching,1,standard,1,1,1
+A young oriental girl is standing above the crowd and is playing with a pinwheel,A young oriental girl is standing above people and is playing with a pinwheel,0,standard,0,1,1
+A dog is chasing the tail of an animal in the grass,The tail of an animal is being chasing by a dog in the grass,0,standard,0,2,1
+The man is cutting the tape on the box,A man is cutting the tape on the box,0,standard,0,2,1
+A woman is looking curiously at a man,"A man and a woman are in a beige room, wearing dark colored shirts and a monitor is in the background",1,standard,1,1,1
+A person in biking gear is standing steadily in front of some mountains ,The mountain gear is steadily placed in front of the standing biker,1,standard,0,1,1
+The lady is peeling the potato,The potato is being peeled by the lady,0,standard,0,2,1
+Men are sawing logs,There are no men sawing,2,standard,2,2,1
+A man is dancing,There is no man dancing,2,standard,2,2,1
+A man in a cap is playing a harp,A man in a hat is playing a harp,0,standard,0,2,1
+A man is drawing on a digital dry erase board,A person is drawing some figures,1,standard,1,1,1
+A large dog and a small dog are standing next to the kitchen counter and are investigating,A large dog and a small dog is standing on the kitchen counter and investigate,0,standard,0,1,1
+A girl is standing in a group and is wearing a black shirt and pink beads,A girl has black and orange patches on the cheeks,1,standard,1,1,1
+The woman is picking up the kangaroo,A man is standing on the top of a roof and playing a violin,1,standard,2,2,1
+The girl with a helmet is perching on a bike,A woman is performing a trick on a ramp with a bicycle,1,standard,1,1,1
+Different teams are playing football on a field,Different football players are teaming on a field,0,standard,0,1,1
+A man is being roped before a climb,A man is climbing a rope,1,standard,1,1,1
+A man and a woman are shaking hands,Two persons are shaking hands,0,standard,0,1,1
+Some women are holding each other in a circle and dancing,Two men are playing table tennis,1,standard,2,2,1
+A man is slicing a tomato,There is no man slicing a tomato,2,standard,2,2,1
+A group of people is on a beach,A group of people is near the sea,0,standard,0,0,1
+An electronic man is held as a device,A man is holding up an electronic device,1,standard,0,1,0
+A man is removing the peel of an onion,A man is peeling an onion,0,standard,0,2,1
+The cats are not playing with each other,Two cats are fighting each other,1,standard,2,2,0
+There is no man holding a sign and seeking money,A bearded man is standing by a shopping cart and is holding a cardboard sign,1,standard,2,1,0
+A man is playing the drums,A man is playing the guitar,1,standard,2,1,1
+A group of people is sitting on both sides of a red stone structure,A group of people is standing on both sides of a red stone structure,1,standard,2,1,1
+Two men with bikes are on the side of a snowy road,Two men with cars are on the side of a snowy road,1,standard,2,2,1
+There is no woman cooking a breaded pork chop,The woman is frying a breaded pork chop,2,standard,2,2,1
+A group of racing dogs is wearing striped uniforms and is running down a track,There is no group of racing dogs wearing striped uniforms and running down a track,2,standard,2,2,1
+A dog is jumping high into the air in the country,A dog is jumping on a trees in the shades,1,standard,1,2,1
+Sign language is being used by a young girl,A girl is communicating with sign language,0,standard,0,1,1
+Some pieces of butter are being added to the stand mixer,A man is cutting pieces of butter into a mixing bowl,1,standard,2,2,1
+"A brown and white dog is jumping over a red, yellow and white hurdle",A large brown cat is jumping over a red hurdle,1,standard,2,2,1
+Two people are playing ping pong,A few animals are playing in the water,1,standard,2,2,1
+A group of scouts are hiking through the grass,Some people are walking,0,standard,0,1,1
+A group of five young adults are lounging in the room,A group of five young adults are lounging indoors,0,standard,0,1,1
+There is no adult in the amphitheater talking to a boy,"The man and the boy are standing at the bottom of the stairs, which are outdoors",1,standard,2,2,0
+A woman is putting away a carrot,A woman is slicing a carrot,1,standard,2,2,1
+A man without a shirt is posing with the arms spread next to a woman,A shirtless woman is posing with a girl who is hiking in a park,1,standard,2,1,1
+A lemur is eating,There is no lemur eating,2,standard,2,2,1
+A man is slicing onions,A man is cutting onions,0,standard,0,2,1
+A little girl is playing a grand piano on stage,A girl is playing the piano,0,standard,0,2,1
+A young girl in a blue leotard is jumping in the air,The young girl in blue is jumping in the air,0,standard,0,1,1
+A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of a man with grey hair,A young oriental girl is standing above people and is playing with a pinwheel,1,standard,2,1,1
+A girl is drawing a man,A man is drawing,1,standard,2,2,1
+A player is running with the ball,Two teams are competing in a football match,1,standard,1,1,1
+The man is carefully feeding a mouse to the snake,A snake is being fed a mouse by a man,0,standard,0,2,2
+A man is thinking,There is no man thinking,2,standard,2,2,0
+There is no woman cleaning a shrimp,Someone is cleaning an animal,1,standard,0,1,1
+A woman is slicing butter,A man is slicing butter,1,standard,2,2,1
+Two dogs are playing together on the grass,A big dog and a small dog with a white coat are playing together,1,standard,1,1,1
+"A dog, which is large and gray, is carrying a ball in its mouth and running across the grass",There is no large dog running on the grass with a tennis ball in its mouth,1,standard,2,0,1
+The person is not standing on white ice,The person is standing on white ice,2,standard,2,1,0
+There is no snowboarder jumping off the snow,The snowboarder is jumping off a snow covered hill,2,standard,2,1,1
+A dog is running on concrete and is holding a blue ball,A dog is running on concrete and is holding a ball,0,standard,0,2,1
+The plane is landing,A plane is landing,0,standard,0,2,1
+A man is buttering a piece of bread,A man is buttering a slice of bread,0,standard,0,2,1
+A man and two women in a darkened room are sitting at a table with candles,The group of people is not sitting in a dim room,2,standard,2,0,1
+A potato is being sliced by a person,A person is playing a piano,1,standard,2,2,1
+The man is setting up the camera and taking sunset pictures at the beach,The man is putting away the camera and walks away from the beach,2,standard,2,1,1
+A man is playing a large flute,A large flute is being played by a man,0,standard,0,2,1
+A child is watching someone playing outdoors and is spouting water over the rest of his family ,A child is playing with a water spout outdoors and the rest of his family is watching,1,standard,0,1,1
+Little boys are playing in a water fountain in front of lots of people,Children are playing in a fountain that is spraying water from the ground,1,standard,1,1,1
+Some liquid is being poured into a pan by a man,A man is pouring liquid into a pot,0,standard,2,2,1
+Someone is not stirring chili in a kettle,Someone is stirring chili in a kettle,2,standard,2,1,1
+A woman in blue jeans is standing in front of a group of children beside a house made of stone,A woman in blue jeans is standing in front of a group of children beside a stone built house,0,standard,0,1,1
+A man is standing at the wheel of a classic American car that has its door and trunk open,A woman is standing at the wheel of a classic American car that has its door and trunk open,1,standard,2,2,1
+A man is standing on a dirt hill next to a black jeep,A man in a hat is standing outside of a green vehicle,1,standard,2,1,1
+A woman is standing and isn't looking at the waterfall,The man in a grey t-shirt is sitting on a rock in front of the waterfall,1,standard,2,1,0
+A man is putting down the flute,A man is playing a flute,1,standard,0,2,1
+A man is shooting guns,A woman is not riding a horse,1,standard,0,0,1
+A man is fitting a silencer to a pistol,There is no man fixing a silencer to a gun,2,standard,2,2,1
+Several people are walking in line across a bridge,Several people are not walking in line across a bridge,2,standard,2,0,1
+A woman is cutting butter,A woman is slicing butter,0,standard,0,2,1
+The potato is being peeled by a woman,One woman is peeling a potato,0,standard,0,2,1
+A dog with a blue collar is playing with the ball in the garden,A dog with a blue collar is playing with the ball outside,0,standard,0,1,1
+A group of people is gathering at a stand at the fair,The people are running at a carnival,1,standard,2,1,1
+A dog is far from the red ball in the air,"A dog, which is small, is playing on the green grass",1,standard,1,2,0
+Two people in two chairs are reading pleasantly,Two people in two chairs are reading,0,standard,0,1,1
+A young girl in a blue leotard is jumping in the air,A young girl in blue is jumping in the air,0,standard,0,1,1
+A woman is dancing,A man is puking,1,standard,2,2,1
+A man and woman are talking,A man and a woman are silent,2,standard,2,1,0
+The snowboarder is leaping over white snow,A leap over white snow is greatly appealing to the snowboarders,1,standard,1,1,1
+There is no person cutting some ginger,A person is slicing an onion,1,standard,2,2,1
+A man is standing on the top of the rocks with clouds behind them,One man is standing on the top of the rocks with clouds behind them,0,standard,0,1,1
+The brown dog is not sniffing the back of a small black dog,A large brown dog and a small grey dog are standing on a rocky surface,1,standard,2,1,1
+A person is strongly whisking eggs in a bowl,A person is removing eggs from a bowl,1,standard,2,2,1
+A woman is adding ingredients to a big bowl,A woman is adding ingredients to a bowl,0,standard,0,1,1
+A little girl and a woman wearing a yellow shirt are getting splashed by a city fountain,The young girl is playing on the edge of a fountain and an older woman is watching her,1,standard,1,1,1
+A girl in a black hat is wearing a bikini at the beach,A black girl with no bikini is wearing a hat at the beach,1,standard,2,1,1
+The military officer is barking at the recruits,An officer is talking to the soldiers,0,standard,0,1,1
+A man in full gear is wearing a helmet with sponsor logos and is riding a red sport motorcycle,A person in a motocross uniform is wearing a helmet and rides a red motorcycle,1,standard,0,1,1
+Two people are passionately kissing near a crowd,A woman is being kissed by a man,1,standard,1,2,1
+The bike is being ridden by a girl in a strange outfit,A woman is wearing paint and costume pieces and is riding a bike on a busy street,1,standard,1,2,1
+A distant person with a blue backpack is hiking in rocky area,A distant person with a blue backpack is hiking area full of rocks,0,standard,0,1,1
+A racer in full gear is wearing a helmet with sponsor logos and is riding a red sport motorcycle,A person in a motocross uniform is wearing a helmet and rides a red motorcycle,1,standard,0,1,1
+A man is pouring a plate of shredded cheese into a pot of sauce,The woman is adding cheese to the sauce,1,standard,2,2,1
+A group of people is on a beach,A group of people is on a mountain,1,standard,2,1,1
+Five people are running with three dogs in the green field beside the road,Five people are standing with three dogs in the green field beside the road,1,standard,2,2,1
+A group of people is equipped with unprotective gear,A person in biking gear is standing steadily in front of some mountains ,1,standard,2,1,0
+A woman is coating a pork chop,A cook is coating a pork chop,0,standard,1,2,1
+One man is talking to a girl with an internet camera,The teens are talking to a boy and a girl with a webcam,1,standard,2,1,1
+A woman in a bikini is pulling a dog on a leash at the beach,A woman in a bikini is pulling a cat on a leash at the beach,1,standard,2,2,1
+The motocross rider is wearing blue and black pants,Blue and black pants are being worn by the motocross rider,0,standard,0,1,1
+The girl is wearing an orange shirt and a striped tie,A girl is wearing an orange shirt and a striped tie,0,standard,0,1,1
+The man is singing heartily and playing the guitar,The man is singing and playing the guitar,0,standard,0,1,1
+The man is playing a game on a lawn,The man is playing a game on the grass,0,standard,0,1,1
+"A dog, which is white, is standing on fallen leaves",A white dog is standing on fallen leaves,0,standard,0,1,1
+A large dog is running on the grass with a tennis ball in its mouth,"A dog, which is large and gray, is difficultly carrying a ball in its mouth and running across the grass",1,standard,1,2,1
+The white dogs are looking curiously at the black llama,A black sheep is standing near three white dogs,1,standard,2,2,1
+Some horses are racing furiously over the green grass and jumping an obstacle,"The Jockeys are slowing down their horses on the field, which is completely green",1,standard,2,2,1
+One man is doing a bicycle trick in midair,The cyclist isn't performing a trick in the air,1,standard,2,0,1
+A child in a green and white uniform for sports is running over the grass,A little boy is wearing a green soccer strip and is running on the grass,1,standard,1,1,1
+A small black and white dog is carrying a stick and is swimming,A big black and white dog is carrying a stick and is swimming,1,standard,2,2,1
+A little girl in a pink shirt is playing t-ball and taking a swing,A girl is hitting a little tee with a baseball,1,standard,1,2,1
+The muscular black man is dancing and the man behind him is wearing green beads,The muscular white man is dancing and the man behind him is wearing green beads,1,standard,2,1,1
+The lady is cracking an egg into a bowl,The lady is cracking an egg into a dish,0,standard,0,2,1
+Some cheerleaders are taking a break,Some cheerleaders are relaxing,0,standard,0,1,1
+A girl in gold and purple is holding a rainbow afghan,A girl is carrying a lot of colorful scarves on the beach,1,standard,2,2,1
+The little boy is singing and playing the guitar,A guitar is being played by a baby,1,standard,1,2,1
+The person is peeling an onion,A person is peeling an onion,0,standard,0,2,2
+A man is shaking a container over a sink in the kitchen,There is no man shaking a container over a sink in the kitchen,2,standard,2,2,1
+A group of people is standing together and looking at the camera,There is no group of people standing together and looking at the camera,2,standard,2,2,0
+The snowboarder is jumping off a snow covered hill,The snowboarder is jumping off a snowy hill,0,standard,0,1,1
+A man is racing,A man is running,1,standard,0,1,1
+The woman is stirring eggs in a bowl,The lady is stirring eggs in a bowl,0,standard,0,2,1
+A dog is chasing a ball in the grass,A dog is losing a ball on the grass,1,standard,1,1,0
+A machine is sharpening a knife,The machine is shaving the end of a pencil,1,standard,2,2,1
+A person is riding a bike,"A person who rides bikes, in a black and red uniform, is standing on a dirt bike",1,standard,1,1,1
+An onion is being sliced by a man,An onion is being cut by a man,0,standard,0,2,1
+A man is singing and playing the guitar,A man is singing a song and playing the guitar,0,standard,0,1,1
+A red dog is jumping and catching a tennis ball in its mouth,A dog with a tan coat is jumping up and catching a tennis ball,1,standard,2,1,1
+Two kids are sitting on colorful balls,The children are wearing black tights and hopping,1,standard,2,1,1
+A father is pulling his daughter on a go-kart and another girl is looking away,Two small children are playing with a toy car in the street,1,standard,2,2,1
+Two brown dogs are playing with a frisbee in the water,Two brown dogs are leaving a frisbee in the water,1,standard,1,1,1
+There is no man playing a guitar,A man is playing a guitar,2,standard,2,1,1
+The man is standing steadily next to a birdcage,The man is standing next to a bird cage,0,standard,0,1,1
+No people is sitting around a fire at night,People are clustered around a bonfire at night,2,standard,2,1,1
+The man is dancing,Three women are standing still,1,standard,2,2,1
+A shirtless man is posing with a girl who is hiking in a park,A man without a shirt is posing with the arms spread near a woman,0,standard,0,1,1
+Nobody is on a motorcycle and is standing on the seat,Someone is on a black and white motorcycle and is standing on the seat,2,standard,2,1,1
+"A child, who is young, is riding a bike on a rough dirt path",A young child is riding a bike on a rough dirt path,0,standard,0,2,0
+A hiker is on top of the mountain and is dancing,A man is on a rock high above some trees and is standing in an uncomfortable position,1,standard,2,1,2
+Three men are lying on a hill and looking at the mountains and sky,Three hikers are sitting on a mountainside and looking at the view with a pair of binoculars,1,standard,1,1,1
+A big dog and a small white dog are playing together,Two construction workers are sitting up on the top of a building,1,standard,2,1,1
+Two young women are not sparring in a kickboxing fight,Two women are sparring in a kickboxing match,1,standard,2,2,1
+A man is chopping butter into a container,A prawn is being cut by a woman,1,standard,2,2,1
+A brown and white dog is playing on the grass,A brown and white dog is playing on the lawn,0,standard,0,1,1
+A woman is painting a man's face,A woman is cleaning a man's face,1,standard,2,2,2
+A woman in a bikini is pulling a dog on a leash at the beach,A woman is standing at the beach with an animal on a leash,1,standard,0,1,1
+A brown and white dog is running through the river,An animal is emerging from a lake,1,standard,1,2,1
+Two men are competing in a tire rolling race,Two women are competing in a tire rolling race,1,standard,2,1,1
+A man is slicing a red tomato,A woman is slicing a tomato,1,standard,2,2,1
+The men are fist fighting in a ring,Two people are fist fighting in a ring,0,standard,0,2,1
+A young woman is playing the guitar,A man is preparing some dish,1,standard,2,1,1
+Three boys are rocking the walk along the river,The men in brown shorts are walking on the rocks beside a river,1,standard,1,1,1
+Two race cars are on a road in front of a grassy parking area,Two cars for racing are on a road in front of a grassy parking area,0,standard,0,1,1
+An elderly woman is sitting on a bench and is wearing a gray jacket and black pants,An elderly man is sitting on a bench,1,standard,2,1,1
+A man is walking down a road,The man is walking along a path through the wilderness,1,standard,2,1,1
+A shoeless woman is sitting on a blanket under a lavender umbrella,The man is sitting outside under a purple umbrella,1,standard,2,1,1
+A man doing a pose is being watched by another man,"A man in a shirt dyed purple is walking away from a man in a black shirt, who is serious",1,standard,2,2,0
+A small monkey is walking in the river,A monkey is wading through a marsh,1,standard,2,2,1
+A cat is playing keyboards,A cat song is being played on a piano,1,standard,1,2,2
+Some dogs are playing in a stream,Two dogs are looking at something that is moving in the water,1,standard,1,1,1
+"Two men are doing a skit, which is very funny, with a boxer in front of a crowd of people",A rabbit is playing with a toy rabbit,1,standard,2,2,2
+A white dog is leaping from a cylindrical hay bale,A black dog is leaping from a cylindrical hay bale,1,standard,2,1,1
+The snowboarder is jumping off the snow,A snowboarder is jumping off the snow,0,standard,0,2,1
+Three boys are jumping off a platform,A boy is jumping off a platform and two other boys are standing and staring at him,1,standard,1,1,1
+There is no woman dancing near a fire,A woman is cutting a tomato,1,standard,2,2,1
+There is no woman slicing a carrot,The oriental lady is cutting a carrot into thin pieces,2,standard,2,2,1
+A man is rinsing a large steak,A person is rinsing a steak with water,1,standard,1,2,1
+A few children are jumping on a trampoline,Some children are jumping on a trampoline,0,standard,0,1,1
+A badger is shrewdly digging the earth,The badger is burrowing a hole,0,standard,0,2,1
+A man and a woman are walking together through the woods,A man and a woman are walking through a desert area,1,standard,2,2,1
+A woman is brushing her feet,A woman is chopping an onion,1,standard,2,2,1
+A woman is slicing an eggplant,There is no woman cutting a vegetable,2,standard,2,2,1
+There is no man eating a bowl of cereal,A man is eating a bowl of cereal,2,standard,2,2,1
+Two girls are playing inside a jumper house,A child in light colored clothing is standing with his arms extended outward,1,standard,2,0,1
