@@ -7,6 +7,8 @@ MODELS = {
     "distilroberta": "cross-encoder/nli-distilroberta-base",
     "distilbert": "typeform/distilbert-base-uncased-mnli",
     "mdeberta": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
+    "bart": "facebook/bart-large-mnli",
+    "flan-t5": "google/flan-t5-small",
     "piri_distilroberta": "./piri_model_distilroberta" # Custom model
 }
 

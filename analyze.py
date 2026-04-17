@@ -1,7 +1,95 @@
+import numpy as np
+import pandas as pd
+import scipy.stats as st
+from sklearn.metrics import f1_score
 import re
 import pandas as pd
 from sklearn.metrics import confusion_matrix
 import os
+
+def mean_confidence_interval(data, confidence=0.95):
+    """Calculates the mean and 95% CI for a list of numbers."""
+    a = 1.0 * np.array(data)
+    n = len(a)
+    m, se = np.mean(a), st.sem(a)
+    h = se * st.t.ppf((1 + confidence) / 2., n-1)
+    return m, h # Returns Mean and Margin of Error (CI = Mean +/- h)
+
+def calculate_entropy(probs_list):
+    """Calculates the average Shannon entropy of the probability distributions."""
+    entropies = []
+    for probs in probs_list:
+        p = np.array(probs)
+        p = p[p > 0] # Avoid log(0)
+        entropies.append(-np.sum(p * np.log2(p)))
+    return np.mean(entropies)
+
+def calculate_ece(preds, probs, true_labels, n_bins=10):
+    """Calculates Expected Calibration Error (ECE)."""
+    bin_boundaries = np.linspace(0, 1, n_bins + 1)
+    ece = 0.0
+    for i in range(n_bins):
+        bin_lower, bin_upper = bin_boundaries[i], bin_boundaries[i + 1]
+        confidences = np.max(probs, axis=1)
+        in_bin = np.where((confidences > bin_lower) & (confidences <= bin_upper))[0]
+        if len(in_bin) > 0:
+            bin_acc = np.mean(np.array(preds)[in_bin] == np.array(true_labels)[in_bin])
+            bin_conf = np.mean(confidences[in_bin])
+            ece += np.abs(bin_acc - bin_conf) * (len(in_bin) / len(preds))
+    return ece
+
+def process_results_file(csv_path):
+    """Processes a multi-seed results CSV to compute statistical and probabilistic metrics."""
+    df = pd.read_csv(csv_path)
+    
+    seeds = df['seed'].unique()
+    acc_full_seeds, acc_hyp_seeds = [], []
+    
+    # 1. Calculate accuracy per seed for statistical rigor
+    for s in seeds:
+        df_seed = df[df['seed'] == s]
+        acc_full_seeds.append((df_seed['pred_full'] == df_seed['gold_label']).mean())
+        acc_hyp_seeds.append((df_seed['pred_hyp_only'] == df_seed['gold_label']).mean())
+    
+    # Calculate Mean and 95% CI
+    acc_full_mean, acc_full_ci = mean_confidence_interval(acc_full_seeds)
+    acc_hyp_mean, acc_hyp_ci = mean_confidence_interval(acc_hyp_seeds)
+    
+    # 2. Alternative Bias Metrics (Requested by Professor)
+    piri_hyp = 1 - (acc_hyp_mean / acc_full_mean) if acc_full_mean > 0 else 0
+    acc_gap = acc_full_mean - acc_hyp_mean
+    rel_error_inc = ((1 - acc_hyp_mean) - (1 - acc_full_mean)) / (1 - acc_full_mean) if acc_full_mean != 1 else 0
+    
+    # 3. Probabilistic & Class-Imbalance Metrics (Using the first seed for simplicity)
+    df_single = df[df['seed'] == seeds[0]]
+    y_true_single = df_single['gold_label'].tolist()
+    
+    # F1 Scores (Macro)
+    f1_full = f1_score(y_true_single, df_single['pred_full'].tolist(), average='macro')
+    f1_hyp = f1_score(y_true_single, df_single['pred_hyp_only'].tolist(), average='macro')
+    
+    # Entropy & Calibration
+    probs_full = df_single[['prob_full_ent', 'prob_full_neu', 'prob_full_con']].values
+    probs_hyp = df_single[['prob_hyp_ent', 'prob_hyp_neu', 'prob_hyp_con']].values
+    
+    entropy_full = calculate_entropy(probs_full)
+    entropy_hyp = calculate_entropy(probs_hyp)
+    
+    ece_full = calculate_ece(df_single['pred_full'].tolist(), probs_full, y_true_single)
+    ece_hyp = calculate_ece(df_single['pred_hyp_only'].tolist(), probs_hyp, y_true_single)
+    
+    # Return formatted dictionary
+    return {
+        'acc_full_mean': acc_full_mean, 'acc_full_ci': acc_full_ci,
+        'acc_hyp_mean': acc_hyp_mean, 'acc_hyp_ci': acc_hyp_ci,
+        'f1_full': f1_full, 'f1_hyp': f1_hyp,
+        'entropy_full': entropy_full, 'entropy_hyp': entropy_hyp,
+        'ece_full': ece_full, 'ece_hyp': ece_hyp,
+        'piri_hyp': piri_hyp,
+        'accuracy_gap': acc_gap,
+        'relative_error_inc': rel_error_inc
+    }
+
 
 def load_results(filepath="results/snli_roberta_results.csv"):
     """Loads the prediction CSV into a pandas DataFrame."""
@@ -281,6 +369,15 @@ def generate_summary_csv(output_path="results/summary.csv"):
     pd.DataFrame(summary_data).to_csv(output_path, index=False)
 
 if __name__ == "__main__":
+    # --- TEST THE NEW STATISTICAL METRICS ---
+    test_file = "results/snli_distilroberta_mask_results.csv"
+    if os.path.exists(test_file):
+        print("\n--- RIGOROUS STATISTICAL METRICS ---")
+        stats = process_results_file(test_file)
+        for key, value in stats.items():
+            print(f"{key:<20}: {value:.4f}")
+        print("-" * 35)
+    
     df = load_results()
     
     # Existing analysis

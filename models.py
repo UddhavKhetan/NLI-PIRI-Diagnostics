@@ -1,5 +1,6 @@
 import torch
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
+import torch.nn.functional as F
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, AutoModelForSeq2SeqLM
 from config import MODELS
 
 class NLIModel:
@@ -24,24 +25,27 @@ class NLIModel:
             self._model_to_snli_map = {0: 0, 1: 1, 2: 2}
 
     def predict(self, premise, hypothesis):
-        """
-        Runs inference on a premise-hypothesis pair and returns the SNLI-formatted prediction.
-        """
-        inputs = self.tokenizer(
-            premise, 
-            hypothesis, 
-            return_tensors="pt", 
-            truncation=True
-        )
+        
+        encodings = self.tokenizer(
+            premise, hypothesis, padding=True, truncation=True, return_tensors="pt"
+        ).to(self.model.device)
         
         with torch.no_grad():
-            logits = self.model(**inputs).logits
+            outputs = self.model(**encodings)
+            logits = outputs.logits
+            probs = F.softmax(logits, dim=-1).squeeze(0).cpu().numpy()
+            pred = torch.argmax(logits, dim=1).item()
             
-        pred_id = torch.argmax(logits, dim=-1).item()
-        
-        # Return the standardized label
-        return self._model_to_snli_map[pred_id]
-    # Add this inside the NLIModel class
+            # Map prediction to uniform schema
+            mapped_pred = self._model_to_snli_map.get(pred, pred)
+            
+            # Map probabilities to uniform schema (0: Entailment, 1: Neutral, 2: Contradiction)
+            mapped_probs = [0.0, 0.0, 0.0]
+            for orig_idx, mapped_idx in self._model_to_snli_map.items():
+                mapped_probs[mapped_idx] = float(probs[orig_idx])
+                
+        return mapped_pred, mapped_probs
+
     def predict_with_attention(self, premise, hypothesis):
         """Exploratory heuristic: returns mapped prediction, tokens, and CLS attention weights."""
         import torch
@@ -71,14 +75,55 @@ class NLIModel:
         
         return mapped_pred, tokens, cls_attention
 
-def get_model(model_key):
-    """Router function to initialize a model based on string key."""
-    model_key = model_key.lower()
-    if model_key not in MODELS:
-        raise ValueError(f"Unknown model key: {model_key}. Available: {list(MODELS.keys())}")
+
+class GenerativeNLIModel:
+    def __init__(self, model_name):
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "mps" if torch.backends.mps.is_available() else "cpu")
+        self.tokenizer = AutoTokenizer.from_pretrained(model_name)
+        self.model = AutoModelForSeq2SeqLM.from_pretrained(model_name).to(self.device)
+        self.model.eval()
         
-    model_path = MODELS[model_key]
-    return NLIModel(model_name=model_path)
+        # Token IDs for 'yes' (entailment), 'maybe' (neutral), 'no' (contradiction)
+        self.target_ids = [
+            self.tokenizer.encode("yes", add_special_tokens=False)[0],
+            self.tokenizer.encode("maybe", add_special_tokens=False)[0],
+            self.tokenizer.encode("no", add_special_tokens=False)[0]
+        ]
+
+    def predict(self, premise, hypothesis):
+        # Instruction tuning prompt
+        prompt = f"Premise: {premise}\nHypothesis: {hypothesis}\nDoes the premise entail the hypothesis? Answer 'yes', 'maybe', or 'no'."
+        
+        inputs = self.tokenizer(prompt, return_tensors="pt").to(self.device)
+        
+        with torch.no_grad():
+            # Get logits for the very first generated token
+            outputs = self.model.generate(**inputs, max_new_tokens=1, return_dict_in_generate=True, output_scores=True)
+            first_token_logits = outputs.scores[0][0]
+            
+            # Isolate probabilities for our 3 target words
+            target_logits = torch.tensor([first_token_logits[tid] for tid in self.target_ids])
+            probs = F.softmax(target_logits, dim=0).cpu().numpy()
+            
+            pred_idx = torch.argmax(target_logits).item()
+            
+        # Returns 0 (Entailment), 1 (Neutral), or 2 (Contradiction) along with probabilities
+        return pred_idx, [float(probs[0]), float(probs[1]), float(probs[2])]
+
+def get_model(model_key):
+    model_name = MODELS.get(model_key)
+    
+    if "flan-t5" in model_key:
+        return GenerativeNLIModel(model_name)
+    else:
+        # Keep your existing NLIModel instantiation
+        model = NLIModel(model_name)
+        # Add BART label mapping mapping if needed. 
+        # facebook/bart-large-mnli uses: 0: contradiction, 1: neutral, 2: entailment
+        if "bart" in model_key:
+            model._model_to_snli_map = {0: 2, 1: 1, 2: 0} 
+        return model
+
 
 if __name__ == "__main__":
     # Self-test with a newer generation DeBERTa model
