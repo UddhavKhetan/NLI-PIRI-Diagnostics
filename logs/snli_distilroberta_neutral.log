@@ -1,0 +1,30 @@
+
+Evaluating: DISTILROBERTA on SNLI with ablation 'neutral'...
+Loading model and tokenizer: 'cross-encoder/nli-distilroberta-base'...
+Loading weights:   0%|          | 0/105 [00:00<?, ?it/s]Loading weights: 100%|██████████| 105/105 [00:00<00:00, 10714.33it/s]
+[1mRobertaForSequenceClassification LOAD REPORT[0m from: cross-encoder/nli-distilroberta-base
+Key                             | Status     |  | 
+--------------------------------+------------+--+-
+roberta.embeddings.position_ids | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+'[Errno 8] nodename nor servname provided, or not known' thrown while requesting HEAD https://huggingface.co/datasets/snli/resolve/cdb5c3d5eed6ead6e5a341c8e56e669bb666725b/snli.py
+Retrying in 1s [Retry 1/5].
+Using the latest cached version of the dataset since snli couldn't be found on the Hugging Face Hub
+Found the latest cached dataset configuration 'plain_text' at /Users/uddhavkhetan/.cache/huggingface/datasets/snli/plain_text/0.0.0/cdb5c3d5eed6ead6e5a341c8e56e669bb666725b (last modified on Sat Apr 18 22:16:29 2026).
+'[Errno 8] nodename nor servname provided, or not known' thrown while requesting HEAD https://huggingface.co/datasets/snli/resolve/cdb5c3d5eed6ead6e5a341c8e56e669bb666725b/snli.py
+Retrying in 1s [Retry 1/5].
+Using the latest cached version of the dataset since snli couldn't be found on the Hugging Face Hub
+Found the latest cached dataset configuration 'plain_text' at /Users/uddhavkhetan/.cache/huggingface/datasets/snli/plain_text/0.0.0/cdb5c3d5eed6ead6e5a341c8e56e669bb666725b (last modified on Sat Apr 18 22:16:29 2026).
+  Running seed 42...
+Loading SNLI validation split (sample size: 500, seed: 42)...
+  Running seed 43...
+Loading SNLI validation split (sample size: 500, seed: 43)...
+  Running seed 44...
+Loading SNLI validation split (sample size: 500, seed: 44)...
+Saved multi-seed logs to: results/snli_distilroberta_neutral_results.csv
+
+Generating system summary -> results/summary.csv
+
+Diagnostics complete!
