@@ -31,34 +31,38 @@ def evaluate_combination(model_key, dataset_key, sample_size=1000, seeds=[42, 43
         print(f"  Running seed {seed}...")
         dataset = get_dataset(dataset_key, sample_size=sample_size, seed=seed)
         
-        for example in dataset:
-            premise = example['premise']
-            hypothesis = example['hypothesis']
-            label = example['label']
-            heuristic = example.get('heuristic', 'standard')
-            
-            # Full Input
-            pred_full, probs_full = model.predict(premise, hypothesis)
-            
-            # Hypothesis-Only (Ablate Premise)
-            pred_hyp, probs_hyp = model.predict(ablated_string, hypothesis)
-            
-            # Premise-Only (Ablate Hypothesis)
-            pred_prem, probs_prem = model.predict(premise, ablated_string)
-            
+        # Unpack the entire dataset into lists
+        premises = [ex['premise'] for ex in dataset]
+        hypotheses = [ex['hypothesis'] for ex in dataset]
+        labels = [ex['label'] for ex in dataset]
+        heuristics = [ex.get('heuristic', 'standard') for ex in dataset]
+        
+        # Create full arrays of ablated text
+        ablated_list = [ablated_string] * len(premises)
+        
+        # --- BATCH INFERENCE ---
+        # 1. Full Input
+        preds_full, probs_full = model.predict_batch(premises, hypotheses)
+        # 2. Hypothesis-Only
+        preds_hyp, probs_hyp = model.predict_batch(ablated_list, hypotheses)
+        # 3. Premise-Only
+        preds_prem, probs_prem = model.predict_batch(premises, ablated_list)
+        
+        # Reconstruct the results log
+        for i in range(len(premises)):
             all_results.append({
                 'seed': seed,
                 'ablation_strategy': ablation_strategy,
-                'premise': premise,
-                'hypothesis': hypothesis,
-                'gold_label': label,
-                'heuristic': heuristic,
-                'pred_full': pred_full,
-                'prob_full_ent': probs_full[0], 'prob_full_neu': probs_full[1], 'prob_full_con': probs_full[2],
-                'pred_hyp_only': pred_hyp,
-                'prob_hyp_ent': probs_hyp[0], 'prob_hyp_neu': probs_hyp[1], 'prob_hyp_con': probs_hyp[2],
-                'pred_prem_only': pred_prem,
-                'prob_prem_ent': probs_prem[0], 'prob_prem_neu': probs_prem[1], 'prob_prem_con': probs_prem[2],
+                'premise': premises[i],
+                'hypothesis': hypotheses[i],
+                'gold_label': labels[i],
+                'heuristic': heuristics[i],
+                'pred_full': preds_full[i],
+                'prob_full_ent': probs_full[i][0], 'prob_full_neu': probs_full[i][1], 'prob_full_con': probs_full[i][2],
+                'pred_hyp_only': preds_hyp[i],
+                'prob_hyp_ent': probs_hyp[i][0], 'prob_hyp_neu': probs_hyp[i][1], 'prob_hyp_con': probs_hyp[i][2],
+                'pred_prem_only': preds_prem[i],
+                'prob_prem_ent': probs_prem[i][0], 'prob_prem_neu': probs_prem[i][1], 'prob_prem_con': probs_prem[i][2],
             })
 
     # Save aggregated multi-seed log

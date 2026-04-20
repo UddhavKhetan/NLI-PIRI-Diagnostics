@@ -18,7 +18,7 @@ KeyboardInterrupt
 During handling of the above exception, another exception occurred:
 
 Traceback (most recent call last):
-  File "/Users/uddhavkhetan/Documents/Research Papers/Partial Input Dependence in NLI/nli_capstone/run_diagnostics.py", line 101, in <module>
+  File "/Users/uddhavkhetan/Documents/Research Papers/Partial Input Dependence in NLI/nli_capstone/run_diagnostics.py", line 105, in <module>
     evaluate_combination(
     ~~~~~~~~~~~~~~~~~~~~^
         model_key=m,
@@ -30,17 +30,11 @@ Traceback (most recent call last):
     ^
   File "/Users/uddhavkhetan/Documents/Research Papers/Partial Input Dependence in NLI/nli_capstone/run_diagnostics.py", line 25, in evaluate_combination
     model = get_model(model_key)
-  File "/Users/uddhavkhetan/Documents/Research Papers/Partial Input Dependence in NLI/nli_capstone/models.py", line 120, in get_model
+  File "/Users/uddhavkhetan/Documents/Research Papers/Partial Input Dependence in NLI/nli_capstone/models.py", line 111, in get_model
     model = NLIModel(model_name)
-  File "/Users/uddhavkhetan/Documents/Research Papers/Partial Input Dependence in NLI/nli_capstone/models.py", line 12, in __init__
-    self.model = AutoModelForSequenceClassification.from_pretrained(
-                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
-        model_name,
-        ^^^^^^^^^^^
-        attn_implementation="eager"
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
+  File "/Users/uddhavkhetan/Documents/Research Papers/Partial Input Dependence in NLI/nli_capstone/models.py", line 13, in __init__
+    self.model = AutoModelForSequenceClassification.from_pretrained(model_name).to(self.device)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
   File "/Users/uddhavkhetan/Documents/Research Papers/Partial Input Dependence in NLI/nli_capstone/nli_env/lib/python3.14/site-packages/transformers/models/auto/auto_factory.py", line 387, in from_pretrained
     return model_class.from_pretrained(
            ~~~~~~~~~~~~~~~~~~~~~~~~~~~^

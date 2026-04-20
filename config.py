@@ -9,7 +9,7 @@ MODELS = {
     "mdeberta": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
     "bart": "facebook/bart-large-mnli",
     "flan-t5": "google/flan-t5-small",
-    "piri_distilroberta": "./piri_model_distilroberta" # Custom model
+    "piri_distilroberta": "./piri_model_a10" # Custom model
 }
 
 # Define datasets and their default behaviors
