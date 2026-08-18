@@ -93,3 +93,9 @@ streamlit run dashboard.py
 The Streamlit dashboard includes a **Live Inference** tab. By forcing Hugging Face's `attn_implementation="eager"`, the system extracts final-layer `[CLS]` token attention weights and renders a dynamic HTML heatmap over the text. This allows researchers to visually inspect which tokens the model relies on when making entailment decisions.
 
 ***
+
+## Running the Extended Evaluation Pipeline
+To evaluate a model across all triple-condition ablations, ensure your environment variables and config are set, then run:
+```bash
+# Example: Evaluate RoBERTa on SNLI using the 'mask' ablation strategy
+python evaluate.py --model roberta --dataset snli --strategy mask
